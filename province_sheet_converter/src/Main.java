@@ -1,9 +1,9 @@
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import subCode.CSVReader;
-import subCode.LandedTitle;
-import subCode.Localization;
+
+import subCode.*;
+import subCode.Noder;
 
 
 public class Main {
@@ -36,7 +36,8 @@ public class Main {
             switch (option)
             {
                 case 1:
-                    LandedTitle.LandedTitleBuilder(LineChuncks);
+                    TreeNode root = Noder.TreeNoder(LineChuncks);
+                    toText.toLandedTitles(root);
                     break;
                 case 3:
                     Localization.Local(LineChuncks);

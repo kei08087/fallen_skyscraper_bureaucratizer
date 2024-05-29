@@ -19,7 +19,7 @@ public class toText {
                     System.out.println(inst.name + ".txt is already exists.");
                 }
 
-                FileWriter writer = new FileWriter(target);
+                FileWriter writer = new FileWriter(target,false);
                 writer.write("@correct_culture_primary_score = 100\n" +
                         "@better_than_the_alternatives_score = 50\n" +
                         "@always_primary_score = 1000\n\n");

@@ -57,10 +57,10 @@ public class Localization {
                 System.out.println("fs_titles_l_english.yml is already exists.");
             }
 
-            FileWriter bKR = new FileWriter(baronKRF);
-            FileWriter bEN = new FileWriter(baronENF);
-            FileWriter tKR = new FileWriter(titleKRF);
-            FileWriter tEN = new FileWriter(titleENF);
+            FileWriter bKR = new FileWriter(baronKRF,false);
+            FileWriter bEN = new FileWriter(baronENF,false);
+            FileWriter tKR = new FileWriter(titleKRF,false);
+            FileWriter tEN = new FileWriter(titleENF,false);
 
             tKR.write("l_korean:\n");
             tEN.write("l_english:\n");
