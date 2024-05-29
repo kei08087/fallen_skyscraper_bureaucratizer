@@ -1,0 +1,466 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_sangju = {
+	color = {  }
+
+	capital = 
+
+	문경 = {
+		color = {  }
+
+		capital = 
+
+		용문 = {
+			color = {  }
+
+			capital = 
+
+			b_113 = {#yucheon
+				province = 113
+
+				color = { 1  111  185 }
+
+			}
+			b_1311 = {#hyoja
+				province = 1311
+
+				color = { 1  111  185 }
+
+			}
+			b_1314 = {#eunpung
+				province = 1314
+
+				color = { 1  111  185 }
+
+			}
+			b_1315 = {#yongmun
+				province = 1315
+
+				color = { 1  111  185 }
+
+			}
+		}
+		문경 = {
+			color = {  }
+
+			capital = 
+
+			b_154 = {#dongro
+				province = 154
+
+				color = { 127 27 79 }
+
+			}
+			b_1358 = {#mungyeong
+				province = 1358
+
+				color = { 127  27  79 }
+
+			}
+			b_1359 = {#sanbuk
+				province = 1359
+
+				color = { 127  27  79 }
+
+			}
+		}
+		용궁 = {
+			color = {  }
+
+			capital = 
+
+			b_161 = {#gaepo
+				province = 161
+
+				color = { 43 36 208 }
+
+			}
+			b_1317 = {#yonggung
+				province = 1317
+
+				color = { 43  36  208 }
+
+			}
+			b_1320 = {#pungyang
+				province = 1320
+
+				color = { 43  36  208 }
+
+			}
+			b_1321 = {#jibo
+				province = 1321
+
+				color = { 43  36  208 }
+
+			}
+		}
+		매성 = {
+			color = {  }
+
+			capital = 
+
+			b_1353 = {#nongam
+				province = 1353
+
+				color = { 1  18  205 }
+
+			}
+			b_1354 = {#gaeun
+				province = 1354
+
+				color = { 1  18  205 }
+
+			}
+			b_1355 = {#maseong
+				province = 1355
+
+				color = { 1  18  205 }
+
+			}
+		}
+		점촌 = {
+			color = {  }
+
+			capital = 
+
+			b_1356 = {#jeomchon
+				province = 1356
+
+				color = { 43  21  78 }
+
+			}
+			b_1357 = {#hogye
+				province = 1357
+
+				color = { 43  21  78 }
+
+			}
+			b_1360 = {#sanyang
+				province = 1360
+
+				color = { 43  21  78 }
+
+			}
+			b_1361 = {#yeongsun
+				province = 1361
+
+				color = { 43  21  78 }
+
+			}
+		}
+	}
+	상주 = {
+		color = {  }
+
+		capital = 
+
+		함창 = {
+			color = {  }
+
+			capital = 
+
+			b_153 = {#ian
+				province = 153
+
+				color = { 43 39 173 }
+
+			}
+			b_1289 = {#euncheok
+				province = 1289
+
+				color = { 43  39  173 }
+
+			}
+			b_1290 = {#gonggeom
+				province = 1290
+
+				color = { 43  39  173 }
+
+			}
+			b_1291 = {#hamchang
+				province = 1291
+
+				color = { 43  39  173 }
+
+			}
+		}
+		화령 = {
+			color = {  }
+
+			capital = 
+
+			b_1274 = {#hwabuk
+				province = 1274
+
+				color = { 85  210  166 }
+
+			}
+			b_1275 = {#hwanam
+				province = 1275
+
+				color = { 85  210  166 }
+
+			}
+			b_1276 = {#hwaseo
+				province = 1276
+
+				color = { 85  210  166 }
+
+			}
+			b_1277 = {#hwadong
+				province = 1277
+
+				color = { 85  210  166 }
+
+			}
+		}
+		공성 = {
+			color = {  }
+
+			capital = 
+
+			b_1278 = {#moseo
+				province = 1278
+
+				color = { 1  6  40 }
+
+			}
+			b_1279 = {#modong
+				province = 1279
+
+				color = { 1  6  40 }
+
+			}
+			b_1280 = {#gongseong
+				province = 1280
+
+				color = { 1  6  40 }
+
+			}
+		}
+		청리 = {
+			color = {  }
+
+			capital = 
+
+			b_1281 = {#naeseo
+				province = 1281
+
+				color = { 127  15  169 }
+
+			}
+			b_1282 = {#oenam
+				province = 1282
+
+				color = { 127  15  169 }
+
+			}
+			b_1283 = {#cheongri
+				province = 1283
+
+				color = { 127  15  169 }
+
+			}
+			b_1288 = {#oeseo
+				province = 1288
+
+				color = { 127  15  169 }
+
+			}
+		}
+		상주 = {
+			color = {  }
+
+			capital = 
+
+			b_1284 = {#sangju
+				province = 1284
+
+				color = { 169  18  42 }
+
+			}
+			b_1285 = {#nakdong
+				province = 1285
+
+				color = { 169  18  42 }
+
+			}
+			b_1286 = {#jungdong
+				province = 1286
+
+				color = { 169  18  42 }
+
+			}
+			b_1287 = {#sabeol
+				province = 1287
+
+				color = { 169  18  42 }
+
+			}
+		}
+	}
+	김천 = {
+		color = {  }
+
+		capital = 
+
+		서산 = {
+			color = {  }
+
+			capital = 
+
+			b_160 = {#dogae
+				province = 160
+
+				color = { 127 36 74 }
+
+			}
+		}
+		금릉 = {
+			color = {  }
+
+			capital = 
+
+			b_1110 = {#daedeok
+				province = 1110
+
+				color = { 169  147  57 }
+
+			}
+			b_1111 = {#jeungsan
+				province = 1111
+
+				color = { 169  147  57 }
+
+			}
+			b_1112 = {#buhang
+				province = 1112
+
+				color = { 169  147  57 }
+
+			}
+			b_1113 = {#jirye
+				province = 1113
+
+				color = { 169  147  57 }
+
+			}
+			b_1114 = {#guseong
+				province = 1114
+
+				color = { 169  147  57 }
+
+			}
+			b_1115 = {#joma
+				province = 1115
+
+				color = { 169  147  57 }
+
+			}
+		}
+		김천 = {
+			color = {  }
+
+			capital = 
+
+			b_1117 = {#bongsan
+				province = 1117
+
+				color = { 169  162  187 }
+
+			}
+			b_1119 = {#gimcheon
+				province = 1119
+
+				color = { 169  162  187 }
+
+			}
+			b_1120 = {#eomo
+				province = 1120
+
+				color = { 169  162  187 }
+
+			}
+			b_1121 = {#gammun
+				province = 1121
+
+				color = { 169  162  187 }
+
+			}
+			b_1122 = {#gaeryeong
+				province = 1122
+
+				color = { 169  162  187 }
+
+			}
+		}
+		감천 = {
+			color = {  }
+
+			capital = 
+
+			b_1118 = {#gamcheon
+				province = 1118
+
+				color = { 127  159  59 }
+
+			}
+			b_1123 = {#apo
+				province = 1123
+
+				color = { 127  159  59 }
+
+			}
+			b_1124 = {#nongso
+				province = 1124
+
+				color = { 127  159  59 }
+
+			}
+			b_1125 = {#nammyeon
+				province = 1125
+
+				color = { 127  159  59 }
+
+			}
+		}
+		선산 = {
+			color = {  }
+
+			capital = 
+
+			b_1146 = {#goa
+				province = 1146
+
+				color = { 127  36  74 }
+
+			}
+			b_1147 = {#haepyeong
+				province = 1147
+
+				color = { 127  36  74 }
+
+			}
+			b_1148 = {#seonsan
+				province = 1148
+
+				color = { 127  36  74 }
+
+			}
+			b_1149 = {#mueul
+				province = 1149
+
+				color = { 127  36  74 }
+
+			}
+			b_1150 = {#okseong
+				province = 1150
+
+				color = { 127  36  74 }
+
+			}
+		}
+	}
+}

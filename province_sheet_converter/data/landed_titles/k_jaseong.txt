@@ -1,0 +1,58 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_jaseong = {
+	color = {  }
+
+	capital = 
+
+	위원 = {
+		color = {  }
+
+		capital = 
+
+		위원 = {
+			color = {  }
+
+			capital = 
+
+			b_330 = {#seotae
+				province = 330
+
+				color = { 2 87 15 }
+
+			}
+		}
+	}
+	자성 = {
+		color = {  }
+
+		capital = 
+
+		자성 = {
+			color = {  }
+
+			capital = 
+
+			b_332 = {#jaseong
+				province = 332
+
+				color = { 84 144 66 }
+
+			}
+		}
+		후창 = {
+			color = {  }
+
+			capital = 
+
+			b_336 = {#dongsin
+				province = 336
+
+				color = { 2  177  30 }
+
+			}
+		}
+	}
+}

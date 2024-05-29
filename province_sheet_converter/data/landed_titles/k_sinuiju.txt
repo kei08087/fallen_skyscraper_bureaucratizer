@@ -1,0 +1,142 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_sinuiju = {
+	color = {  }
+
+	capital = 
+
+	박천 = {
+		color = {  }
+
+		capital = 
+
+		박천 = {
+			color = {  }
+
+			capital = 
+
+			b_314 = {#yonggye
+				province = 314
+
+				color = { 128  42  164 }
+
+			}
+		}
+		송구 = {
+			color = {  }
+
+			capital = 
+
+			b_324 = {#ansim
+				province = 324
+
+				color = { 86  129  51 }
+
+			}
+		}
+	}
+	정주 = {
+		color = {  }
+
+		capital = 
+
+		곽산 = {
+			color = {  }
+
+			capital = 
+
+			b_316 = {#anheung
+				province = 316
+
+				color = { 44 48 73 }
+
+			}
+		}
+	}
+	철산 = {
+		color = {  }
+
+		capital = 
+
+		심천 = {
+			color = {  }
+
+			capital = 
+
+			b_317 = {#simcheon
+				province = 317
+
+				color = { 84 99 186 }
+
+			}
+		}
+		가산 = {
+			color = {  }
+
+			capital = 
+
+			b_318 = {#seorim
+				province = 318
+
+				color = { 2 90 80 }
+
+			}
+		}
+	}
+	신의주 = {
+		color = {  }
+
+		capital = 
+
+		동당 = {
+			color = {  }
+
+			capital = 
+
+			b_319 = {#yulgok
+				province = 319
+
+				color = { 86 96 81 }
+
+			}
+		}
+		신의주 = {
+			color = {  }
+
+			capital = 
+
+			b_320 = {#sinuiju
+				province = 320
+
+				color = { 0  108  60 }
+
+			}
+			b_321 = {#wihwa
+				province = 321
+
+				color = { 44  3  193 }
+
+			}
+		}
+	}
+	구성 = {
+		color = {  }
+
+		capital = 
+
+		소관 = {
+			color = {  }
+
+			capital = 
+
+			b_322 = {#sogwan
+				province = 322
+
+				color = { 84  114  61 }
+
+			}
+		}
+	}
+}

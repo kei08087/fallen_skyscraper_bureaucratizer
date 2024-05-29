@@ -1,0 +1,106 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_hamheung = {
+	color = {  }
+
+	capital = 
+
+	함흥 = {
+		color = {  }
+
+		capital = 
+
+		흥남 = {
+			color = {  }
+
+			capital = 
+
+			b_339 = {#yeonpo
+				province = 339
+
+				color = { 42  171  198 }
+
+			}
+			b_341 = {#heungnam
+				province = 341
+
+				color = { 170  114  147 }
+
+			}
+		}
+		함흥 = {
+			color = {  }
+
+			capital = 
+
+			b_340 = {#hamheung
+				province = 340
+
+				color = { 170  114  147 }
+
+			}
+		}
+		홍원 = {
+			color = {  }
+
+			capital = 
+
+			b_343 = {#hongwon
+				province = 343
+
+				color = { 126  177  199 }
+
+			}
+		}
+	}
+	북청 = {
+		color = {  }
+
+		capital = 
+
+		신포 = {
+			color = {  }
+
+			capital = 
+
+			b_346 = {#sinpo
+				province = 346
+
+				color = { 42  186  73 }
+
+			}
+		}
+	}
+	단천 = {
+		color = {  }
+
+		capital = 
+
+		이원 = {
+			color = {  }
+
+			capital = 
+
+			b_347 = {#chaho
+				province = 347
+
+				color = { 2  96  215 }
+
+			}
+		}
+		단천 = {
+			color = {  }
+
+			capital = 
+
+			b_348 = {#dancheon
+				province = 348
+
+				color = { 126  192  74 }
+
+			}
+		}
+	}
+}

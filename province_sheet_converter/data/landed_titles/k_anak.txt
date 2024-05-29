@@ -1,0 +1,100 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_anak = {
+	color = {  }
+
+	capital = 
+
+	장연 = {
+		color = {  }
+
+		capital = 
+
+		장연 = {
+			color = {  }
+
+			capital = 
+
+			b_287 = {#gwangcheon
+				province = 287
+
+				color = { 43  138  138 }
+
+			}
+		}
+	}
+	송화 = {
+		color = {  }
+
+		capital = 
+
+		신평 = {
+			color = {  }
+
+			capital = 
+
+			b_288 = {#wolsa
+				province = 288
+
+				color = { 85  186  146 }
+
+			}
+		}
+	}
+	은천 = {
+		color = {  }
+
+		capital = 
+
+		은률 = {
+			color = {  }
+
+			capital = 
+
+			b_289 = {#seogok
+				province = 289
+
+				color = { 43  60  33 }
+
+			}
+		}
+	}
+	안악 = {
+		color = {  }
+
+		capital = 
+
+		안악 = {
+			color = {  }
+
+			capital = 
+
+			b_290 = {#paeyeop
+				province = 290
+
+				color = { 43  90  38 }
+
+			}
+			b_291 = {#oguk
+				province = 291
+
+				color = { 43 90 38 }
+
+			}
+		}
+		원룡 = {
+			color = {  }
+
+			capital = 
+
+			b_292 = {#gimjewon
+				province = 292
+
+				color = { 1  87  165 }
+
+			}
+		}
+	}
+}

@@ -1,0 +1,508 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_cherwon = {
+	color = {  }
+
+	capital = 
+
+	철원 = {
+		color = {  }
+
+		capital = 
+
+		묘장(북철원) = {
+			color = {  }
+
+			capital = 
+
+			b_258 = {#majang
+				province = 258
+
+				color = { 169  168  172 }
+
+			}
+		}
+		현내 = {
+			color = {  }
+
+			capital = 
+
+			b_263 = {#sepo
+				province = 263
+
+				color = { 1  186  175 }
+
+			}
+			b_1695 = {#hyeonnae
+				province = 1695
+
+				color = { 1  186  175 }
+
+			}
+			b_1697 = {#yujin
+				province = 1697
+
+				color = { 1  186  175 }
+
+			}
+		}
+		철원 = {
+			color = {  }
+
+			capital = 
+
+			b_1631 = {#cheolwon
+				province = 1631
+
+				color = { 43  207  143 }
+
+			}
+			b_1685 = {#galmal
+				province = 1685
+
+				color = { 43  207  143 }
+
+			}
+			b_1686 = {#dongsong
+				province = 1686
+
+				color = { 43  207  143 }
+
+			}
+			b_1687 = {#bukmyeon
+				province = 1687
+
+				color = { 43  207  143 }
+
+			}
+			b_1688 = {#eoun
+				province = 1688
+
+				color = { 43  207  143 }
+
+			}
+		}
+		묘장 = {
+			color = {  }
+
+			capital = 
+
+			b_1689 = {#n.cheolwon
+				province = 1689
+
+				color = { 169  168  172 }
+
+			}
+			b_1690 = {#myojang
+				province = 1690
+
+				color = { 169  168  172 }
+
+			}
+			b_1691 = {#naemun
+				province = 1691
+
+				color = { 169  168  172 }
+
+			}
+		}
+		평강 = {
+			color = {  }
+
+			capital = 
+
+			b_1692 = {#s.pyeonggang
+				province = 1692
+
+				color = { 127  180  174 }
+
+			}
+			b_1693 = {#pyeonggang
+				province = 1693
+
+				color = { 127  180  174 }
+
+			}
+			b_1694 = {#w.pyeonggang
+				province = 1694
+
+				color = { 127  180  174 }
+
+			}
+			b_1696 = {#mokjeon
+				province = 1696
+
+				color = { 127  180  174 }
+
+			}
+		}
+	}
+	김화 = {
+		color = {  }
+
+		capital = 
+
+		김화 = {
+			color = {  }
+
+			capital = 
+
+			b_259 = {#w.gimhwa
+				province = 259
+
+				color = { 169 153 42 }
+
+			}
+			b_1681 = {#geunbuk
+				province = 1681
+
+				color = { 169  153  42 }
+
+			}
+			b_1683 = {#geunnam
+				province = 1683
+
+				color = { 169  153  42 }
+
+			}
+			b_1684 = {#gimhwa
+				province = 1684
+
+				color = { 169  153  42 }
+
+			}
+		}
+		화천 = {
+			color = {  }
+
+			capital = 
+
+			b_260 = {#sanae
+				province = 260
+
+				color = { 43  147  133 }
+
+			}
+			b_1611 = {#hwacheon
+				province = 1611
+
+				color = { 43  147  133 }
+
+			}
+			b_1612 = {#sangseo
+				province = 1612
+
+				color = { 43  147  133 }
+
+			}
+			b_1613 = {#hanam
+				province = 1613
+
+				color = { 43  147  133 }
+
+			}
+		}
+		창도 = {
+			color = {  }
+
+			capital = 
+
+			b_1675 = {#imnam
+				province = 1675
+
+				color = { 43  129  38 }
+
+			}
+			b_1676 = {#changdo
+				province = 1676
+
+				color = { 43  129  38 }
+
+			}
+			b_1678 = {#wondong
+				province = 1678
+
+				color = { 43  129  38 }
+
+			}
+		}
+		원남 = {
+			color = {  }
+
+			capital = 
+
+			b_1677 = {#wonbuk
+				province = 1677
+
+				color = { 1  141  40 }
+
+			}
+			b_1679 = {#geumseong
+				province = 1679
+
+				color = { 1  141  40 }
+
+			}
+			b_1680 = {#wonnam
+				province = 1680
+
+				color = { 1  141  40 }
+
+			}
+			b_1682 = {#geundong
+				province = 1682
+
+				color = { 1  141  40 }
+
+			}
+		}
+	}
+	이천 = {
+		color = {  }
+
+		capital = 
+
+		이천 = {
+			color = {  }
+
+			capital = 
+
+			b_264 = {#e.ichen
+				province = 264
+
+				color = { 1 3 180 }
+
+			}
+		}
+		방장 = {
+			color = {  }
+
+			capital = 
+
+			b_1698 = {#ungtan
+				province = 1698
+
+				color = { 169  198  177 }
+
+			}
+			b_1699 = {#bangjang
+				province = 1699
+
+				color = { 169  198  177 }
+
+			}
+			b_1702 = {#pangyo
+				province = 1702
+
+				color = { 169  198  177 }
+
+			}
+			b_1703 = {#yongpo
+				province = 1703
+
+				color = { 169  198  177 }
+
+			}
+		}
+		학봉 = {
+			color = {  }
+
+			capital = 
+
+			b_1700 = {#nagyang
+				province = 1700
+
+				color = { 169  0 52 }
+
+			}
+			b_1701 = {#sannae
+				province = 1701
+
+				color = { 169  0 52 }
+
+			}
+			b_1704 = {#hakbong
+				province = 1704
+
+				color = { 169  0 52 }
+
+			}
+		}
+	}
+	인제 = {
+		color = {  }
+
+		capital = 
+
+		지린 = {
+			color = {  }
+
+			capital = 
+
+			b_267 = {#naerincheon
+				province = 267
+
+				color = { 43  117  128 }
+
+			}
+		}
+		해안 = {
+			color = {  }
+
+			capital = 
+
+			b_274 = {#e.yanggu
+				province = 274
+
+				color = { 168 183 37 }
+
+			}
+			b_1606 = {#s.yanggu
+				province = 1606
+
+				color = { 168  183  37 }
+
+			}
+			b_1610 = {#haean
+				province = 1610
+
+				color = { 168  183  37 }
+
+			}
+		}
+		기린 = {
+			color = {  }
+
+			capital = 
+
+			b_1601 = {#girin
+				province = 1601
+
+				color = { 43  117  128 }
+
+			}
+		}
+		인제 = {
+			color = {  }
+
+			capital = 
+
+			b_1602 = {#seohwa
+				province = 1602
+
+				color = { 169  126  2 }
+
+			}
+			b_1603 = {#n.inje
+				province = 1603
+
+				color = { 169  126  2 }
+
+			}
+			b_1604 = {#inje
+				province = 1604
+
+				color = { 169  126  2 }
+
+			}
+			b_1605 = {#s.inje
+				province = 1605
+
+				color = { 169  126  2 }
+
+			}
+		}
+		양구 = {
+			color = {  }
+
+			capital = 
+
+			b_1607 = {#suip
+				province = 1607
+
+				color = { 127  138  4 }
+
+			}
+			b_1608 = {#yanggu
+				province = 1608
+
+				color = { 127  138  4 }
+
+			}
+			b_1609 = {#bangsan
+				province = 1609
+
+				color = { 127  138  4 }
+
+			}
+		}
+	}
+	회양 = {
+		color = {  }
+
+		capital = 
+
+		회양 = {
+			color = {  }
+
+			capital = 
+
+			b_277 = {#habuk
+				province = 277
+
+				color = { 1  96  160 }
+
+			}
+			b_1665 = {#hoeyang
+				province = 1665
+
+				color = { 1  96  160 }
+
+			}
+			b_1666 = {#sangbuk
+				province = 1666
+
+				color = { 1  96  160 }
+
+			}
+			b_1667 = {#nangok
+				province = 1667
+
+				color = { 1  96  160 }
+
+			}
+		}
+		사동 = {
+			color = {  }
+
+			capital = 
+
+			b_1662 = {#naegeumgang
+				province = 1662
+
+				color = { 169  93  32 }
+
+			}
+			b_1663 = {#anpung
+				province = 1663
+
+				color = { 169  93  32 }
+
+			}
+			b_1664 = {#sadong
+				province = 1664
+
+				color = { 169  93  32 }
+
+			}
+			b_1674 = {#tonggu
+				province = 1674
+
+				color = { 169  93  32 }
+
+			}
+		}
+	}
+}

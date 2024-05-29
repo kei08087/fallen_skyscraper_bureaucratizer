@@ -1,0 +1,160 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_prk = {
+	color = {  }
+
+	capital = 
+
+	중화 = {
+		color = {  }
+
+		capital = 
+
+		중화 = {
+			color = {  }
+
+			capital = 
+
+			b_299 = {#haeap
+				province = 299
+
+				color = { 169  18  42 }
+
+			}
+		}
+	}
+	남포 = {
+		color = {  }
+
+		capital = 
+
+		해운 = {
+			color = {  }
+
+			capital = 
+
+			b_300 = {#seohwa
+				province = 300
+
+				color = { 169  18  42 }
+
+			}
+		}
+	}
+	강소 = {
+		color = {  }
+
+		capital = 
+
+		적송 = {
+			color = {  }
+
+			capital = 
+
+			b_301 = {#jeoksong
+				province = 301
+
+				color = { 169 18 42 }
+
+			}
+			b_307 = {#hancheon
+				province = 307
+
+				color = { 169 18 42 }
+
+			}
+		}
+	}
+	평양 = {
+		color = {  }
+
+		capital = 
+
+		평양 = {
+			color = {  }
+
+			capital = 
+
+			b_302 = {#seocheon
+				province = 302
+
+				color = { 169 18 242 }
+
+			}
+			b_303 = {#pyeongyang
+				province = 303
+
+				color = { 169 18 242 }
+
+			}
+		}
+	}
+	강동 = {
+		color = {  }
+
+		capital = 
+
+		삼속 = {
+			color = {  }
+
+			capital = 
+
+			b_304 = {#bongjin
+				province = 304
+
+				color = { 169 18 242 }
+
+			}
+		}
+	}
+	순천 = {
+		color = {  }
+
+		capital = 
+
+		평성 = {
+			color = {  }
+
+			capital = 
+
+			b_308 = {#sain
+				province = 308
+
+				color = { 169  118  142 }
+
+			}
+		}
+		조양 = {
+			color = {  }
+
+			capital = 
+
+			b_311 = {#jungnam
+				province = 311
+
+				color = { 169  118  142 }
+
+			}
+		}
+	}
+	안주 = {
+		color = {  }
+
+		capital = 
+
+		룡화 = {
+			color = {  }
+
+			capital = 
+
+			b_310 = {#libseok
+				province = 310
+
+				color = { 169 18 42 }
+
+			}
+		}
+	}
+}

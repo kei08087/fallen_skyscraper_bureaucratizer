@@ -1,0 +1,232 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_gwangju = {
+	color = {  }
+
+	capital = 
+
+	담양 = {
+		color = {  }
+
+		capital = 
+
+		창평 = {
+			color = {  }
+
+			capital = 
+
+			b_128 = {#nammyeon
+				province = 128
+
+				color = { 0  141  135 }
+
+			}
+			b_138 = {#mudong
+				province = 138
+
+				color = { 0  141  135 }
+
+			}
+			b_614 = {#goseo
+				province = 614
+
+				color = { 0  141  135 }
+
+			}
+			b_615 = {#changpyeong
+				province = 615
+
+				color = { 0  141  135 }
+
+			}
+			b_616 = {#daedeok
+				province = 616
+
+				color = { 0  141  135 }
+
+			}
+		}
+		삼계 = {
+			color = {  }
+
+			capital = 
+
+			b_595 = {#samseo
+				province = 595
+
+				color = { 42  84  98 }
+
+			}
+			b_596 = {#samgye
+				province = 596
+
+				color = { 42  84  98 }
+
+			}
+			b_597 = {#donghwa
+				province = 597
+
+				color = { 42  84  98 }
+
+			}
+			b_598 = {#hwangryong
+				province = 598
+
+				color = { 42  84  98 }
+
+			}
+			b_599 = {#nammyeon
+				province = 599
+
+				color = { 42  84  98 }
+
+			}
+		}
+		장성 = {
+			color = {  }
+
+			capital = 
+
+			b_600 = {#seosam
+				province = 600
+
+				color = { 168  108  2 }
+
+			}
+			b_601 = {#bukil
+				province = 601
+
+				color = { 168  108  2 }
+
+			}
+			b_603 = {#bukha
+				province = 603
+
+				color = { 168  108  2 }
+
+			}
+			b_604 = {#jangseong
+				province = 604
+
+				color = { 168  108  2 }
+
+			}
+			b_605 = {#jinwon
+				province = 605
+
+				color = { 168  108  2 }
+
+			}
+		}
+		수북 = {
+			color = {  }
+
+			capital = 
+
+			b_606 = {#daejeon
+				province = 606
+
+				color = { 42  129  133 }
+
+			}
+			b_611 = {#subuk
+				province = 611
+
+				color = { 42  129  133 }
+
+			}
+			b_612 = {#bongsan
+				province = 612
+
+				color = { 42  129  133 }
+
+			}
+		}
+		담양 = {
+			color = {  }
+
+			capital = 
+
+			b_607 = {#wolsan
+				province = 607
+
+				color = { 0  126  5 }
+
+			}
+			b_608 = {#yongmyeon
+				province = 608
+
+				color = { 0  126  5 }
+
+			}
+			b_609 = {#geumseong
+				province = 609
+
+				color = { 0  126  5 }
+
+			}
+			b_610 = {#damyang
+				province = 610
+
+				color = { 0  126  5 }
+
+			}
+			b_613 = {#mujeong
+				province = 613
+
+				color = { 0  126  5 }
+
+			}
+		}
+	}
+	광주 = {
+		color = {  }
+
+		capital = 
+
+		광주 = {
+			color = {  }
+
+			capital = 
+
+			b_129 = {#unam
+				province = 129
+
+				color = { 168  174  192 }
+
+			}
+			b_130 = {#hyodeok
+				province = 130
+
+				color = { 0 177 65 }
+
+			}
+			b_564 = {#geumnam
+				province = 564
+
+				color = { 168  174  192 }
+
+			}
+		}
+		광산 = {
+			color = {  }
+
+			capital = 
+
+			b_563 = {#songjeong
+				province = 563
+
+				color = { 126  198  209 }
+
+			}
+			b_780 = {#bia
+				province = 780
+
+				color = { 168  207  217 }
+
+			}
+		}
+	}
+}

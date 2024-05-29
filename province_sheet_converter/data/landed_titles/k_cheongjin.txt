@@ -1,0 +1,160 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_cheongjin = {
+	color = {  }
+
+	capital = 
+
+	성진 = {
+		color = {  }
+
+		capital = 
+
+		성진 = {
+			color = {  }
+
+			capital = 
+
+			b_349 = {#hakdong
+				province = 349
+
+				color = { 0  198  75 }
+
+			}
+			b_350 = {#seongjin
+				province = 350
+
+				color = { 0  198  75 }
+
+			}
+		}
+		길주 = {
+			color = {  }
+
+			capital = 
+
+			b_351 = {#gilju
+				province = 351
+
+				color = { 42  201  203 }
+
+			}
+		}
+		명천 = {
+			color = {  }
+
+			capital = 
+
+			b_355 = {#honam
+				province = 355
+
+				color = { 86  165  41 }
+
+			}
+		}
+	}
+	청진 = {
+		color = {  }
+
+		capital = 
+
+		청진 = {
+			color = {  }
+
+			capital = 
+
+			b_356 = {#eodaejin
+				province = 356
+
+				color = { 2  159  40 }
+
+			}
+		}
+		삼해 = {
+			color = {  }
+
+			capital = 
+
+			b_358 = {#samhae
+				province = 358
+
+				color = { 126  9  79 }
+
+			}
+		}
+		회령 = {
+			color = {  }
+
+			capital = 
+
+			b_359 = {#hoeryeong
+				province = 359
+
+				color = { 168  12  207 }
+
+			}
+		}
+	}
+	나진 = {
+		color = {  }
+
+		capital = 
+
+		나진 = {
+			color = {  }
+
+			capital = 
+
+			b_360 = {#punghae
+				province = 360
+
+				color = { 42  18  208 }
+
+			}
+			b_361 = {#najin
+				province = 361
+
+				color = { 42  18  208 }
+
+			}
+		}
+		종성 = {
+			color = {  }
+
+			capital = 
+
+			b_362 = {#jongseong
+				province = 362
+
+				color = { 84  21  81 }
+
+			}
+		}
+		용덕 = {
+			color = {  }
+
+			capital = 
+
+			b_368 = {#yudeok
+				province = 368
+
+				color = { 128  75  84 }
+
+			}
+		}
+		온성 = {
+			color = {  }
+
+			capital = 
+
+			b_369 = {#hunyung
+				province = 369
+
+				color = { 128  60  209 }
+
+			}
+		}
+	}
+}

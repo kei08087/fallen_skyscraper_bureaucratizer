@@ -1,0 +1,220 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_jeju = {
+	color = {  }
+
+	capital = 
+
+	제주 = {
+		color = {  }
+
+		capital = 
+
+		제주 = {
+			color = {  }
+
+			capital = 
+
+			b_401 = {#hwabuk
+				province = 401
+
+				color = { 0  102  30 }
+
+			}
+			b_459 = {#yongdam
+				province = 459
+
+				color = { 0  102  30 }
+
+			}
+			b_460 = {#jeju
+				province = 460
+
+				color = { 0  102  30 }
+
+			}
+		}
+		표선 = {
+			color = {  }
+
+			capital = 
+
+			b_408 = {#pyoseon
+				province = 408
+
+				color = { 126  159  4 }
+
+			}
+			b_466 = {#seongeup
+				province = 466
+
+				color = { 126  159  4 }
+
+			}
+			b_467 = {#sumang
+				province = 467
+
+				color = { 126  159  4 }
+
+			}
+			b_468 = {#namwon
+				province = 468
+
+				color = { 126  159  4 }
+
+			}
+		}
+		성산 = {
+			color = {  }
+
+			capital = 
+
+			b_411 = {#seongsan
+				province = 411
+
+				color = { 42  168  133 }
+
+			}
+			b_464 = {#gujwa
+				province = 464
+
+				color = { 42  168  133 }
+
+			}
+			b_465 = {#goseong
+				province = 465
+
+				color = { 42  168  133 }
+
+			}
+		}
+		조천 = {
+			color = {  }
+
+			capital = 
+
+			b_412 = {#gimnyeong
+				province = 412
+
+				color = { 42  105  158 }
+
+			}
+			b_461 = {#jocheon
+				province = 461
+
+				color = { 42  105  158 }
+
+			}
+			b_463 = {#songdang
+				province = 463
+
+				color = { 42  105  158 }
+
+			}
+		}
+	}
+	서귀포 = {
+		color = {  }
+
+		capital = 
+
+		애월 = {
+			color = {  }
+
+			capital = 
+
+			b_403 = {#aewol
+				province = 403
+
+				color = { 126  144  129 }
+
+			}
+			b_453 = {#hanrim
+				province = 453
+
+				color = { 126  144  129 }
+
+			}
+			b_454 = {#geumseong
+				province = 454
+
+				color = { 126  144  129 }
+
+			}
+		}
+		한경 = {
+			color = {  }
+
+			capital = 
+
+			b_404 = {#gosan
+				province = 404
+
+				color = { 42  75  153 }
+
+			}
+			b_451 = {#hankyeong
+				province = 451
+
+				color = { 42 75 153 }
+
+			}
+			b_452 = {#daejeong
+				province = 452
+
+				color = { 42 75 153 }
+
+			}
+		}
+		안덕 = {
+			color = {  }
+
+			capital = 
+
+			b_406 = {#jungmun
+				province = 406
+
+				color = { 42  90  28 }
+
+			}
+			b_455 = {#geumak
+				province = 455
+
+				color = { 42 90 28 }
+
+			}
+			b_456 = {#andeok
+				province = 456
+
+				color = { 42 90 28 }
+
+			}
+		}
+		서귀포 = {
+			color = {  }
+
+			capital = 
+
+			b_407 = {#bomok
+				province = 407
+
+				color = { 126  96  29 }
+
+			}
+			b_458 = {#seogwipo
+				province = 458
+
+				color = { 126 96 29 }
+
+			}
+			b_462 = {#daeryun
+				province = 462
+
+				color = { 126  96   29 }
+
+			}
+		}
+	}
+}

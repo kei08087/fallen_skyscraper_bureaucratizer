@@ -1,0 +1,142 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_wonsan = {
+	color = {  }
+
+	capital = 
+
+	원산 = {
+		color = {  }
+
+		capital = 
+
+		배화 = {
+			color = {  }
+
+			capital = 
+
+			b_279 = {#baehwa
+				province = 279
+
+				color = { 43  90  188 }
+
+			}
+		}
+		덕원 = {
+			color = {  }
+
+			capital = 
+
+			b_280 = {#pungha
+				province = 280
+
+				color = { 43  165  178 }
+
+			}
+			b_281 = {#bukseong
+				province = 281
+
+				color = { 43  165  178 }
+
+			}
+		}
+		안변 = {
+			color = {  }
+
+			capital = 
+
+			b_1668 = {#singosan
+				province = 1668
+
+				color = { 85  117  36 }
+
+			}
+			b_1669 = {#sinmo
+				province = 1669
+
+				color = { 85  117  36 }
+
+			}
+			b_1672 = {#anbyeon
+				province = 1672
+
+				color = { 85  117  36 }
+
+			}
+		}
+		원산 = {
+			color = {  }
+
+			capital = 
+
+			b_1670 = {#seokwangsa
+				province = 1670
+
+				color = { 43  90  188 }
+
+			}
+			b_1671 = {#seogok
+				province = 1671
+
+				color = { 43  90  188 }
+
+			}
+			b_1673 = {#ando
+				province = 1673
+
+				color = { 43  90  188 }
+
+			}
+		}
+	}
+	영흥 = {
+		color = {  }
+
+		capital = 
+
+		고원 = {
+			color = {  }
+
+			capital = 
+
+			b_333 = {#wonsan
+				province = 333
+
+				color = { 126  147  194 }
+
+			}
+		}
+		진평 = {
+			color = {  }
+
+			capital = 
+
+			b_334 = {#hodo
+				province = 334
+
+				color = { 169  6  187 }
+
+			}
+		}
+	}
+	정평 = {
+		color = {  }
+
+		capital = 
+
+		정평 = {
+			color = {  }
+
+			capital = 
+
+			b_335 = {#jui
+				province = 335
+
+				color = { 86  141  216 }
+
+			}
+		}
+	}
+}

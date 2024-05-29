@@ -1,0 +1,130 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_baekdu = {
+	color = {  }
+
+	capital = 
+
+	삼수 = {
+		color = {  }
+
+		capital = 
+
+		대흥 = {
+			color = {  }
+
+			capital = 
+
+			b_337 = {#dongmun
+				province = 337
+
+				color = { 44  165  28 }
+
+			}
+		}
+		장진 = {
+			color = {  }
+
+			capital = 
+
+			b_338 = {#deoksil
+				province = 338
+
+				color = { 86  153  26 }
+
+			}
+		}
+		신파 = {
+			color = {  }
+
+			capital = 
+
+			b_344 = {#sinpa
+				province = 344
+
+				color = { 168  180  72 }
+
+			}
+		}
+	}
+	신흥 = {
+		color = {  }
+
+		capital = 
+
+		신흥 = {
+			color = {  }
+
+			capital = 
+
+			b_342 = {#gapyeong
+				province = 342
+
+				color = { 170  144  152 }
+
+			}
+		}
+		풍산 = {
+			color = {  }
+
+			capital = 
+
+			b_345 = {#pungsan
+				province = 345
+
+				color = { 0  183  200 }
+
+			}
+		}
+	}
+	갑산 = {
+		color = {  }
+
+		capital = 
+
+		갑산 = {
+			color = {  }
+
+			capital = 
+
+			b_352 = {#jindong
+				province = 352
+
+				color = { 2  114  55 }
+
+			}
+		}
+		운흥 = {
+			color = {  }
+
+			capital = 
+
+			b_353 = {#byeoldong
+				province = 353
+
+				color = { 170  126  57 }
+
+			}
+		}
+	}
+	무산 = {
+		color = {  }
+
+		capital = 
+
+		무산 = {
+			color = {  }
+
+			capital = 
+
+			b_354 = {#yeongbuk
+				province = 354
+
+				color = { 86  12  201 }
+
+			}
+		}
+	}
+}

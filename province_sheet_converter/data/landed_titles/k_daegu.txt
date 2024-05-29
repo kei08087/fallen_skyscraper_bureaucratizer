@@ -1,0 +1,340 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_daegu = {
+	color = {  }
+
+	capital = 
+
+	성주 = {
+		color = {  }
+
+		capital = 
+
+		성주 = {
+			color = {  }
+
+			capital = 
+
+			b_168 = {#wolhang
+				province = 168
+
+				color = { 85 201 66 }
+
+			}
+			b_1131 = {#yongam
+				province = 1131
+
+				color = { 85  201  66 }
+
+			}
+			b_1132 = {#seongju
+				province = 1132
+
+				color = { 85  201  66 }
+
+			}
+			b_1133 = {#seonnam
+				province = 1133
+
+				color = { 85  201  66 }
+
+			}
+			b_1134 = {#chojeon
+				province = 1134
+
+				color = { 85  201  66 }
+
+			}
+		}
+		성산 = {
+			color = {  }
+
+			capital = 
+
+			b_170 = {#dasan
+				province = 170
+
+				color = { 43 96 13 }
+
+			}
+			b_891 = {#unsu
+				province = 891
+
+				color = { 43  96  13 }
+
+			}
+			b_893 = {#gaejin
+				province = 893
+
+				color = { 43  96  13 }
+
+			}
+			b_894 = {#seongsan
+				province = 894
+
+				color = { 43  96  13 }
+
+			}
+		}
+		고령 = {
+			color = {  }
+
+			capital = 
+
+			b_888 = {#ssangrim
+				province = 888
+
+				color = { 85  24  1 }
+
+			}
+			b_889 = {#goryeong
+				province = 889
+
+				color = { 85  24  1 }
+
+			}
+			b_890 = {#deokgok
+				province = 890
+
+				color = { 85  24  1 }
+
+			}
+			b_892 = {#ugok
+				province = 892
+
+				color = { 85  24  1 }
+
+			}
+		}
+		벽진 = {
+			color = {  }
+
+			capital = 
+
+			b_1126 = {#geumsu
+				province = 1126
+
+				color = { 169  192  192 }
+
+			}
+			b_1127 = {#gacheon
+				province = 1127
+
+				color = { 169  192  192 }
+
+			}
+			b_1128 = {#suryun
+				province = 1128
+
+				color = { 169  192  192 }
+
+			}
+			b_1129 = {#byeokjin
+				province = 1129
+
+				color = { 169  192  192 }
+
+			}
+			b_1130 = {#daega
+				province = 1130
+
+				color = { 169  192  192 }
+
+			}
+		}
+	}
+	대구 = {
+		color = {  }
+
+		capital = 
+
+		대구 = {
+			color = {  }
+
+			capital = 
+
+			b_174 = {#daegu
+				province = 174
+
+				color = { 168 96 87 }
+
+			}
+			b_778 = {#wolbae
+				province = 778
+
+				color = { 168  207  217 }
+
+			}
+			b_928 = {#seongseo
+				province = 928
+
+				color = { 168  96  87 }
+
+			}
+			b_931 = {#ihyeon
+				province = 931
+
+				color = { 168  96  87 }
+
+			}
+		}
+		옥포 = {
+			color = {  }
+
+			capital = 
+
+			b_175 = {#gachang
+				province = 175
+
+				color = { 1  93  140 }
+
+			}
+		}
+		다사 = {
+			color = {  }
+
+			capital = 
+
+			b_926 = {#habin
+				province = 926
+
+				color = { 17  40  240 }
+
+			}
+			b_927 = {#dasa
+				province = 927
+
+				color = { 17  40  240 }
+
+			}
+		}
+		수성 = {
+			color = {  }
+
+			capital = 
+
+			b_929 = {#chilseong
+				province = 929
+
+				color = { 43  126  18 }
+
+			}
+			b_930 = {#suseong
+				province = 930
+
+				color = { 43  126  18 }
+
+			}
+			b_933 = {#donggu
+				province = 933
+
+				color = { 43  126  18 }
+
+			}
+		}
+	}
+	칠곡 = {
+		color = {  }
+
+		capital = 
+
+		칠곡 = {
+			color = {  }
+
+			capital = 
+
+			b_932 = {#chilgok
+				province = 932
+
+				color = { 43  126  18 }
+
+			}
+			b_1141 = {#gasan
+				province = 1141
+
+				color = { 127  6  69 }
+
+			}
+			b_1142 = {#dongmyeong
+				province = 1142
+
+				color = { 127  6  69 }
+
+			}
+		}
+		인동 = {
+			color = {  }
+
+			capital = 
+
+			b_1135 = {#buksam
+				province = 1135
+
+				color = { 43  0  68 }
+
+			}
+			b_1136 = {#yakmok
+				province = 1136
+
+				color = { 43  0  68 }
+
+			}
+			b_1137 = {#gisan
+				province = 1137
+
+				color = { 43  0  68 }
+
+			}
+		}
+		왜관 = {
+			color = {  }
+
+			capital = 
+
+			b_1138 = {#waegwan
+				province = 1138
+
+				color = { 127  6  69 }
+
+			}
+			b_1139 = {#seokjeok
+				province = 1139
+
+				color = { 127  6  69 }
+
+			}
+			b_1140 = {#jicheon
+				province = 1140
+
+				color = { 127  6  69 }
+
+			}
+		}
+		구미 = {
+			color = {  }
+
+			capital = 
+
+			b_1143 = {#gumi
+				province = 1143
+
+				color = { 127  21  199 }
+
+			}
+			b_1144 = {#jangcheon
+				province = 1144
+
+				color = { 127  21  199 }
+
+			}
+			b_1145 = {#sandong
+				province = 1145
+
+				color = { 127  21  199 }
+
+			}
+		}
+	}
+}

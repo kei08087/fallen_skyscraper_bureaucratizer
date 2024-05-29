@@ -1,0 +1,232 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_busan = {
+	color = {  }
+
+	capital = 
+
+	김해 = {
+		color = {  }
+
+		capital = 
+
+		대동 = {
+			color = {  }
+
+			capital = 
+
+			b_177 = {#daedong
+				province = 177
+
+				color = { 84  105  216 }
+
+			}
+			b_772 = {#saengrim
+				province = 772
+
+				color = { 84  105  216 }
+
+			}
+			b_773 = {#sangdong
+				province = 773
+
+				color = { 84  105  216 }
+
+			}
+		}
+		김해 = {
+			color = {  }
+
+			capital = 
+
+			b_762 = {#jangyu
+				province = 762
+
+				color = { 0  165  210 }
+
+			}
+			b_765 = {#gimhae
+				province = 765
+
+				color = { 0  165  210 }
+
+			}
+			b_770 = {#juchon
+				province = 770
+
+				color = { 0  165  210 }
+
+			}
+		}
+		진영 = {
+			color = {  }
+
+			capital = 
+
+			b_764 = {#jinrye
+				province = 764
+
+				color = { 168  177  212 }
+
+			}
+			b_769 = {#jinyeong
+				province = 769
+
+				color = { 168  177  212 }
+
+			}
+			b_771 = {#hanrim
+				province = 771
+
+				color = { 168  177  212 }
+
+			}
+		}
+	}
+	부산 = {
+		color = {  }
+
+		capital = 
+
+		기장 = {
+			color = {  }
+
+			capital = 
+
+			b_178 = {#jangan
+				province = 178
+
+				color = { 126 21 94 }
+
+			}
+			b_788 = {#gijang
+				province = 788
+
+				color = { 126  21  94 }
+
+			}
+			b_789 = {#cheolma
+				province = 789
+
+				color = { 126  21  94 }
+
+			}
+			b_790 = {#ilgwang
+				province = 790
+
+				color = { 126  21  94 }
+
+			}
+			b_791 = {#jeonggwan
+				province = 791
+
+				color = { 126  21  94 }
+
+			}
+		}
+		부산 = {
+			color = {  }
+
+			capital = 
+
+			b_763 = {#yeongdo
+				province = 763
+
+				color = { 168  207  217 }
+
+			}
+			b_779 = {#busan
+				province = 779
+
+				color = { 168  207  217 }
+
+			}
+			b_781 = {#dongpyeong
+				province = 781
+
+				color = { 42  0  218 }
+
+			}
+		}
+		서부산 = {
+			color = {  }
+
+			capital = 
+
+			b_774 = {#gangseo
+				province = 774
+
+				color = { 42  0  218 }
+
+			}
+			b_775 = {#saha
+				province = 775
+
+				color = { 42  0  218 }
+
+			}
+			b_776 = {#sasang
+				province = 776
+
+				color = { 42  0  218 }
+
+			}
+			b_777 = {#gupo
+				province = 777
+
+				color = { 42  0  218 }
+
+			}
+		}
+		동부산 = {
+			color = {  }
+
+			capital = 
+
+			b_782 = {#daeyeon
+				province = 782
+
+				color = { 84  18  221 }
+
+			}
+			b_783 = {#suyeong
+				province = 783
+
+				color = { 84  18  221 }
+
+			}
+			b_787 = {#haeundae
+				province = 787
+
+				color = { 84  18  221 }
+
+			}
+		}
+		동래 = {
+			color = {  }
+
+			capital = 
+
+			b_784 = {#yeonje
+				province = 784
+
+				color = { 0  12  220 }
+
+			}
+			b_785 = {#dongrae
+				province = 785
+
+				color = { 0  12  220 }
+
+			}
+			b_786 = {#geumjeong
+				province = 786
+
+				color = { 0  12  220 }
+
+			}
+		}
+	}
+}

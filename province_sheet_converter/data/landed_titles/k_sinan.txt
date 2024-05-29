@@ -1,0 +1,202 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_sinan = {
+	color = {  }
+
+	capital = 
+
+	신안 = {
+		color = {  }
+
+		capital = 
+
+		지도 = {
+			color = {  }
+
+			capital = 
+
+			b_194 = {#jido
+				province = 194
+
+				color = { 168 156 97 }
+
+			}
+			b_195 = {#imja
+				province = 195
+
+				color = { 168 158 97 }
+
+			}
+			b_196 = {#saok
+				province = 196
+
+				color = { 168 158 97 }
+
+			}
+			b_197 = {#jungdo
+				province = 197
+
+				color = { 168 158 97 }
+
+			}
+		}
+		신안 = {
+			color = {  }
+
+			capital = 
+
+			b_199 = {#sinan
+				province = 199
+
+				color = { 168  171  227 }
+
+			}
+			b_200 = {#jaeun
+				province = 200
+
+				color = { 168  171  227 }
+
+			}
+			b_206 = {#amtae
+				province = 206
+
+				color = { 168  171  227 }
+
+			}
+			b_207 = {#palgeum
+				province = 207
+
+				color = { 168  171  227 }
+
+			}
+			b_208 = {#anjwa
+				province = 208
+
+				color = { 168  171  227 }
+
+			}
+		}
+		비금 = {
+			color = {  }
+
+			capital = 
+
+			b_209 = {#bigeum
+				province = 209
+
+				color = { 168  201  132 }
+
+			}
+			b_210 = {#docho
+				province = 210
+
+				color = { 168  201  132 }
+
+			}
+		}
+		하의 = {
+			color = {  }
+
+			capital = 
+
+			b_211 = {#haui
+				province = 211
+
+				color = { 42  207  133 }
+
+			}
+			b_212 = {#sinui
+				province = 212
+
+				color = { 42  207  133 }
+
+			}
+			b_213 = {#jangsan
+				province = 213
+
+				color = { 42  207  133 }
+
+			}
+		}
+	}
+	진도 = {
+		color = {  }
+
+		capital = 
+
+		진도 = {
+			color = {  }
+
+			capital = 
+
+			b_214 = {#gunnae
+				province = 214
+
+				color = { 84  138  36 }
+
+			}
+			b_215 = {#jodo
+				province = 215
+
+				color = { 84  138  36 }
+
+			}
+			b_470 = {#jinsan
+				province = 470
+
+				color = { 84  138  36 }
+
+			}
+			b_472 = {#jindo
+				province = 472
+
+				color = { 84  138  36 }
+
+			}
+		}
+		고군 = {
+			color = {  }
+
+			capital = 
+
+			b_471 = {#imhoe
+				province = 471
+
+				color = { 168  144  37 }
+
+			}
+			b_473 = {#uisin
+				province = 473
+
+				color = { 168  144  37 }
+
+			}
+			b_474 = {#gogun
+				province = 474
+
+				color = { 168  144  37 }
+
+			}
+		}
+	}
+	목포 = {
+		color = {  }
+
+		capital = 
+
+		목포 = {
+			color = {  }
+
+			capital = 
+
+			b_542 = {#mokpo
+				province = 542
+
+				color = { 84  135  71 }
+
+			}
+		}
+	}
+}

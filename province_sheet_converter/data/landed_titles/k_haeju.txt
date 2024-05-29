@@ -1,0 +1,124 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_haeju = {
+	color = {  }
+
+	capital = 
+
+	봉천 = {
+		color = {  }
+
+		capital = 
+
+		한천 = {
+			color = {  }
+
+			capital = 
+
+			b_261 = {#seoksa
+				province = 261
+
+				color = { 1  45  95 }
+
+			}
+		}
+		봉천 = {
+			color = {  }
+
+			capital = 
+
+			b_265 = {#hwangryong
+				province = 265
+
+				color = { 169 27 92 }
+
+			}
+		}
+	}
+	연안 = {
+		color = {  }
+
+		capital = 
+
+		염전 = {
+			color = {  }
+
+			capital = 
+
+			b_262 = {#yeomjeon
+				province = 262
+
+				color = { 84  137  31 }
+
+			}
+		}
+	}
+	옹진 = {
+		color = {  }
+
+		capital = 
+
+		강령 = {
+			color = {  }
+
+			capital = 
+
+			b_282 = {#songhyeon
+				province = 282
+
+				color = { 43  108  133 }
+
+			}
+		}
+		읍저 = {
+			color = {  }
+
+			capital = 
+
+			b_284 = {#jejak
+				province = 284
+
+				color = { 168 0 42 }
+
+			}
+		}
+		순위 = {
+			color = {  }
+
+			capital = 
+
+			b_285 = {#deungam
+				province = 285
+
+				color = { 42  6  43 }
+
+			}
+			b_286 = {#sunwi
+				province = 286
+
+				color = { 42  6  43 }
+
+			}
+		}
+	}
+	해주 = {
+		color = {  }
+
+		capital = 
+
+		해주 = {
+			color = {  }
+
+			capital = 
+
+			b_283 = {#haeju
+				province = 283
+
+				color = { 126  210  169 }
+
+			}
+		}
+	}
+}

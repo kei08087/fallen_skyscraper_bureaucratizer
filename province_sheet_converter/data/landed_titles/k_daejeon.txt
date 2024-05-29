@@ -1,0 +1,184 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_daejeon = {
+	color = {  }
+
+	capital = 
+
+	대전 = {
+		color = {  }
+
+		capital = 
+
+		대전 = {
+			color = {  }
+
+			capital = 
+
+			b_111 = {#daedeok
+				province = 111
+
+				color = { 42  120  183 }
+
+			}
+		}
+	}
+	진산 = {
+		color = {  }
+
+		capital = 
+
+		금산 = {
+			color = {  }
+
+			capital = 
+
+			b_117 = {#jewon
+				province = 117
+
+				color = { 43 75 208 }
+
+			}
+			b_1158 = {#hageum
+				province = 1158
+
+				color = { 43  75  208 }
+
+			}
+			b_1159 = {#chohyeon
+				province = 1159
+
+				color = { 43  75  208 }
+
+			}
+			b_1160 = {#buri
+				province = 1160
+
+				color = { 43  75  208 }
+
+			}
+			b_1161 = {#geumsan
+				province = 1161
+
+				color = { 43  75  208 }
+
+			}
+		}
+		진산 = {
+			color = {  }
+
+			capital = 
+
+			b_1162 = {#jinsan
+				province = 1162
+
+				color = { 85  78  81 }
+
+			}
+			b_1163 = {#boksu
+				province = 1163
+
+				color = { 85  78  81 }
+
+			}
+			b_1164 = {#geumseong
+				province = 1164
+
+				color = { 85  78  81 }
+
+			}
+			b_1165 = {#chubu
+				province = 1165
+
+				color = { 85  78  81 }
+
+			}
+			b_1166 = {#dudu
+				province = 1166
+
+				color = { 85  78  81 }
+
+			}
+		}
+	}
+	옥천 = {
+		color = {  }
+
+		capital = 
+
+		황간 = {
+			color = {  }
+
+			capital = 
+
+			b_152 = {#chupungryeong
+				province = 152
+
+				color = { 127 127 54 }
+
+			}
+			b_1105 = {#yongsan
+				province = 1105
+
+				color = { 127  127  54 }
+
+			}
+			b_1108 = {#hwanggan
+				province = 1108
+
+				color = { 127  127  54 }
+
+			}
+			b_1109 = {#maegok
+				province = 1109
+
+				color = { 127  127  54 }
+
+			}
+		}
+		영동 = {
+			color = {  }
+
+			capital = 
+
+			b_1100 = {#yonghwa
+				province = 1100
+
+				color = { 43  123  53 }
+
+			}
+			b_1101 = {#haksan
+				province = 1101
+
+				color = { 43  123  53 }
+
+			}
+			b_1102 = {#yangsan
+				province = 1102
+
+				color = { 43  123  53 }
+
+			}
+			b_1103 = {#yanggang
+				province = 1103
+
+				color = { 43  123  53 }
+
+			}
+			b_1104 = {#simcheon
+				province = 1104
+
+				color = { 43  123  53 }
+
+			}
+			b_1106 = {#yeongdong
+				province = 1106
+
+				color = { 43  123  53 }
+
+			}
+		}
+	}
+}

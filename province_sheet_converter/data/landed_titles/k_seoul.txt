@@ -1,0 +1,346 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_seoul = {
+	color = {  }
+
+	capital = 
+
+	마포 = {
+		color = {  }
+
+		capital = 
+
+		은평 = {
+			color = {  }
+
+			capital = 
+
+			b_25 = {#eunpyeong
+				province = 25
+
+				color = { 170 65 90 }
+
+			}
+		}
+		서대문 = {
+			color = {  }
+
+			capital = 
+
+			b_26 = {#w.gate
+				province = 26
+
+				color = { 170 65 90 }
+
+			}
+		}
+		마포 = {
+			color = {  }
+
+			capital = 
+
+			b_27 = {#mapo
+				province = 27
+
+				color = { 180 125 90 }
+
+			}
+		}
+	}
+	서울 = {
+		color = {  }
+
+		capital = 
+
+		종로 = {
+			color = {  }
+
+			capital = 
+
+			b_28 = {#jongno
+				province = 28
+
+				color = { 180 25 100 }
+
+			}
+		}
+		중구 = {
+			color = {  }
+
+			capital = 
+
+			b_29 = {#junggu
+				province = 29
+
+				color = { 170 65 90 }
+
+			}
+		}
+		용산 = {
+			color = {  }
+
+			capital = 
+
+			b_30 = {#yongsan
+				province = 30
+
+				color = { 170 65 90 }
+
+			}
+		}
+	}
+	동대문 = {
+		color = {  }
+
+		capital = 
+
+		성동 = {
+			color = {  }
+
+			capital = 
+
+			b_31 = {#seongdong
+				province = 31
+
+				color = { 170 65 90 }
+
+			}
+		}
+		동대문 = {
+			color = {  }
+
+			capital = 
+
+			b_34 = {#e.gate
+				province = 34
+
+				color = { 170 65 90 }
+
+			}
+		}
+		중랑 = {
+			color = {  }
+
+			capital = 
+
+			b_37 = {#jungnang
+				province = 37
+
+				color = { 170 65 90 }
+
+			}
+		}
+		광진 = {
+			color = {  }
+
+			capital = 
+
+			b_38 = {#gwangjin
+				province = 38
+
+				color = { 170 65 90 }
+
+			}
+		}
+	}
+	성북 = {
+		color = {  }
+
+		capital = 
+
+		성북 = {
+			color = {  }
+
+			capital = 
+
+			b_32 = {#seongbuk
+				province = 32
+
+				color = { 170 65 90 }
+
+			}
+		}
+		강북 = {
+			color = {  }
+
+			capital = 
+
+			b_33 = {#gangbuk
+				province = 33
+
+				color = { 170 65 90 }
+
+			}
+		}
+		도봉 = {
+			color = {  }
+
+			capital = 
+
+			b_35 = {#dobong
+				province = 35
+
+				color = { 170 65 90 }
+
+			}
+		}
+		노원 = {
+			color = {  }
+
+			capital = 
+
+			b_36 = {#nowon
+				province = 36
+
+				color = { 170 65 90 }
+
+			}
+		}
+	}
+	강남 = {
+		color = {  }
+
+		capital = 
+
+		강동 = {
+			color = {  }
+
+			capital = 
+
+			b_40 = {#gangdong
+				province = 40
+
+				color = { 170 65 90 }
+
+			}
+		}
+		송파 = {
+			color = {  }
+
+			capital = 
+
+			b_41 = {#songpa
+				province = 41
+
+				color = { 170 65 90 }
+
+			}
+		}
+		강남 = {
+			color = {  }
+
+			capital = 
+
+			b_42 = {#gangnam
+				province = 42
+
+				color = { 170 65 90 }
+
+			}
+		}
+		서초 = {
+			color = {  }
+
+			capital = 
+
+			b_43 = {#seocho
+				province = 43
+
+				color = { 170 65 90 }
+
+			}
+		}
+	}
+	영등포 = {
+		color = {  }
+
+		capital = 
+
+		동작 = {
+			color = {  }
+
+			capital = 
+
+			b_44 = {#dongjak
+				province = 44
+
+				color = { 170 65 90 }
+
+			}
+		}
+		영등포 = {
+			color = {  }
+
+			capital = 
+
+			b_45 = {#yeongdeungpo
+				province = 45
+
+				color = { 170 65 90 }
+
+			}
+		}
+		강서 = {
+			color = {  }
+
+			capital = 
+
+			b_46 = {#gangseo
+				province = 46
+
+				color = { 170 65 90 }
+
+			}
+		}
+		양천 = {
+			color = {  }
+
+			capital = 
+
+			b_47 = {#yangcheon
+				province = 47
+
+				color = { 170 65 90 }
+
+			}
+		}
+		구로 = {
+			color = {  }
+
+			capital = 
+
+			b_48 = {#guro
+				province = 48
+
+				color = { 170 65 90 }
+
+			}
+		}
+		금천 = {
+			color = {  }
+
+			capital = 
+
+			b_49 = {#geumcheon
+				province = 49
+
+				color = { 170 65 90 }
+
+			}
+		}
+		관악 = {
+			color = {  }
+
+			capital = 
+
+			b_50 = {#gwanak
+				province = 50
+
+				color = { 170 65 90 }
+
+			}
+		}
+	}
+}

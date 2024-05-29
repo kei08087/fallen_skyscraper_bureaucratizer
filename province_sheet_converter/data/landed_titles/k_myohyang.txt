@@ -1,0 +1,82 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_myohyang = {
+	color = {  }
+
+	capital = 
+
+	송촌 = {
+		color = {  }
+
+		capital = 
+
+		회창 = {
+			color = {  }
+
+			capital = 
+
+			b_305 = {#samheung
+				province = 305
+
+				color = { 169 18 242 }
+
+			}
+		}
+		양덕 = {
+			color = {  }
+
+			capital = 
+
+			b_306 = {#daeryun
+				province = 306
+
+				color = { 169 18 242 }
+
+			}
+		}
+	}
+	맹산 = {
+		color = {  }
+
+		capital = 
+
+		북창 = {
+			color = {  }
+
+			capital = 
+
+			b_309 = {#hakcheon
+				province = 309
+
+				color = { 169 18 242 }
+
+			}
+		}
+		덕천 = {
+			color = {  }
+
+			capital = 
+
+			b_312 = {#seongyang
+				province = 312
+
+				color = { 169 18 242 }
+
+			}
+		}
+		녕원 = {
+			color = {  }
+
+			capital = 
+
+			b_313 = {#taegeuk
+				province = 313
+
+				color = { 169 18 242 }
+
+			}
+		}
+	}
+}

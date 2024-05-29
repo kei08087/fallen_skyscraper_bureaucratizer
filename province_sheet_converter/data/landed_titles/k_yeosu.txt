@@ -1,0 +1,484 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_yeosu = {
+	color = {  }
+
+	capital = 
+
+	순천 = {
+		color = {  }
+
+		capital = 
+
+		승주 = {
+			color = {  }
+
+			capital = 
+
+			b_140 = {#hwangcheon
+				province = 140
+
+				color = { 84 9 21 }
+
+			}
+			b_642 = {#seungju
+				province = 642
+
+				color = { 84 9 21 }
+
+			}
+			b_643 = {#seomyeon
+				province = 643
+
+				color = { 84 9 21 }
+
+			}
+			b_644 = {#woldeung
+				province = 644
+
+				color = { 84 9 21 }
+
+			}
+		}
+		낙안 = {
+			color = {  }
+
+			capital = 
+
+			b_531 = {#beolgyo
+				province = 531
+
+				color = { 42  102  193 }
+
+			}
+			b_638 = {#nakan
+				province = 638
+
+				color = { 42  102  193 }
+
+			}
+			b_639 = {#oeseo
+				province = 639
+
+				color = { 42  102  193 }
+
+			}
+		}
+		순천 = {
+			color = {  }
+
+			capital = 
+
+			b_634 = {#haeryong
+				province = 634
+
+				color = { 0  201  145 }
+
+			}
+			b_635 = {#suncheon
+				province = 635
+
+				color = { 0  201  145 }
+
+			}
+			b_636 = {#byeollyang
+				province = 636
+
+				color = { 0  201  145 }
+
+			}
+			b_637 = {#sangsa
+				province = 637
+
+				color = { 0  201  145 }
+
+			}
+		}
+		주암 = {
+			color = {  }
+
+			capital = 
+
+			b_640 = {#songgwang
+				province = 640
+
+				color = { 42  6  148 }
+
+			}
+			b_641 = {#juam
+				province = 641
+
+				color = { 42  6  148 }
+
+			}
+		}
+	}
+	곡성 = {
+		color = {  }
+
+		capital = 
+
+		곡성 = {
+			color = {  }
+
+			capital = 
+
+			b_141 = {#godal
+				province = 141
+
+				color = { 126  42  154 }
+
+			}
+			b_653 = {#gokseong
+				province = 653
+
+				color = { 126  42  154 }
+
+			}
+			b_654 = {#ogok
+				province = 654
+
+				color = { 126  42  154 }
+
+			}
+		}
+		죽곡 = {
+			color = {  }
+
+			capital = 
+
+			b_645 = {#moksadong
+				province = 645
+
+				color = { 42  21  23 }
+
+			}
+			b_646 = {#jukgok
+				province = 646
+
+				color = { 42  21  23 }
+
+			}
+		}
+		석곡 = {
+			color = {  }
+
+			capital = 
+
+			b_647 = {#seokgok
+				province = 647
+
+				color = { 84  24  151 }
+
+			}
+			b_648 = {#samgi
+				province = 648
+
+				color = { 84  24  151 }
+
+			}
+		}
+		옥과 = {
+			color = {  }
+
+			capital = 
+
+			b_649 = {#osan
+				province = 649
+
+				color = { 0  33  25 }
+
+			}
+			b_650 = {#okgwa
+				province = 650
+
+				color = { 0  33  25 }
+
+			}
+			b_651 = {#gyeommyeon
+				province = 651
+
+				color = { 0  33  25 }
+
+			}
+			b_652 = {#ibmyeon
+				province = 652
+
+				color = { 0  33  25 }
+
+			}
+		}
+	}
+	광양 = {
+		color = {  }
+
+		capital = 
+
+		토지 = {
+			color = {  }
+
+			capital = 
+
+			b_143 = {#ganjeon
+				province = 143
+
+				color = { 168 165 47 }
+
+			}
+			b_692 = {#muncheok
+				province = 692
+
+				color = { 168  165  47 }
+
+			}
+			b_693 = {#masan
+				province = 693
+
+				color = { 168  165  47 }
+
+			}
+			b_694 = {#toji
+				province = 694
+
+				color = { 168  165  47 }
+
+			}
+		}
+		오곡 = {
+			color = {  }
+
+			capital = 
+
+			b_144 = {#jinwol
+				province = 144
+
+				color = { 168 60 157 }
+
+			}
+		}
+		광양 = {
+			color = {  }
+
+			capital = 
+
+			b_224 = {#geumho
+				province = 224
+
+				color = { 42 51 28 }
+
+			}
+			b_655 = {#bonggang
+				province = 655
+
+				color = { 42  51  28 }
+
+			}
+			b_656 = {#gwangyang
+				province = 656
+
+				color = { 42  51  28 }
+
+			}
+			b_657 = {#jungma
+				province = 657
+
+				color = { 42  51  28 }
+
+			}
+			b_658 = {#okryong
+				province = 658
+
+				color = { 42  51  28 }
+
+			}
+		}
+		옥곡 = {
+			color = {  }
+
+			capital = 
+
+			b_659 = {#okgok
+				province = 659
+
+				color = { 168  60  157 }
+
+			}
+			b_660 = {#daap
+				province = 660
+
+				color = { 168  60  157 }
+
+			}
+			b_661 = {#jinsang
+				province = 661
+
+				color = { 168  60  157 }
+
+			}
+		}
+		구례 = {
+			color = {  }
+
+			capital = 
+
+			b_688 = {#sandong
+				province = 688
+
+				color = { 42  156  173 }
+
+			}
+			b_689 = {#gwangui
+				province = 689
+
+				color = { 42  156  173 }
+
+			}
+			b_690 = {#yongbang
+				province = 690
+
+				color = { 42  156  173 }
+
+			}
+			b_691 = {#gurye
+				province = 691
+
+				color = { 42  156  173 }
+
+			}
+		}
+	}
+	화순 = {
+		color = {  }
+
+		capital = 
+
+		춘향 = {
+			color = {  }
+
+			capital = 
+
+			b_565 = {#doam
+				province = 565
+
+				color = { 126  0  84 }
+
+			}
+			b_566 = {#cheongpung
+				province = 566
+
+				color = { 126  0  84 }
+
+			}
+			b_567 = {#iyang
+				province = 567
+
+				color = { 126  0  84 }
+
+			}
+			b_568 = {#chunhyang
+				province = 568
+
+				color = { 126  0  84 }
+
+			}
+		}
+		화순 = {
+			color = {  }
+
+			capital = 
+
+			b_570 = {#hwasun
+				province = 570
+
+				color = { 0  6  85 }
+
+			}
+			b_571 = {#neungju
+				province = 571
+
+				color = { 0  6  85 }
+
+			}
+		}
+		사평 = {
+			color = {  }
+
+			capital = 
+
+			b_572 = {#hancheon
+				province = 572
+
+				color = { 126  15  214 }
+
+			}
+			b_573 = {#sapyeong
+				province = 573
+
+				color = { 126  15  214 }
+
+			}
+			b_574 = {#dongmyeon
+				province = 574
+
+				color = { 126  15  214 }
+
+			}
+		}
+		백아 = {
+			color = {  }
+
+			capital = 
+
+			b_575 = {#dongbok
+				province = 575
+
+				color = { 42  24  88 }
+
+			}
+			b_576 = {#baeka
+				province = 576
+
+				color = { 42  24  88 }
+
+			}
+		}
+	}
+	여수 = {
+		color = {  }
+
+		capital = 
+
+		여수 = {
+			color = {  }
+
+			capital = 
+
+			b_630 = {#hwayang
+				province = 630
+
+				color = { 84  192  16 }
+
+			}
+			b_631 = {#sora
+				province = 631
+
+				color = { 84  192  16 }
+
+			}
+			b_632 = {#yeosu
+				province = 632
+
+				color = { 84  192  16 }
+
+			}
+			b_633 = {#yulchon
+				province = 633
+
+				color = { 84  192  16 }
+
+			}
+		}
+	}
+}

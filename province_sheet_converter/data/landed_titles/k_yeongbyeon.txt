@@ -1,0 +1,118 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_yeongbyeon = {
+	color = {  }
+
+	capital = 
+
+	영변 = {
+		color = {  }
+
+		capital = 
+
+		영변 = {
+			color = {  }
+
+			capital = 
+
+			b_315 = {#bongsan
+				province = 315
+
+				color = { 170  90  172 }
+
+			}
+		}
+		운산 = {
+			color = {  }
+
+			capital = 
+
+			b_325 = {#seongmyeon
+				province = 325
+
+				color = { 86 99 46 }
+
+			}
+		}
+	}
+	삭주 = {
+		color = {  }
+
+		capital = 
+
+		삭주 = {
+			color = {  }
+
+			capital = 
+
+			b_323 = {#cheongsu
+				province = 323
+
+				color = { 86  159  56 }
+
+			}
+		}
+		청산 = {
+			color = {  }
+
+			capital = 
+
+			b_326 = {#dongchang
+				province = 326
+
+				color = { 170  135  52 }
+
+			}
+		}
+	}
+	벽동 = {
+		color = {  }
+
+		capital = 
+
+		벽동 = {
+			color = {  }
+
+			capital = 
+
+			b_327 = {#obuk
+				province = 327
+
+				color = { 86  18  131 }
+
+			}
+		}
+		초산 = {
+			color = {  }
+
+			capital = 
+
+			b_329 = {#chosan
+				province = 329
+
+				color = { 168  135  192 }
+
+			}
+		}
+	}
+	희천 = {
+		color = {  }
+
+		capital = 
+
+		희천 = {
+			color = {  }
+
+			capital = 
+
+			b_328 = {#huicheon
+				province = 328
+
+				color = { 126 132 64 }
+
+			}
+		}
+	}
+}

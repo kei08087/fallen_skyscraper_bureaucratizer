@@ -1,0 +1,370 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_changwon = {
+	color = {  }
+
+	capital = 
+
+	창원 = {
+		color = {  }
+
+		capital = 
+
+		회원 = {
+			color = {  }
+
+			capital = 
+
+			b_173 = {#hoewon
+				province = 173
+
+				color = { 126 93 214 }
+
+			}
+			b_758 = {#naeseo
+				province = 758
+
+				color = { 126  93  214 }
+
+			}
+		}
+		진해 = {
+			color = {  }
+
+			capital = 
+
+			b_728 = {#ungcheon
+				province = 728
+
+				color = { 42  153  208 }
+
+			}
+			b_761 = {#jinhae
+				province = 761
+
+				color = { 42  153  208 }
+
+			}
+		}
+		마산 = {
+			color = {  }
+
+			capital = 
+
+			b_753 = {#jinjeon
+				province = 753
+
+				color = { 84  141  206 }
+
+			}
+			b_754 = {#jinbuk
+				province = 754
+
+				color = { 84  141  206 }
+
+			}
+			b_755 = {#jindong
+				province = 755
+
+				color = { 84  141  206 }
+
+			}
+			b_756 = {#gusan
+				province = 756
+
+				color = { 84  141  206 }
+
+			}
+			b_757 = {#masan
+				province = 757
+
+				color = { 84  141  206 }
+
+			}
+		}
+		창원 = {
+			color = {  }
+
+			capital = 
+
+			b_759 = {#changwon
+				province = 759
+
+				color = { 168  147  207 }
+
+			}
+			b_760 = {#seongsan
+				province = 760
+
+				color = { 168  147  207 }
+
+			}
+		}
+		의창 = {
+			color = {  }
+
+			capital = 
+
+			b_766 = {#changbuk
+				province = 766
+
+				color = { 126  174  84 }
+
+			}
+			b_767 = {#yongjam
+				province = 767
+
+				color = { 126  174  84 }
+
+			}
+			b_768 = {#daesan
+				province = 768
+
+				color = { 126  174  84 }
+
+			}
+		}
+	}
+	통영 = {
+		color = {  }
+
+		capital = 
+
+		물건 = {
+			color = {  }
+
+			capital = 
+
+			b_225 = {#mijo
+				province = 225
+
+				color = { 0  15  185 }
+
+			}
+			b_713 = {#murim
+				province = 713
+
+				color = { 0  15  185 }
+
+			}
+			b_714 = {#sangju
+				province = 714
+
+				color = { 0  15  185 }
+
+			}
+			b_715 = {#mulgeon
+				province = 715
+
+				color = { 0  15  185 }
+
+			}
+		}
+		창선 = {
+			color = {  }
+
+			capital = 
+
+			b_226 = {#changseon
+				province = 226
+
+				color = { 42  39  13 }
+
+			}
+		}
+		광도 = {
+			color = {  }
+
+			capital = 
+
+			b_227 = {#yongnam
+				province = 227
+
+				color = { 42  123  203 }
+
+			}
+			b_750 = {#dosan
+				province = 750
+
+				color = { 42  123  203 }
+
+			}
+			b_751 = {#gwangdo
+				province = 751
+
+				color = { 42  123  203 }
+
+			}
+		}
+		통영 = {
+			color = {  }
+
+			capital = 
+
+			b_228 = {#saryang
+				province = 228
+
+				color = { 42  69  18 }
+
+			}
+			b_229 = {#hansan
+				province = 229
+
+				color = { 42  69  18 }
+
+			}
+			b_235 = {#yokji
+				province = 235
+
+				color = { 42  69  18 }
+
+			}
+			b_236 = {#tongyeong
+				province = 236
+
+				color = { 42  69  18 }
+
+			}
+			b_716 = {#sanyang
+				province = 716
+
+				color = { 42  69  18 }
+
+			}
+		}
+		남해 = {
+			color = {  }
+
+			capital = 
+
+			b_708 = {#seolcheon
+				province = 708
+
+				color = { 42  3  183 }
+
+			}
+			b_709 = {#gohyeon
+				province = 709
+
+				color = { 42  3  183 }
+
+			}
+			b_710 = {#seosang
+				province = 710
+
+				color = { 42  3  183 }
+
+			}
+			b_711 = {#namhae
+				province = 711
+
+				color = { 42  3  183 }
+
+			}
+			b_712 = {#danghang
+				province = 712
+
+				color = { 42  3  183 }
+
+			}
+		}
+	}
+	거제 = {
+		color = {  }
+
+		capital = 
+
+		연초 = {
+			color = {  }
+
+			capital = 
+
+			b_237 = {#jangmok
+				province = 237
+
+				color = { 42 48 63 }
+
+			}
+			b_725 = {#okpo
+				province = 725
+
+				color = { 42  48  63 }
+
+			}
+			b_726 = {#yeoncho
+				province = 726
+
+				color = { 42  48  63 }
+
+			}
+			b_727 = {#hacheong
+				province = 727
+
+				color = { 42  48  63 }
+
+			}
+		}
+		거제 = {
+			color = {  }
+
+			capital = 
+
+			b_717 = {#dundeok
+				province = 717
+
+				color = { 0  30  60 }
+
+			}
+			b_718 = {#sadeung
+				province = 718
+
+				color = { 0  30  60 }
+
+			}
+			b_719 = {#jangpyeong
+				province = 719
+
+				color = { 0  30  60 }
+
+			}
+			b_720 = {#geoje
+				province = 720
+
+				color = { 0  30  60 }
+
+			}
+		}
+		장승포 = {
+			color = {  }
+
+			capital = 
+
+			b_721 = {#nambu
+				province = 721
+
+				color = { 168  42  62 }
+
+			}
+			b_722 = {#dongbu
+				province = 722
+
+				color = { 168  42  62 }
+
+			}
+			b_723 = {#irun
+				province = 723
+
+				color = { 168  42  62 }
+
+			}
+			b_724 = {#jangseungpo
+				province = 724
+
+				color = { 168  42  62 }
+
+			}
+		}
+	}
+}

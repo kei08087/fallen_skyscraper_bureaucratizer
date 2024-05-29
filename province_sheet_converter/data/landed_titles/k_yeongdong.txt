@@ -1,0 +1,352 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_yeongdong = {
+	color = {  }
+
+	capital = 
+
+	동해 = {
+		color = {  }
+
+		capital = 
+
+		동해 = {
+			color = {  }
+
+			capital = 
+
+			b_246 = {#samcheok
+				province = 246
+
+				color = { 44 87 28 }
+
+			}
+			b_1227 = {#miro
+				province = 1227
+
+				color = { 44  87  28 }
+
+			}
+		}
+		외삼척 = {
+			color = {  }
+
+			capital = 
+
+			b_1221 = {#gagok
+				province = 1221
+
+				color = { 85  45  11 }
+
+			}
+			b_1222 = {#wondeok
+				province = 1222
+
+				color = { 85  45  11 }
+
+			}
+			b_1223 = {#nogok
+				province = 1223
+
+				color = { 85  45  11 }
+
+			}
+			b_1224 = {#geundeok
+				province = 1224
+
+				color = { 85  45  11 }
+
+			}
+		}
+		태백 = {
+			color = {  }
+
+			capital = 
+
+			b_1225 = {#dogye
+				province = 1225
+
+				color = { 127  78  144 }
+
+			}
+			b_1226 = {#hajang
+				province = 1226
+
+				color = { 127  78  144 }
+
+			}
+			b_1233 = {#taebaek
+				province = 1233
+
+				color = { 127  78  144 }
+
+			}
+		}
+	}
+	속초 = {
+		color = {  }
+
+		capital = 
+
+		속초 = {
+			color = {  }
+
+			capital = 
+
+			b_268 = {#sokcho
+				province = 268
+
+				color = { 126  165  34 }
+
+			}
+			b_1592 = {#toseong
+				province = 1592
+
+				color = { 126  165  34 }
+
+			}
+			b_1593 = {#jukwang
+				province = 1593
+
+				color = { 126  165  34 }
+
+			}
+			b_1594 = {#ganseong
+				province = 1594
+
+				color = { 126  165  34 }
+
+			}
+		}
+		양양 = {
+			color = {  }
+
+			capital = 
+
+			b_271 = {#yangyang
+				province = 271
+
+				color = { 42  174  163 }
+
+			}
+			b_1589 = {#w.yangyang
+				province = 1589
+
+				color = { 42  174  163 }
+
+			}
+			b_1591 = {#ganghyeon
+				province = 1591
+
+				color = { 42  174  163 }
+
+			}
+		}
+		동산 = {
+			color = {  }
+
+			capital = 
+
+			b_1587 = {#hyeonnam
+				province = 1587
+
+				color = { 1  84  96 }
+
+			}
+			b_1588 = {#hyeonbuk
+				province = 1588
+
+				color = { 1  84  96 }
+
+			}
+			b_1590 = {#sonyang
+				province = 1590
+
+				color = { 1  84  96 }
+
+			}
+		}
+		고성 = {
+			color = {  }
+
+			capital = 
+
+			b_1595 = {#geojin
+				province = 1595
+
+				color = { 85  105  226 }
+
+			}
+			b_1596 = {#sudong
+				province = 1596
+
+				color = { 85  105  226 }
+
+			}
+			b_1597 = {#koseong
+				province = 1597
+
+				color = { 85  105  226 }
+
+			}
+			b_1598 = {#hyeonnae
+				province = 1598
+
+				color = { 85  105  226 }
+
+			}
+		}
+	}
+	통천 = {
+		color = {  }
+
+		capital = 
+
+		장천 = {
+			color = {  }
+
+			capital = 
+
+			b_276 = {#jangjeon
+				province = 276
+
+				color = { 42 189 38 }
+
+			}
+		}
+		장전 = {
+			color = {  }
+
+			capital = 
+
+			b_1599 = {#w.goseong
+				province = 1599
+
+				color = { 42  189 38 }
+
+			}
+			b_1600 = {#oegeumgang
+				province = 1600
+
+				color = { 42  189 38 }
+
+			}
+		}
+		통천 = {
+			color = {  }
+
+			capital = 
+
+			b_1655 = {#imnam
+				province = 1655
+
+				color = { 85  72  156 }
+
+			}
+			b_1656 = {#byeokyang
+				province = 1656
+
+				color = { 85  72  156 }
+
+			}
+			b_1657 = {#tongcheon
+				province = 1657
+
+				color = { 85  72  156 }
+
+			}
+			b_1658 = {#gojeo
+				province = 1658
+
+				color = { 85  72  156 }
+
+			}
+		}
+		송전 = {
+			color = {  }
+
+			capital = 
+
+			b_1659 = {#songjeon
+				province = 1659
+
+				color = { 169  78  157 }
+
+			}
+			b_1660 = {#hakil
+				province = 1660
+
+				color = { 169  78  157 }
+
+			}
+			b_1661 = {#heubgok
+				province = 1661
+
+				color = { 169  78  157 }
+
+			}
+		}
+	}
+	강릉 = {
+		color = {  }
+
+		capital = 
+
+		왕산 = {
+			color = {  }
+
+			capital = 
+
+			b_1241 = {#okgye
+				province = 1241
+
+				color = { 85  105  21 }
+
+			}
+			b_1242 = {#wangsan
+				province = 1242
+
+				color = { 85  105  21 }
+
+			}
+			b_1243 = {#gangdong
+				province = 1243
+
+				color = { 85  105  21 }
+
+			}
+		}
+		강릉 = {
+			color = {  }
+
+			capital = 
+
+			b_1245 = {#seongsan
+				province = 1245
+
+				color = { 43  117  23 }
+
+			}
+			b_1246 = {#gangneung
+				province = 1246
+
+				color = { 43  117  23 }
+
+			}
+		}
+		주문진 = {
+			color = {  }
+
+			capital = 
+
+			b_1247 = {#sacheon
+				province = 1247
+
+				color = { 2  84  155 }
+
+			}
+		}
+	}
+}

@@ -1,0 +1,298 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_incheon = {
+	color = {  }
+
+	capital = 
+
+	김포 = {
+		color = {  }
+
+		capital = 
+
+		통진 = {
+			color = {  }
+
+			capital = 
+
+			b_59 = {#wolgot
+				province = 59
+
+				color = { 1 45 145 }
+
+			}
+			b_1433 = {#daegot
+				province = 1433
+
+				color = { 1  45  145 }
+
+			}
+			b_1435 = {#tongjin
+				province = 1435
+
+				color = { 1  45  145 }
+
+			}
+			b_1436 = {#haseong
+				province = 1436
+
+				color = { 1  45  145 }
+
+			}
+		}
+		김포 = {
+			color = {  }
+
+			capital = 
+
+			b_1427 = {#geomdan
+				province = 1427
+
+				color = { 85  21  141 }
+
+			}
+			b_1430 = {#gochon
+				province = 1430
+
+				color = { 43  33  143 }
+
+			}
+			b_1431 = {#gimpo
+				province = 1431
+
+				color = { 43  33  143 }
+
+			}
+			b_1432 = {#yangchon
+				province = 1432
+
+				color = { 43  33  143 }
+
+			}
+			b_1434 = {#unyang
+				province = 1434
+
+				color = { 43  33  143 }
+
+			}
+		}
+	}
+	인천 = {
+		color = {  }
+
+		capital = 
+
+		서구 = {
+			color = {  }
+
+			capital = 
+
+			b_60 = {#oryuwang
+				province = 60
+
+				color = { 0 180 30 }
+
+			}
+			b_64 = {#cheongra
+				province = 64
+
+				color = { 168 192 32 }
+
+			}
+		}
+		인천 = {
+			color = {  }
+
+			capital = 
+
+			b_65 = {#michuhol
+				province = 65
+
+				color = { 0  195  160 }
+
+			}
+			b_66 = {#yeonsu
+				province = 66
+
+				color = { 42 198 33 }
+
+			}
+			b_67 = {#guwol
+				province = 67
+
+				color = { 84  201  161 }
+
+			}
+		}
+	}
+	부평 = {
+		color = {  }
+
+		capital = 
+
+		부평 = {
+			color = {  }
+
+			capital = 
+
+			b_61 = {#gyeyang
+				province = 61
+
+				color = { 42  183  158 }
+
+			}
+			b_63 = {#bupyeong
+				province = 63
+
+				color = { 63  126  189 }
+
+			}
+		}
+		부천 = {
+			color = {  }
+
+			capital = 
+
+			b_62 = {#bucheon
+				province = 62
+
+				color = { 84 186 31 }
+
+			}
+		}
+	}
+	강화도 = {
+		color = {  }
+
+		capital = 
+
+		양사 = {
+			color = {  }
+
+			capital = 
+
+			b_77 = {#yangsa
+				province = 77
+
+				color = { 84 18 166 }
+
+			}
+			b_1441 = {#naega
+				province = 1441
+
+				color = { 86  135  186 }
+
+			}
+			b_1444 = {#hajeom
+				province = 1444
+
+				color = { 86  135  186 }
+
+			}
+		}
+		석모 = {
+			color = {  }
+
+			capital = 
+
+			b_78 = {#seokmo
+				province = 78
+
+				color = { 126 21 39 }
+
+			}
+		}
+		교동 = {
+			color = {  }
+
+			capital = 
+
+			b_79 = {#gyodong
+				province = 79
+
+				color = { 168 24 167 }
+
+			}
+		}
+		화도 = {
+			color = {  }
+
+			capital = 
+
+			b_1437 = {#hwado
+				province = 1437
+
+				color = { 85  51  146 }
+
+			}
+			b_1438 = {#gilsang
+				province = 1438
+
+				color = { 85  51  146 }
+
+			}
+			b_1439 = {#yangdo
+				province = 1439
+
+				color = { 85  51  146 }
+
+			}
+		}
+		불은 = {
+			color = {  }
+
+			capital = 
+
+			b_1440 = {#buleun
+				province = 1440
+
+				color = { 1  60  20 }
+
+			}
+			b_1442 = {#seonwon
+				province = 1442
+
+				color = { 1  60  20 }
+
+			}
+		}
+		강화 = {
+			color = {  }
+
+			capital = 
+
+			b_1443 = {#ganghwa
+				province = 1443
+
+				color = { 170  141  187 }
+
+			}
+			b_1445 = {#songhae
+				province = 1445
+
+				color = { 170  141  187 }
+
+			}
+		}
+	}
+	영종도 = {
+		color = {  }
+
+		capital = 
+
+		영종도 = {
+			color = {  }
+
+			capital = 
+
+			b_80 = {#yeongjongdo
+				province = 80
+
+				color = { 0 27 40 }
+
+			}
+		}
+	}
+}

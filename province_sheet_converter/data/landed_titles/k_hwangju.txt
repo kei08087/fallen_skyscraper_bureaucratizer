@@ -1,0 +1,112 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_hwangju = {
+	color = {  }
+
+	capital = 
+
+	사리원 = {
+		color = {  }
+
+		capital = 
+
+		사리원 = {
+			color = {  }
+
+			capital = 
+
+			b_293 = {#seonjeong
+				province = 293
+
+				color = { 168  30  47 }
+
+			}
+			b_294 = {#sariwon
+				province = 294
+
+				color = { 168  30  47 }
+
+			}
+		}
+	}
+	황주 = {
+		color = {  }
+
+		capital = 
+
+		송림 = {
+			color = {  }
+
+			capital = 
+
+			b_295 = {#songrim
+				province = 295
+
+				color = { 0 33 175 }
+
+			}
+		}
+		연탄 = {
+			color = {  }
+
+			capital = 
+
+			b_296 = {#pungdap
+				province = 296
+
+				color = { 42 36 48 }
+
+			}
+		}
+	}
+	신계 = {
+		color = {  }
+
+		capital = 
+
+		신계 = {
+			color = {  }
+
+			capital = 
+
+			b_297 = {#hwaya
+				province = 297
+
+				color = { 43  3  88 }
+
+			}
+		}
+	}
+	수안 = {
+		color = {  }
+
+		capital = 
+
+		성매 = {
+			color = {  }
+
+			capital = 
+
+			b_298 = {#obong
+				province = 298
+
+				color = { 85  153  176 }
+
+			}
+		}
+		곡산 = {
+			color = {  }
+
+			capital = 
+
+			b_331 = {#goksan
+				province = 331
+
+				color = { 42  141  193 }
+
+			}
+		}
+	}
+}
