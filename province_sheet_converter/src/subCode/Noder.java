@@ -13,14 +13,14 @@ public class Noder {
             String korean_name = line[2];
             String english_name = line[3];
             String province_color = line[4];
-            String county = line[5];//test only. add 1 later.
+            String county = line[6];//test only. add 1 later. added
             String duchy = line[8];//test only. add 1 later.
             String kingdom = line[12];
             String empire = line[15];
             boolean found;
 
             TreeNode province = new TreeNode(province_id,province_color, 'b',english_name, korean_name);
-            province = TreeNode.addProvinceInfo(province,line[18],line[19],line[20]);
+            province = TreeNode.addProvinceInfo(province,line[17],line[18],line[19]);
 
             if(!empire.isEmpty())
             {

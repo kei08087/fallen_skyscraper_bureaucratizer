@@ -3,8 +3,13 @@ package subCode;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class toText {
+
+    private static Queue<TreeNode> baronQue = new LinkedList<>();
+
     public static void toLandedTitles(TreeNode root) {
 
         for (TreeNode inst : root.childs) {
@@ -46,20 +51,26 @@ public class toText {
         }
         tab = startTab + "\t";
 
-        if(cur.tier=='b')
-            writer.write(startTab+cur.name+" = { # "+cur.eng+" "+cur.kr+"\n");
-        else
-            writer.write(startTab+cur.name+" = {\n");
-
         if(cur.tier=='b') {
-            String id = cur.name.substring(2);
-            writer.write(tab + "province = " +id+"\n\n");
+            if(cur.religion.isEmpty()&&cur.culture.isEmpty())
+                baronQue.add(cur);
+            else
+            {
+                writeBaron(cur,writer,startTab,tab);
+            }
+        }
+        else {
+            writer.write(startTab + cur.name + " = {\n");
+            writer.write(tab+"color = { "+cur.color+" }\n\n");
+            if(cur.tier!='c')
+                writer.write(tab+"capital = \n\n");
+
         }
 
-        writer.write(tab+"color = { "+cur.color+" }\n\n");
 
-        if(cur.tier!='b'&&cur.tier!='c')
-            writer.write(tab+"capital = \n\n");
+
+
+
 
 
         for(TreeNode sub : cur.childs)
@@ -67,6 +78,24 @@ public class toText {
             module(sub,writer,tabs+1);
         }
 
+        if(cur.tier!='b')
+        {
+           while(!baronQue.isEmpty())
+           {
+               writeBaron(baronQue.poll(),writer,startTab+"\t",tab+"\t");
+           }
+
+            writer.write(startTab+"}\n");
+        }
+
+
+    }
+
+    public static void writeBaron(TreeNode cur, FileWriter writer, String startTab, String tab) throws IOException{
+        writer.write(startTab + cur.name + " = { # " + cur.eng + " " + cur.kr + "\n");
+        String id = cur.name.substring(2);
+        writer.write(tab + "province = " + id + "\n\n");
+        writer.write(tab+"color = { "+cur.color+" }\n\n");
         writer.write(startTab+"}\n");
     }
 }
