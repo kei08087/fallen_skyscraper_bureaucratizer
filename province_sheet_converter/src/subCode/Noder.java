@@ -20,7 +20,7 @@ public class Noder {
             boolean found;
 
             TreeNode province = new TreeNode(province_id,province_color, 'b',english_name, korean_name);
-            System.out.println(province.name);
+            province = TreeNode.addProvinceInfo(province,line[18],line[19],line[20]);
 
             if(!empire.isEmpty())
             {

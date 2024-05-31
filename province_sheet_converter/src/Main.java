@@ -35,10 +35,16 @@ public class Main {
             option = sc.nextInt();
             switch (option)
             {
-                case 1:
+                case 1: {
                     TreeNode root = Noder.TreeNoder(LineChuncks);
                     toText.toLandedTitles(root);
                     break;
+                }
+                case 2: {
+                    TreeNode root = Noder.TreeNoder(LineChuncks);
+                    History.toHistory(root);
+                    break;
+                }
                 case 3:
                     Localization.Local(LineChuncks);
                     break;

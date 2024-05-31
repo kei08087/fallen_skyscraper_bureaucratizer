@@ -14,6 +14,12 @@ public class TreeNode {
 
     public String kr;
 
+    public String culture;
+
+    public String religion;
+
+    public String holding;
+
     public TreeNode(String name, String color, char tier)
     {
         this.name = name;
@@ -30,5 +36,14 @@ public class TreeNode {
         this.eng = eng;
         this.kr = kr;
         parent = null;
+    }
+
+    public static TreeNode addProvinceInfo(TreeNode node, String culture, String religion, String holding)
+    {
+        node.culture = culture;
+        node.religion = religion;
+        node.holding = holding;
+
+        return node;
     }
 }
