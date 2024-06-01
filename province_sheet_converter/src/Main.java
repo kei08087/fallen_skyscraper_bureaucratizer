@@ -17,7 +17,7 @@ public class Main {
 
 
         try {
-            LineChuncks = CSVReader.Reader();
+            LineChuncks = TSVReader.Reader();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

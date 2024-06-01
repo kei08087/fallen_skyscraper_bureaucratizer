@@ -13,8 +13,8 @@ public class Noder {
             String korean_name = line[2];
             String english_name = line[3];
             String province_color = line[4];
-            String county = line[6];//test only. add 1 later. added
-            String duchy = line[8];//test only. add 1 later.
+            String county = line[6];
+            String duchy = line[9];
             String kingdom = line[12];
             String empire = line[15];
             boolean found;

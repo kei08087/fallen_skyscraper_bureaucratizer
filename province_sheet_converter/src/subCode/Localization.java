@@ -78,15 +78,15 @@ public class Localization {
                     tKR.write(" "+line[12]+":0 \""+line[11]+"\"\n");
                     tEN.write(" "+line[12]+":0 \""+line[12].substring(2).toUpperCase()+"\"\n");
                 }
-                if(duchy.add(line[9]))
+                if(!line[9].isEmpty()&&duchy.add(line[9]))
                 {
-                    //tKR.write(" "+line[9]+":0 \""+line[8]+"\"\n");
-                    //tEN.write(" "+line[9]+":0 \""+line[9].substring(2).toUpperCase()+"\"\n");
+                    tKR.write(" "+line[9]+":0 \""+line[8]+"\"\n");
+                    tEN.write(" "+line[9]+":0 \""+line[9].substring(2).toUpperCase()+"\"\n");
                 }
-                if(counties.add(line[6]))
+                if(!line[6].isEmpty()&&counties.add(line[6]))
                 {
-                    //tKR.write(" "+line[6]+":0 \""+line[5]+"\"\n");
-                    //tEN.write(" "+line[6]+":0 \""+line[6].substring(2).toUpperCase()+"\"\n");
+                    tKR.write(" "+line[6]+":0 \""+line[5]+"\"\n");
+                    tEN.write(" "+line[6]+":0 \""+line[6].substring(2).toUpperCase()+"\"\n");
                 }
 
                 bKR.write(" "+line[1]+":0 \""+line[2]+"\"\n");
