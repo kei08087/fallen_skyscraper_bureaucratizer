@@ -1,0 +1,202 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+e_sinan = {
+	color = { 168 171 227 }
+		
+		capital = c_mokpo
+		
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:sinan
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+	k_sinan = {
+		color = { 168 171 227 }
+		
+		capital = c_mokpo
+		
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:sinan
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+		d_mokpo = {
+			color = { 84 135 71 }
+			capital = d_mokpo
+			
+			c_mokpo = {
+				color = { 84 135 71 }
+
+				b_542 = { # Mokpo
+					province = 542
+					
+					color = { 84 135 71 }
+				}
+			}
+		}
+		d_sinan = {
+			color = { 168 171 227 }
+			
+			capital = c_sinan
+			c_sinan = {
+				color = { 168 171 227 }
+				
+				b_199 = { # Sinan
+					province = 199
+					
+					color = { 168 171 227 }
+				}
+				b_200 = { # Jaeun
+					province = 200
+					
+					color = { 168 171 227 }
+				}
+				b_206 = { # Amtae
+					province = 206
+					
+					color = { 168 171 227 }
+				}
+				b_207 = { # Palgeum
+					province = 207
+					
+					color = { 168 171 227 }
+				}
+				b_208 = { # Anjwa
+					province = 208
+					
+					color = { 168 171 227 }
+				}
+			}
+			c_jido = {
+				color = { 168 156 97 }
+				
+				b_194 = { # Jido
+					province = 194
+					
+					color = { 168 156 97 }
+				}
+				b_196 = { # Saok
+					province = 196
+					
+					color = { 168 156 97 }
+				}
+				b_197 = { # Jungdo
+					province = 197
+					
+					color = { 168 156 97 }
+				}
+				b_195 = { # Imja
+					province = 195
+					
+					color = { 168 156 97 }
+				}
+				b_3815 = { # Maehwa
+					province = 3815
+					color = { 12 21 20 }
+				}
+				
+			}
+			c_bigeum = {
+				color = { 168 201 132 }
+				
+				b_209 = { # Bigeum
+					province = 209
+					
+					color = { 168 201 132 }
+				}
+				b_210 = { # Docho
+					province = 210
+					
+					color = { 168 201 132 }
+				}
+			}
+			c_haui = {
+				color = { 42 207 133 }
+				
+				b_211 = { # Haui
+					province = 211
+					
+					color = { 42 207 133 }
+				}
+				b_212 = { # Sinui
+					province = 212
+					
+					color = { 42 207 133 }
+				}
+				b_213 = { # Jangsan
+					province = 213
+					
+					color = { 42 207 133 }
+				}
+			}
+			c_heuksan = {
+				color = { 12 21 20 }
+				b_4130 = { # Daeheuksan
+					province = 4130
+					color = { 12 21 30 }
+				}
+				b_3814 = { # Soheuksan
+					province = 3814
+					color = { 12 21 20 }
+				}
+			}
+		}
+		d_jindo = {
+			color = { 84 138 36 }
+			
+			capital = c_jindo
+			
+			c_jindo = {
+				color = { 84 138 36 }
+				
+				b_472 = { # Jindo
+					province = 472
+					
+					color = { 84 138 36 }
+				}
+				b_214 = { # Gunnae
+					province = 214
+					
+					color = { 84 138 36 }
+				}
+				b_470 = { # Jinsan
+					province = 470
+					
+					color = { 84 138 36 }
+				}
+				b_215 = { # Jodo
+					province = 215
+					
+					color = { 84 138 36 }
+				}
+			}
+			c_gogun = {
+				color = { 168 144 37 }
+				
+				b_474 = { # Gogun
+					province = 474
+					
+					color = { 168 144 37 }
+				}
+				b_473 = { # Uisin
+					province = 473
+					
+					color = { 168 144 37 }
+				}
+				b_471 = { # imhoe
+					province = 471
+					
+					color = { 168 144 37 }
+				}
+			}
+		}
+	}
+}

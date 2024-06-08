@@ -1,0 +1,233 @@
+#k_pohang
+##d_pohang
+###c_pohang
+963 = { # pohang 영일
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+965 = { # ocheon 오천
+	holding = none
+}
+964 = { # daesong 대송
+	holding = castle_holding
+	
+	2400.1.1 = {
+		special_building_slot = POSTECH
+	}
+	2500.1.1 = {
+		special_building = POSTECH
+	}
+}
+961 = { # yeonil 연일
+	holding = church_holding
+}
+###c_gigye
+955 = { # gigye 기계
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+954 = { # jukjang 죽장
+	holding = none
+}
+956 = { # gibuk 기북
+	holding = church_holding
+}
+957 = { # singwang 신광
+	holding = none
+}
+###c_guryongpo
+968 = { # guryongpo 구룡포
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+966 = { # janggi 장기
+	holding = none
+}
+967 = { # donghae 동해
+	holding = church_holding
+}
+190 = { # homigoj 호미곶
+	holding = city_holding
+}
+###c_heunghae
+962 = { # yeongil 포항
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+960 = { # heunghae 흥해
+	holding = city_holding
+}
+959 = { # cheongha 청하
+	holding = none
+}
+958 = { # songra 송라
+	holding = none
+}
+###c_gampo
+183 = { # gampo 감포
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+920 = { # yangbuk 양북
+	holding = none
+}
+919 = { # yangnam 양남
+	holding = church_holding
+}
+##d_uljin
+###c_uljin
+1206 = { # uljin 울진
+	culture = pohang
+
+	religion = atomism
+
+	holding = castle_holding
+}
+1205 = { # geunnam 근남
+	holding = none
+}
+1204 = { # geumgangsong 금강송
+	holding = none
+}
+1207 = { # jukbyeon 죽변
+	holding = none
+}
+2510 = { # hanul 한울
+	holding = church_holding
+}
+###c_yeongdeok
+1189 = { # yeongdeok 영덕
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+1186 = { # namjeong 남정
+	holding = none
+}
+1188 = { # ganggu 강구
+	holding = none
+}
+1187 = { # dalsan 달산
+	holding = none
+}
+1190 = { # jipung 지풍
+	holding = none
+}
+###c_yeonghae
+1192 = { # yeonghae 영해
+	culture = pohang
+
+	religion = atomism
+
+	holding = castle_holding
+}
+1191 = { # chuksan 축산
+	holding = none
+}
+192 = { # byeonggok 병곡
+	holding = none
+}
+1193 = { # changsu 창수
+	holding = none
+}
+###c_pyeonghae
+1201 = { # pyeonghae 평해
+	culture = pohang
+
+	religion = atomism
+
+	holding = castle_holding
+}
+1200 = { # hupo 후포
+	holding = city_holding
+}
+1199 = { # onjeong 온정
+	holding = none
+}
+1202 = { # giseong 기성
+	holding = none
+}
+1203 = { # maehwa 매화
+	holding = none
+}
+##d_ulsan
+###c_ulsan
+871 = { # ulsan 울산
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+181 = { # bangeojin 방어진
+	holding = castle_holding
+}
+874 = { # nongso 농소
+	holding = church_holding
+}
+873 = { # taehwa 태화
+	holding = city_holding
+}
+###c_eonyang
+864 = { # eonyang 언양
+	culture = gyeongju
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+872 = { # beomseo 범서
+	holding = church_holding
+}
+863 = { # dudong 두동
+	holding = none
+}
+862 = { # duseo 두서
+	holding = none
+}
+860 = { # sangbuk 상북
+	holding = none
+}
+861 = { # samnam 삼남
+	holding = none
+}
+###c_ulju
+252 = { # onsan 온산
+	culture = pohang
+
+	religion = steeler_pagan
+
+	holding = castle_holding
+}
+868 = { # seosaeng 서생
+	holding = none
+}
+865 = { # samdong 삼동
+	holding = none
+}
+866 = { # ungchon 웅촌
+	holding = none
+}
+870 = { # cheongryang 청량
+	holding = none
+}
+867 = { # onyang 온양
+	holding = church_holding
+}

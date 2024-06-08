@@ -1,0 +1,266 @@
+#k_goheung
+##d_gangjin
+###c_gangjin
+136 = { # sinjeon 신전
+	holding = none
+}
+490 = { # doam 도암
+	holding = city_holding
+}
+491 = { # gangjin 강진
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_seongjeon
+492 = { # seongjeon 성전
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+493 = { # jakcheon 작천
+	holding = none
+}
+494 = { # omcheon 옴천
+	holding = none
+}
+495 = { # byeongyeong 병영
+	holding = none
+}
+###c_gundong
+496 = { # gundong 군동
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+497 = { # chilyang 칠양
+	holding = church_holding
+}
+498 = { # daegu 대구
+	holding = none
+}
+499 = { # maryang 마량
+	holding = none
+}
+##d_jangheung
+###c_jangpyeong
+137 = { # jangpyeong 장평
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+516 = { # yuchi 유치
+	holding = none
+}
+517 = { # busan 부산
+	holding = none
+}
+518 = { # jangdong 장동
+	holding = church_holding
+}
+###c_gwansan
+510 = { # daedeok 대덕
+	holding = none
+}
+511 = { # hoejin 회진
+	holding = church_holding
+}
+512 = { # gwansan 관산
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_jangheung
+513 = { # yongsan 용산
+	holding = city_holding
+}
+514 = { # anyang 안양
+	holding = none
+}
+515 = { # jangheung 장흥
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+##d_boseong
+###c_boseong
+139 = { # hoecheon 회천
+	holding = city_holding
+}
+538 = { # miryeok 미력
+	holding = none
+}
+539 = { # nodong 노동
+	holding = none
+}
+540 = { # boseong 보성
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+541 = { # ungchi 웅치
+	holding = church_holding
+}
+###c_boknae
+532 = { # joseong 조성
+	holding = church_holding
+}
+533 = { # yuleo 율어
+	holding = none
+}
+534 = { # mundeok 문덕
+	holding = church_holding
+}
+535 = { # boknae 복내
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+536 = { # gyeombaek 겸백
+	holding = none
+}
+537 = { # deokryang 덕량
+	holding = none
+}
+##d_wando
+###c_nohwa
+216 = { # bogil 복일
+	holding = none
+}
+217 = { # nohwa 노화
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+218 = { # soan 소안
+	holding = none
+}
+###c_wando
+219 = { # gunoe 군외
+	holding = city_holding
+}
+223 = { # cheongsan 청산
+	holding = none
+}
+475 = { # wando 완도
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+3809 = { # saengil 생일
+	holding = 
+}
+3811 = { # geumil 금일
+	holding = 
+}
+3812 = { # geumdang 금당
+	holding = 
+}
+###c_gogeum
+220 = { # gogeum 고금
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+221 = { # yaksan 약산
+	holding = none
+}
+222 = { # sanji 산지
+	holding = none
+}
+##d_goheung
+###c_goheung
+519 = { # doyang 도양
+	holding = none
+}
+520 = { # dodeok 도덕
+	holding = none
+}
+521 = { # pungyang 풍양
+	holding = church_holding
+}
+524 = { # goheung 고흥
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+525 = { # duwon 두원
+	holding = city_holding
+}
+###c_dohwa
+522 = { # dohwa 도화
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+523 = { # podu 포두
+	holding = city_holding
+}
+526 = { # yeongnam 영남
+	holding = none
+}
+527 = { # jeomam 점암
+	holding = none
+}
+###c_gwayeok
+528 = { # gwayeok 과역
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+529 = { # namyang 남양
+	holding = none
+}
+530 = { # donggang 동강
+	holding = church_holding
+}
+2650 = { # daeseo 대서
+	holding = 
+}
+###c_geogeum
+2671 = { # geogeum 거금
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_bongnae
+4022 = { # bongnae 봉래
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+4023 = { # baekyang 백양
+	holding = none
+}

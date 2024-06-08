@@ -1,0 +1,217 @@
+#k_daegu
+##d_daegu
+###c_daegu
+174 = { # daegu 대구
+	culture = american
+
+	religion = catholic
+
+	holding = castle_holding
+}
+931 = { # ihyeon 이현
+	holding = city_holding
+}
+928 = { # seongseo 성서
+	holding = church_holding
+}
+778 = { # wolbae 월배
+	holding = 
+}
+###c_suseong
+930 = { # suseong 수성
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+929 = { # chilseong 칠성
+	holding = castle_holding
+	
+	2400.1.1 = {
+		special_building_slot = kyungpook_national_university
+	}
+	2500.1.1 = {
+		special_building = kyungpook_national_university
+	}
+}
+933 = { # donggu 동구
+	holding = city_holding
+}
+2496 = { # palgongsan 팔공산
+	holding = church_holding
+}
+###c_dasa
+927 = { # dasa 다사
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+926 = { # habin 하빈
+	holding = city_holding
+}
+###c_okpo
+2612 = { # okpo 옥포
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+175 = { # gachang 가창
+	holding = none
+}
+2613 = { # hwawon 화원
+	holding = city_holding
+}
+###c_hyeonpung
+2609 = { # hyeonpung 현풍
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+2610 = { # yuga 유가
+	holding = none
+}
+2611 = { # nongong 논공
+	holding = church_holding
+}
+2608 = { # guji 구지
+	holding = none
+}
+##d_seongju
+###c_seongju
+1132 = { # seongju 성주
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1134 = { # chojeon 초전
+	holding = church_holding
+}
+168 = { # wolhang 올항
+	holding = none
+}
+1133 = { # seonnam 선남
+	holding = none
+}
+1131 = { # yongam 용암
+	holding = none
+}
+###c_byeokjin
+1129 = { # byeokjin 벽진
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1128 = { # suryun 수륜
+	holding = none
+}
+1130 = { # daega 대가
+	holding = church_holding
+}
+1127 = { # gacheon 가천
+	holding = none
+}
+1126 = { # geumsu 금수
+	holding = none
+}
+###c_goryeong
+889 = { # goryeong 고령
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+890 = { # deokgok 덕곡
+	holding = none
+}
+888 = { # ssangrim 쌍림
+	holding = church_holding
+}
+892 = { # ugok 우곡
+	holding = none
+}
+###c_seongsan
+894 = { # seongsan 성산
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+891 = { # unsu 운수
+	holding = church_holding
+}
+170 = { # dasan 다산
+	holding = none
+}
+893 = { # gaejin 개진
+	holding = none
+}
+##d_chilgok
+###c_chilgok
+932 = { # chilgok 칠곡
+	culture = daegu
+
+	religion = catholic
+
+	holding = city_holding
+}
+1142 = { # dongmyeong 동명
+	holding = none
+}
+1141 = { # gasan 가산
+	holding = none
+}
+###c_waegwan
+1138 = { # waegwan 왜관
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1140 = { # jicheon 지천
+	holding = none
+}
+1139 = { # seokjeok 석적
+	holding = none
+}
+###c_gumi
+1143 = { # gumi 구미
+	culture = sangju
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1145 = { # sandong 산동
+	holding = none
+}
+1144 = { # jangcheon 장천
+	holding = none
+}
+###c_indong
+1136 = { # yakmok 약목
+	culture = daegu
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1135 = { # buksam 북삼
+	holding = none
+}
+1137 = { # gisan 기산
+	holding = none
+}

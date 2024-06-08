@@ -1,0 +1,628 @@
+#k_primorye
+##d_vladivostokski
+###c_vladivostok
+2802 = { # frunzenskiy 프룬젠스키
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2803 = { # leninskiy 레닌스키
+	holding = none
+}
+2801 = { # pervomayskiy 페르보마이스키
+	holding = none
+}
+2800 = { # sovetskiy 소볘트스키
+	holding = none
+}
+###c_nadezhdinski
+2701 = { # razdolnoe 라즈돌노예
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2700 = { # volno_nadezhdinskoe 볼노 나데즈딘스코예
+	holding = none
+}
+###c_artyom
+2798 = { # artyom 아르툠
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2797 = { # knevichi 크네비치
+	holding = none
+}
+2799 = { # surazhevka 수라젭카
+	holding = none
+}
+###c_ruski
+2805 = { # russkiy 루스키
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+###c_smolyanibono
+2795 = { # smolyaninovo 스몰랴니노보
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2796 = { # shkotovo 시코토보
+	holding = none
+}
+###c_bolshoy_kamen
+2793 = { # bolshoy_kamen 볼쇼이 카멘
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2794 = { # romanovka 로마놉카
+	holding = none
+}
+2792 = { # molenyi_mys 몰례니 미스
+	holding = none
+}
+###c_fokino
+2790 = { # fokino 포키노
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2804 = { # podyapolskiy 포드야폴스키
+	holding = none
+}
+2791 = { # dunai 두나이
+	holding = none
+}
+##d_khasanskiy
+###c_slavyankya
+2694 = { # slavyanka 슬라뱐카
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2695 = { # bezverkhovo 베즈벨호보
+	holding = none
+}
+###c_khasan
+2690 = { # khasan 하산
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2691 = { # kraskino 크라스키노
+	holding = none
+}
+3536 = { # nokdun 녹둔
+	holding = 
+}
+###c_zarubino
+2692 = { # zarubino 자루비노
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2693 = { # andreevka 안드레예브카
+	holding = none
+}
+###c_barabashi
+2696 = { # barabash 바라바시
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2697 = { # zanadvorovka 자나드보롭카
+	holding = none
+}
+###c_orenebod
+2699 = { # olenevod 올레네보드
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2698 = { # nezhino 네지노
+	holding = none
+}
+##d_partizanski
+###c_partizansk
+2782 = { # partizansk 파르티잔스크
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2783 = { # uglekamensk 우글레카멘스크
+	holding = none
+}
+2786 = { # brovnichi 브로브니치
+	holding = none
+}
+###c_volchanetz
+2787 = { # volchanets 볼차네츠
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2789 = { # yuzhno_morskoy 유즈노 모르스코이
+	holding = none
+}
+###c_nakhodka
+2788 = { # nakhodka 나훗카
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2780 = { # khmylovka 흐밀로브카
+	holding = none
+}
+2781 = { # vladimiro_aleksandrovskoe 블라디미로 알렉산드롭스코예
+	holding = none
+}
+###c_sergeyevca
+2784 = { # sergeevka 세르게옙카
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2785 = { # molchanovka 몰차노브카
+	holding = none
+}
+##d_lazovsky
+###c_lazo
+2775 = { # lazo 라조
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2776 = { # kishinevka 키시녜브카
+	holding = none
+}
+###c_preovracheniye
+2779 = { # preobrazheniye 프레오브라제니예
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2777 = { # svobodnoe 스보보드노예
+	holding = none
+}
+###c_valentin
+2778 = { # valentin 발렌틴
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2774 = { # chernoruche 체르노루치예
+	holding = none
+}
+###c_milogradovo
+2773 = { # milogradovo 밀로그라도보
+	culture = pyotr
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+2772 = { # margaritovo 마르가리토보
+	holding = none
+}
+##d_dalnegorski
+###c_dalnegorsk
+2764 = { # dalnegorsk 달네고르스크
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2763 = { # rudnaya_pristan 루드나야 프리스탄
+	holding = none
+}
+2765 = { # kamenka 카멘카
+	holding = none
+}
+###c_olga
+2770 = { # olga 올가
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2771 = { # furmanovo 풀마노보
+	holding = none
+}
+###c_timocheyevka
+2769 = { # timofeevka 티모페옙카
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2768 = { # veselyi_yar 베셸리 야르
+	holding = none
+}
+###c_cavalerovo
+2761 = { # kavalerovo 카발레로보
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2762 = { # zerkalnoe 제르칼노예
+	holding = none
+}
+###c_plastun
+2766 = { # plastun 플라스툰
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2767 = { # terney 테르네이
+	holding = none
+}
+##d_arsenyevskiy
+###c_arsenyev
+2754 = { # arsenyev 아르세니예프
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2752 = { # andreevka 안드레옙카
+	holding = none
+}
+2753 = { # yakovlevka 야코블렙카
+	holding = none
+}
+###c_coksyarovka
+2760 = { # koksharovka 코크샤롭카
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2759 = { # shumnyi 쉬므니
+	holding = none
+}
+###c_chuguyevka
+2757 = { # chuguevka 추구옙카
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2758 = { # zametnoe 자몌트노예
+	holding = none
+}
+###c_vuriga_padeyebo
+2756 = { # bulyga_fadeevo 부리가 파데예보
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2755 = { # velkhnyaya_breevka 벨흐냐야 브레옙카
+	holding = none
+}
+###c_mariyanovka
+2751 = { # maryanovka 마리야놉카
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2750 = { # khvishchanka 흐비샨카
+	holding = none
+}
+###c_anuchino
+2736 = { # anuchino 아누치노
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2737 = { # chernyshevka 체르니솁카
+	holding = none
+}
+##d_spasskiy
+###c_spasskdalny
+2744 = { # spasskk_dalni 스파스크 달니
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2745 = { # krasnyi_kut 크라스니 쿠트
+	holding = none
+}
+2743 = { # prokhory 프로호리
+	holding = none
+}
+###c_kirovski
+2749 = { # kirovskii 키롭스키
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2748 = { # gornye_kliuchi 고르니예 크류치
+	holding = none
+}
+###c_chikarovskoye
+2747 = { # chkarovskoe 치카롭스코예
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2746 = { # aleksandrovka 알렉산드롭카
+	holding = none
+}
+###c_chernigovka
+2740 = { # chernygovka 체르니곱카
+	culture = sikhotealin
+
+	religion = rusortho
+
+	holding = castle_holding
+}
+2741 = { # vadimovka 바디몹카
+	holding = none
+}
+##d_mikhailrovski
+###c_mikhailrovka
+2732 = { # mikhailovka 미하일롭카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2731 = { # novoshakhtinsky 노보샤흐틴스키
+	holding = none
+}
+###c_sivilchevo
+2739 = { # cibirtsevo 시빌체보
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2738 = { # rettikhovka 레티홉카
+	holding = none
+}
+###c_ivanovka
+2735 = { # ivanovka 이바놉카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2734 = { # gornoe 고르노예
+	holding = none
+}
+##d_hololski
+###c_holol
+2728 = { # kholol 호롤
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2721 = { # priluki 프릴루키
+	holding = none
+}
+###c_avramovka
+2717 = { # abramovka 아브라몹카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2718 = { # grigorevka 그리고리옙카
+	holding = none
+}
+###c_yaroslavski
+2730 = { # yaroslavsky 야로슬랍스키
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2729 = { # luchki 루치키
+	holding = none
+}
+###c_novodemicha
+2727 = { # novodevitsa 노보데비차
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2742 = { # sivakovka 시바콥카
+	holding = none
+}
+##d_khankayski
+###c_kamenrybolov
+2724 = { # kamen_rybolov 카멘 리볼로프
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2723 = { # vladimiro_petrovka 블라디미로 페트롭카
+	holding = none
+}
+###c_illinka
+2725 = { # ilinka 일린카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2726 = { # novokachalinsk 노보카찰린스크
+	holding = none
+}
+###c_zarikovo
+2722 = { # zharikovo 자리코보
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2720 = { # nesterovka 네스테롭카
+	holding = none
+}
+###c_pogranichny
+2712 = { # pogranichny 포그라니치니
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2713 = { # sergeevka 세르게옙카
+	holding = none
+}
+##d_usuriski
+###c_usurisk
+2710 = { # usurisk 우수리스크
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2716 = { # stepnoe 스테프노예
+	holding = none
+}
+2711 = { # bozdvizhenka 보즈드비젠카
+	holding = none
+}
+###c_lipovchi
+2719 = { # lipovtsy 리폽치
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2715 = { # galenki 갈롄키
+	holding = none
+}
+###c_novogeorgiyevka
+2705 = { # novogeorgievka 노보게오르기옙카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2714 = { # poreche 포레치예
+	holding = none
+}
+###c_pokrovka
+2706 = { # pokrovka 포크롭카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2704 = { # zarechnoe 자레치노예
+	holding = none
+}
+###c_korsakovka
+2702 = { # korsakovka 코르사콥카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2703 = { # aleksei_nikolskoe 알렉세이 니콜스코예
+	holding = none
+}
+###c_borisovka
+2707 = { # borisovka 보리솝카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2708 = { # krasnyi_yar 크라스니 야르
+	holding = none
+}
+###c_lakovka
+2733 = { # lakovka 라콥카
+	culture = khanka
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2709 = { # zarechnoe 자레치노예
+	holding = none
+}

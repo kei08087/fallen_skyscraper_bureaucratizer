@@ -1,0 +1,128 @@
+#e_sinan
+##k_sinan
+###d_sinan
+####c_jido
+194 = { # jido 지도
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+195 = { # imja 임자
+	holding = none
+}
+196 = { # saok 사옥
+	holding = none
+}
+197 = { # jungdo 중도
+	holding = none
+}
+3815 = { # maehwa 매화
+	holding = none
+}
+####c_sinan
+199 = { # sinan 신안
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+200 = { # jaeun 재운
+	holding = none
+}
+206 = { # amtae 암태
+	holding = none
+}
+207 = { # palgeum 팔금
+	holding = none
+}
+208 = { # anjwa 안좌
+	holding = none
+}
+####c_bigeum
+209 = { # bigeum 비금
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+210 = { # docho 도초
+	holding = none
+}
+####c_haui
+211 = { # haui 하의
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+212 = { # sinui 신의
+	holding = none
+}
+213 = { # jangsan 장산
+	holding = none
+}
+####c_heuksan
+3814 = { # soheuksan 소흑산
+	holding = none
+}
+4130 = { # daeheuksan 대흑산
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###d_jindo
+####c_jindo
+214 = { # gunnae 군내
+	holding = none
+}
+215 = { # jodo 조도
+	holding = none
+}
+470 = { # jinsan 진산
+	holding = none
+}
+472 = { # jindo 진도
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+####c_gogun
+471 = { # imhoe 임회
+	holding = none
+}
+473 = { # uisin 의신
+	holding = none
+}
+474 = { # gogun 고군
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###d_mokpo
+####c_mokpo
+542 = { # mokpo 목포
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+	2300.1.1 = {
+		duchy_capital_building = mokpo_grand_market
+	}
+	2400.1.1 = {
+		buildings = {
+			castle_03
+		}
+	}
+}

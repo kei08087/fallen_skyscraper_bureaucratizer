@@ -1,0 +1,690 @@
+#k_haixi
+##d_zhangchun
+###c_zhangchun
+3410 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3408 = { #  
+	holding = none
+}
+3409 = { #  
+	holding = none
+}
+###c_nanguan
+3413 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3412 = { #  
+	holding = none
+}
+3414 = { #  
+	holding = none
+}
+3411 = { #  
+	holding = none
+}
+###c_erdao
+3415 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3416 = { #  
+	holding = none
+}
+3418 = { #  
+	holding = none
+}
+3419 = { #  
+	holding = none
+}
+###c_luyuan
+3406 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3404 = { #  
+	holding = none
+}
+3407 = { #  
+	holding = none
+}
+###c_kuancheng
+3420 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3405 = { #  
+	holding = none
+}
+3421 = { #  
+	holding = none
+}
+###c_shwangyang
+3620 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3621 = { #  
+	holding = none
+}
+##d_nungan
+###c_nungan
+3434 = { #  
+	culture = songhua
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3394 = { #  
+	holding = none
+}
+3395 = { #  
+	holding = none
+}
+3400 = { #  
+	holding = none
+}
+3431 = { #  
+	holding = none
+}
+###c_longwang
+3397 = { #  
+	culture = songhua
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3396 = { #  
+	holding = none
+}
+3402 = { #  
+	holding = none
+}
+3403 = { #  
+	holding = none
+}
+3401 = { #  
+	holding = none
+}
+###c_shansengyu
+3393 = { #  
+	culture = taepyeongho
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3392 = { #  
+	holding = none
+}
+3398 = { #  
+	holding = none
+}
+3399 = { #  
+	holding = none
+}
+###c_gaojiadian
+3440 = { #  
+	culture = greater_xingan
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3435 = { #  
+	holding = none
+}
+3442 = { #  
+	holding = none
+}
+###c_huangyuquan
+3446 = { #  
+	culture = greater_xingan
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3445 = { #  
+	holding = none
+}
+3447 = { #  
+	holding = none
+}
+3449 = { #  
+	holding = none
+}
+3448 = { #  
+	holding = none
+}
+##d_jutai
+###c_jutai
+3430 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3433 = { #  
+	holding = none
+}
+3429 = { #  
+	holding = none
+}
+3426 = { #  
+	holding = none
+}
+3424 = { #  
+	holding = none
+}
+###c_singingyu
+3425 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3427 = { #  
+	holding = none
+}
+3422 = { #  
+	holding = none
+}
+3417 = { #  
+	holding = none
+}
+###c_yujijie
+3456 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3436 = { #  
+	holding = none
+}
+3455 = { #  
+	holding = none
+}
+###c_chitamu
+3459 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3462 = { #  
+	holding = none
+}
+3457 = { #  
+	holding = none
+}
+3458 = { #  
+	holding = none
+}
+##d_dehui
+###c_dehui
+3443 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3438 = { #  
+	holding = none
+}
+3439 = { #  
+	holding = none
+}
+3454 = { #  
+	holding = none
+}
+3461 = { #  
+	holding = none
+}
+###c_juchengji
+3432 = { #  
+	culture = songhua
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3437 = { #  
+	holding = none
+}
+3423 = { #  
+	holding = none
+}
+3428 = { #  
+	holding = none
+}
+###c_charukeu
+3460 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3453 = { #  
+	holding = none
+}
+3463 = { #  
+	holding = none
+}
+###c_biangang
+3450 = { #  
+	culture = greater_xingan
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3451 = { #  
+	holding = none
+}
+3452 = { #  
+	holding = none
+}
+3444 = { #  
+	holding = none
+}
+3441 = { #  
+	holding = none
+}
+##d_wisu
+###c_wisu
+3477 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3474 = { #  
+	holding = none
+}
+3472 = { #  
+	holding = none
+}
+3471 = { #  
+	holding = none
+}
+###c_bahao
+3468 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3470 = { #  
+	holding = none
+}
+3469 = { #  
+	holding = none
+}
+3467 = { #  
+	holding = none
+}
+###c_xihe
+3476 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3473 = { #  
+	holding = none
+}
+3475 = { #  
+	holding = none
+}
+3481 = { #  
+	holding = none
+}
+###c_liujia
+3465 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3466 = { #  
+	holding = none
+}
+3464 = { #  
+	holding = none
+}
+3478 = { #  
+	holding = none
+}
+###c_xiushui
+3479 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3483 = { #  
+	holding = none
+}
+3482 = { #  
+	holding = none
+}
+###c_xinli
+3484 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3480 = { #  
+	holding = none
+}
+3486 = { #  
+	holding = none
+}
+3485 = { #  
+	holding = none
+}
+##d_jirin
+###c_jirin
+3607 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3605 = { #  
+	holding = none
+}
+3606 = { #  
+	holding = none
+}
+3603 = { #  
+	holding = none
+}
+3604 = { #  
+	holding = none
+}
+###c_dapuchaihe
+3197 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3195 = { #  
+	holding = none
+}
+3196 = { #  
+	holding = none
+}
+###c_fengman
+3609 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3608 = { #  
+	holding = none
+}
+3610 = { #  
+	holding = none
+}
+###c_tuchengji
+3602 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3601 = { #  
+	holding = none
+}
+###c_hengdaoheji
+3612 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3613 = { #  
+	holding = none
+}
+3611 = { #  
+	holding = none
+}
+###c_huadian
+3614 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3615 = { #  
+	holding = none
+}
+###c_huasulinji
+3617 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3616 = { #  
+	holding = none
+}
+###c_biaohe
+3619 = { #  
+	culture = jilin
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3618 = { #  
+	holding = none
+}
+##d_harbin
+###c_harbin
+3591 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3590 = { #  
+	holding = none
+}
+3592 = { #  
+	holding = none
+}
+3593 = { #  
+	holding = none
+}
+3594 = { #  
+	holding = none
+}
+###c_jaoyuan
+3587 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3586 = { #  
+	holding = none
+}
+3589 = { #  
+	holding = none
+}
+3588 = { #  
+	holding = none
+}
+###c_sulichuliu
+3595 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3596 = { #  
+	holding = none
+}
+3597 = { #  
+	holding = none
+}
+###c_h_kaiyuan
+3599 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3598 = { #  
+	holding = none
+}
+3600 = { #  
+	holding = none
+}
+##d_puwi
+###c_puwi
+3511 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3509 = { #  
+	holding = none
+}
+3510 = { #  
+	holding = none
+}
+3513 = { #  
+	holding = none
+}
+3512 = { #  
+	holding = none
+}
+###c_darinji
+3518 = { #  
+	culture = shangjing
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3516 = { #  
+	holding = none
+}
+3515 = { #  
+	holding = none
+}
+3514 = { #  
+	holding = none
+}
+3519 = { #  
+	holding = none
+}
+###c_ningjang
+3533 = { #  
+	culture = greater_xingan
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3541 = { #  
+	holding = none
+}
+3532 = { #  
+	holding = none
+}
+3527 = { #  
+	holding = none
+}
+3528 = { #  
+	holding = none
+}
+###c_jeongseng
+3524 = { #  
+	culture = greater_xingan
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3525 = { #  
+	holding = none
+}
+3523 = { #  
+	holding = none
+}
+3520 = { #  
+	holding = none
+}
+###c_mijingji
+3522 = { #  
+	culture = greater_xingan
+
+	religion = wanyan
+
+	holding = tribal_holding
+}
+3526 = { #  
+	holding = none
+}
+3521 = { #  
+	holding = none
+}
+3517 = { #  
+	holding = none
+}

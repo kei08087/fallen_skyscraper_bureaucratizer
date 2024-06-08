@@ -1,0 +1,311 @@
+#k_haeju
+##d_haeju
+###c_haeju
+283 = { # haeju 해주
+	culture = haeju
+
+	religion = haeseoan
+
+	holding = castle_holding
+}
+1798 = { # euppa 읍파
+	holding = none
+}
+1796 = { # yeongyang 영양
+	holding = none
+}
+1801 = { # singwang 신광
+	holding = none
+}
+1797 = { # suyang 수양
+	holding = none
+}
+###c_cheongdan
+1792 = { # cheongdan 청단
+	culture = haeju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1795 = { # hwasan 화산
+	holding = none
+}
+1794 = { # namchon 남촌
+	holding = none
+}
+1793 = { # guwol 구월
+	holding = none
+}
+###c_deokdal
+1791 = { # deokdal 덕달
+	culture = haeju
+
+	religion = haeseoan
+
+	holding = castle_holding
+}
+1765 = { # ahyeon 아현
+	holding = none
+}
+###c_sinwon
+1840 = { # sinwon 신원
+	culture = hwangju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1841 = { # gyenam 계남
+	holding = none
+}
+1839 = { # suwon 수원
+	holding = none
+}
+##d_ongjin
+###c_ongjin
+1812 = { # ongjin 옹진
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1813 = { # masan 마산
+	holding = none
+}
+1814 = { # gugok 구곡
+	holding = none
+}
+1815 = { # okam 옥암
+	holding = none
+}
+###c_sunwi
+286 = { # sunwi 순위
+	culture = haeju
+
+	religion = haeseoan
+
+	holding = castle_holding
+}
+285 = { # deungam 등암
+	holding = none
+}
+1809 = { # bupo 부포
+	holding = none
+}
+1810 = { # yongyeon 용연
+	holding = none
+}
+###c_gangryeong
+1811 = { # gangryeong 강령
+	culture = haeju
+
+	religion = haeseoan
+
+	holding = castle_holding
+}
+1805 = { # bongo 봉오
+	holding = none
+}
+1806 = { # dongpo 동포
+	holding = none
+}
+282 = { # songhyeon 송현
+	holding = none
+}
+###c_eupjeo
+284 = { # jejak 제작
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1817 = { # hyeonbong 현봉
+	holding = none
+}
+1816 = { # gurang 구랑
+	holding = none
+}
+##d_taetan
+###c_taetan
+1818 = { # taetan 태탄
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1808 = { # sudong 수동
+	holding = none
+}
+1807 = { # yongjeong 용정
+	holding = none
+}
+1819 = { # mokgam 목감
+	holding = none
+}
+1803 = { # unsan 운산
+	holding = none
+}
+###c_byeokseong
+1802 = { # byeokseong 벽성
+	culture = haeju
+
+	religion = haeseoan
+
+	holding = castle_holding
+}
+1804 = { # ssangam 쌍암
+	holding = none
+}
+1800 = { # seokdam 석담
+	holding = none
+}
+##d_yeonan
+###c_yeonan
+1762 = { # yeonan 연안
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1760 = { # subok 수복
+	holding = none
+}
+1757 = { # obong 오봉
+	holding = none
+}
+###c_buheung
+1767 = { # buheung 부흥
+	culture = haeju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1766 = { # donam 도남
+	holding = none
+}
+1768 = { # jeongchon 정촌
+	holding = none
+}
+1764 = { # ohyeon 오현
+	holding = none
+}
+###c_yeomjeon
+262 = { # yeomjeon 염전
+	culture = haeju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1770 = { # songho 송호
+	holding = none
+}
+1769 = { # cheonghwa 청화
+	holding = none
+}
+1763 = { # honam 호남
+	holding = none
+}
+###c_yeokgudo
+1761 = { # yeokgudo 역구도
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1759 = { # bonghwa 봉화
+	holding = none
+}
+1758 = { # sinwol 신월
+	holding = none
+}
+##d_bongcheon
+###c_bongcheon
+1784 = { # bongcheon 봉천
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1756 = { # daea 대아
+	holding = none
+}
+265 = { # hwangryong 황룡
+	holding = none
+}
+1751 = { # yeonhong 연홍
+	holding = none
+}
+1783 = { # songjeong 송정
+	holding = none
+}
+###c_baecheon
+1753 = { # baecheon 배천
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1755 = { # munsan 문산
+	holding = none
+}
+1754 = { # geumgok 금곡
+	holding = none
+}
+1752 = { # seoksan 석산
+	holding = none
+}
+###c_hanchon
+1790 = { # hanchon 한촌
+	culture = haeju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1785 = { # eungchon 응촌
+	holding = none
+}
+261 = { # seoksa 석사
+	holding = none
+}
+##d_west_isles
+###c_baekryeong
+2508 = { # baekryeong 백령도
+	culture = baekryeong
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+2507 = { # daecheong 대청도
+	holding = none
+}
+###c_jangrin
+2505 = { # jangrin 장린도
+	culture = baekryeong
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+2506 = { # girin 기린도
+	holding = none
+}
+###c_yeonpyeong
+2495 = { # yeonpyeong 연평도
+	culture = baekryeong
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}

@@ -1,0 +1,226 @@
+#k_baekdu
+##d_sinheung
+###c_sinheung
+2249 = { # sinheung 신흥
+	culture = hamheung
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2250 = { # baekak 백악
+	holding = none
+}
+2251 = { # wonpyeong 원평
+	holding = none
+}
+342 = { # gapyeong 가평
+	holding = none
+}
+###c_yeonggo
+2248 = { # yeonggo 영고
+	culture = hamheung
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2246 = { # u.woncheon 상원천
+	holding = none
+}
+2245 = { # l.woncheon 하원천
+	holding = none
+}
+2247 = { # dongsang 동상
+	holding = none
+}
+###c_h_pungsan
+345 = { # pungsan 풍산
+	culture = baekdu
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2274 = { # ansan 안산
+	holding = none
+}
+2275 = { # cheonnam 천남
+	holding = none
+}
+###c_ungi
+2272 = { # ungi 웅기
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2273 = { # ansu 안수
+	holding = none
+}
+##d_gapsan
+###c_gapsan
+2310 = { # gapsan 갑산
+	culture = baekdu
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2309 = { # dongin 동인
+	holding = none
+}
+352 = { # jindong 진동
+	holding = none
+}
+###c_hyesan
+2311 = { # hyesan 혜산
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2312 = { # daejin 대진
+	holding = none
+}
+###c_unheung
+2314 = { # unheung 운흥
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+353 = { # byeoldong 별동
+	holding = none
+}
+2313 = { # bongdu 봉두
+	holding = none
+}
+###c_hoerin
+2308 = { # hoerin 회린
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2307 = { # sannam 산남
+	holding = none
+}
+##d_samsu
+###c_samsu
+2268 = { # samsu 삼수
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2267 = { # gwanheung 관흥
+	holding = none
+}
+2269 = { # geumsu 금수
+	holding = none
+}
+2270 = { # hoin 호인
+	holding = none
+}
+###c_sinpa
+344 = { # sinpa 신파
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2271 = { # jaseo 자서
+	holding = none
+}
+2266 = { # samseo 삼서
+	holding = none
+}
+###c_jangjin
+2252 = { # jangjin 장진
+	culture = baekdu
+
+	religion = juche
+
+	holding = castle_holding
+	2400.1.1 = {
+		buildings = {
+			jangjin_bunker
+		}
+	}
+}
+2253 = { # seohan 서한
+	holding = city_holding
+}
+2254 = { # jungnam 중남
+	holding = church_holding
+}
+338 = { # deoksil 덕실
+	holding = castle_holding
+}
+###c_daeheung
+2256 = { # daeheung 대흥
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+337 = { # dongmun 동문
+	holding = none
+}
+2255 = { # neunggu 능구
+	holding = none
+}
+##d_musan
+###c_musan
+2347 = { # musan 무산
+	culture = kaema
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+354 = { # yeongbuk 영북
+	holding = none
+}
+2348 = { # punggye 풍계
+	holding = none
+}
+2346 = { # chayu 차유
+	holding = none
+}
+###c_yeonsang
+2344 = { # yeonsang 연상
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2343 = { # seoha 서하
+	holding = none
+}
+2345 = { # eoha 어하
+	holding = none
+}
+###c_samjang
+2341 = { # samjang 삼장
+	culture = kaema
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2340 = { # samsa 삼사
+	holding = none
+}
+2342 = { # yeonsa 연사
+	holding = none
+}

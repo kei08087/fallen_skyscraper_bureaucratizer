@@ -1,0 +1,180 @@
+#k_jinju
+##d_jinju
+###c_jinju
+813 = { # jinju 진주
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+	
+	2400.1.1 = {
+		special_building_slot = gyeongsang_university
+	}
+	2500.1.1 = {
+		special_building = gyeongsang_university
+	}
+}
+809 = { # naedong 내동
+	holding = none
+}
+810 = { # jeongchon 정촌
+	holding = none
+}
+817 = { # geumsan 금산
+	holding = none
+}
+818 = { # munsan 문산
+	holding = none
+}
+811 = { # geumgok 금곡
+	holding = none
+}
+###c_daepyeong
+808 = { # daepyeong 대평
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+807 = { # sugok 수곡
+	holding = none
+}
+812 = { # myeongseok 명석
+	holding = none
+}
+###c_jiphyeon
+814 = { # jiphyeon 집현
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+815 = { # micheon 미천
+	holding = none
+}
+816 = { # daegok 대곡
+	holding = none
+}
+###c_jinseong
+819 = { # jinseong 진성
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+820 = { # jisu 지수
+	holding = none
+}
+821 = { # sabong 사봉
+	holding = none
+}
+822 = { # banseong 일반성
+	holding = none
+}
+156 = { # ibanseong 이반성
+	holding = none
+}
+##d_sacheon
+###c_sacheon
+734 = { # sacheon 사천
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+733 = { # chukdong 축동
+	holding = none
+}
+735 = { # jeongdong 정동
+	holding = none
+}
+###c_gonyang
+731 = { # gonyang 곤양
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+732 = { # gonmyeong 곤명
+	holding = none
+}
+730 = { # seopo 서포
+	holding = none
+}
+###c_samcheonpo
+148 = { # samcheonpo 삼천포
+	culture = jinju
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+736 = { # sanam 사남
+	holding = none
+}
+737 = { # yonghyeon 용현
+	holding = none
+}
+###c_samsan
+741 = { # samsan 삼산
+	culture = jinju
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+738 = { # deokho 덕호
+	holding = none
+}
+740 = { # hakrim 학림
+	holding = none
+}
+739 = { # cheokbeonjeong 척번정
+	holding = none
+}
+###c_goseong
+749 = { # goseong 고성
+	culture = jinju
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+748 = { # daega 대가
+	holding = none
+}
+752 = { # georyu 거류
+	holding = none
+}
+155 = { # gujeol 구절
+	holding = none
+}
+747 = { # maam 마암
+	holding = none
+}
+###c_goja
+745 = { # guman 구만
+	culture = jinju
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+746 = { # hoehwa 회화
+	holding = none
+}
+744 = { # gaecheon 개천
+	holding = none
+}
+743 = { # yeongo 영고
+	holding = none
+}
+742 = { # yeonghyeon 영현
+	holding = none
+}

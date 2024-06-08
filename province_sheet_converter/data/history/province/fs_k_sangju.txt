@@ -1,0 +1,251 @@
+#k_sangju
+##d_sangju
+###c_sangju
+1284 = { # sangju 상주
+	culture = sangju
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1287 = { # sabeol 사벌
+	holding = none
+}
+1286 = { # jungdong 중동
+	holding = none
+}
+1285 = { # nakdong 낙동
+	holding = none
+}
+###c_hamchang
+1291 = { # hamchang 함창
+	culture = sangju
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+153 = { # ian 이안
+	holding = none
+}
+1290 = { # gonggeom 공검
+	holding = none
+}
+1289 = { # euncheok 은척
+	holding = none
+}
+###c_cheongri
+1283 = { # cheongri 청리
+	culture = sangju
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1288 = { # oeseo 외서
+	holding = none
+}
+1281 = { # naeseo 내서
+	holding = none
+}
+1282 = { # oenam 외남
+	holding = none
+}
+###c_gongseong
+1280 = { # gongseong 공성
+	culture = sangju
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1278 = { # moseo 모서
+	holding = none
+}
+1279 = { # modong 모동
+	holding = none
+}
+###c_hwaryeong
+1277 = { # hwadong 화동
+	culture = sangju
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1274 = { # hwabuk 화북
+	holding = none
+}
+1275 = { # hwanam 화남
+	holding = none
+}
+1276 = { # hwaseo 화서
+	holding = none
+}
+##d_mungyeong
+###c_mungyeong
+1358 = { # mungyeong 문경
+	culture = sangju
+
+	religion = neocon
+
+	holding = castle_holding
+}
+154 = { # dongro 동로
+	holding = none
+}
+1359 = { # sanbuk 산북
+	holding = none
+}
+###c_jeomchon
+1356 = { # jeomchon 점촌
+	culture = sangju
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1357 = { # hogye 호계
+	holding = none
+}
+1360 = { # sanyang 산양
+	holding = none
+}
+1361 = { # yeongsun 영순
+	holding = none
+}
+###c_maseong
+1355 = { # maseong 마성
+	culture = sangju
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1354 = { # gaeun 가은
+	holding = none
+}
+1353 = { # nongam 농암
+	holding = none
+}
+###c_yongmun
+1315 = { # yongmun 용문
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+113 = { # yucheon 유천
+	holding = none
+}
+1311 = { # hyoja 효자
+	holding = none
+}
+1314 = { # eunpung 은풍
+	holding = none
+}
+###c_yonggung
+1317 = { # yonggung 용궁
+	culture = sangju
+
+	religion = neocon
+
+	holding = castle_holding
+}
+161 = { # gaepo 개포
+	holding = none
+}
+1321 = { # jibo 지보
+	holding = none
+}
+1320 = { # pungyang 풍양
+	holding = none
+}
+##d_gimcheon
+###c_gimcheon
+1119 = { # gimcheon 김천
+	culture = sangju
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1117 = { # bongsan 봉산
+	holding = none
+}
+1120 = { # eomo 어모
+	holding = none
+}
+1121 = { # gammun 감문
+	holding = none
+}
+1122 = { # gaeryeong 개령
+	holding = none
+}
+2666 = { # daedeok 대덕
+	holding = none
+}
+###c_seonsan
+1148 = { # seonsan 선산
+	culture = sangju
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1150 = { # okseong 옥성
+	holding = none
+}
+1149 = { # mueul 무을
+	holding = none
+}
+1146 = { # goa 고아
+	holding = none
+}
+160 = { # dogae 도개
+	holding = none
+}
+1147 = { # haepyeong 해평
+	holding = none
+}
+###c_gamcheon
+1118 = { # gamcheon 감천
+	culture = sangju
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1123 = { # apo 아포
+	holding = none
+}
+1125 = { # nammyeon 남면
+	holding = none
+}
+1124 = { # nongso 농소
+	holding = none
+}
+###c_geumreung
+1114 = { # guseong 구성
+	culture = sangju
+
+	religion = catholic
+
+	holding = castle_holding
+}
+1110 = { # daedeok 대덕
+	holding = none
+}
+1115 = { # joma 조마
+	holding = none
+}
+1112 = { # buhang 부항
+	holding = none
+}
+1113 = { # jirye 지례
+	holding = none
+}
+1111 = { # jeungsan 정산
+	holding = none
+}

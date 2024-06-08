@@ -1,0 +1,505 @@
+#k_liaoxi
+##d_jinjeu
+###c_jinjeu
+3688 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3657 = { #  
+	holding = none
+}
+3687 = { #  
+	holding = none
+}
+3684 = { #  
+	holding = none
+}
+3685 = { #  
+	holding = none
+}
+3686 = { #  
+	holding = none
+}
+###c_taihe
+3690 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3689 = { #  
+	holding = none
+}
+3691 = { #  
+	holding = none
+}
+###c_linghai
+3675 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3693 = { #  
+	holding = none
+}
+3694 = { #  
+	holding = none
+}
+###c_yanjia
+3677 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3692 = { #  
+	holding = none
+}
+3678 = { #  
+	holding = none
+}
+3679 = { #  
+	holding = none
+}
+###c_bangita
+3655 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3654 = { #  
+	holding = none
+}
+3683 = { #  
+	holding = none
+}
+3656 = { #  
+	holding = none
+}
+###c_yuji
+3680 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3682 = { #  
+	holding = none
+}
+3681 = { #  
+	holding = none
+}
+###c_xisan
+3696 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3697 = { #  
+	holding = none
+}
+3674 = { #  
+	holding = none
+}
+##d_yi
+###c_yi
+3663 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = castle_holding
+}
+3662 = { #  
+	holding = none
+}
+3661 = { #  
+	holding = none
+}
+3660 = { #  
+	holding = none
+}
+###c_dadingbao
+3667 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3659 = { #  
+	holding = none
+}
+3658 = { #  
+	holding = none
+}
+###c_chilihe
+3668 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3669 = { #  
+	holding = none
+}
+3673 = { #  
+	holding = none
+}
+###c_dayusubao
+3671 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3672 = { #  
+	holding = none
+}
+3664 = { #  
+	holding = none
+}
+###c_ujiyu
+3670 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3666 = { #  
+	holding = none
+}
+3665 = { #  
+	holding = none
+}
+3699 = { #  
+	holding = none
+}
+##d_beizhen
+###c_beizhen
+3705 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3710 = { #  
+	holding = none
+}
+3711 = { #  
+	holding = none
+}
+3709 = { #  
+	holding = none
+}
+3712 = { #  
+	holding = none
+}
+###c_liaotun
+3704 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3700 = { #  
+	holding = none
+}
+3702 = { #  
+	holding = none
+}
+3698 = { #  
+	holding = none
+}
+3703 = { #  
+	holding = none
+}
+###c_zhengan
+3714 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3707 = { #  
+	holding = none
+}
+3706 = { #  
+	holding = none
+}
+###c_gaoshanzi
+3716 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3715 = { #  
+	holding = none
+}
+3723 = { #  
+	holding = none
+}
+##d_heishan
+###c_heishan
+3719 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = castle_holding
+}
+3717 = { #  
+	holding = none
+}
+3718 = { #  
+	holding = none
+}
+3725 = { #  
+	holding = none
+}
+###c_uliangdian
+3734 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3721 = { #  
+	holding = none
+}
+3733 = { #  
+	holding = none
+}
+3735 = { #  
+	holding = none
+}
+3736 = { #  
+	holding = none
+}
+###c_dahushan
+3722 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3726 = { #  
+	holding = none
+}
+3727 = { #  
+	holding = none
+}
+###c_meitun
+3730 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3731 = { #  
+	holding = none
+}
+3732 = { #  
+	holding = none
+}
+3729 = { #  
+	holding = none
+}
+3728 = { #  
+	holding = none
+}
+##d_panjin
+###c_panjin
+3760 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3754 = { #  
+	holding = none
+}
+3758 = { #  
+	holding = none
+}
+###c_pansan
+3755 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = tribal_holding
+}
+3752 = { #  
+	holding = none
+}
+3753 = { #  
+	holding = none
+}
+3756 = { #  
+	holding = none
+}
+3757 = { #  
+	holding = city_holding
+}
+###c_yangtuji
+3750 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3751 = { #  
+	holding = none
+}
+3748 = { #  
+	holding = city_holding
+}
+3749 = { #  
+	holding = none
+}
+###c_salling
+3765 = { #  
+	culture = yan
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3764 = { #  
+	holding = none
+}
+3775 = { #  
+	holding = none
+}
+##d_dawa
+###c_dawa
+3762 = { #  
+	culture = liaoshen
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3759 = { #  
+	holding = city_holding
+}
+3761 = { #  
+	holding = church_holding
+}
+3769 = { #  
+	holding = none
+}
+###c_erziegou
+3770 = { #  
+	culture = liaoshen
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3771 = { #  
+	holding = city_holding
+}
+###c_xiazen
+3776 = { #  
+	culture = liaoshen
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3773 = { #  
+	holding = city_holding
+}
+3768 = { #  
+	holding = church_holding
+}
+###c_xinkai
+3767 = { #  
+	culture = liaoshen
+
+	religion = xiism
+
+	holding = castle_holding
+}
+3766 = { #  
+	holding = church_holding
+}
+3774 = { #  
+	holding = city_holding
+}
+##d_taian
+###c_taian
+3740 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = castle_holding
+}
+3739 = { #  
+	holding = none
+}
+3743 = { #  
+	holding = city_holding
+}
+3744 = { #  
+	holding = church_holding
+}
+###c_xipu
+3738 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3737 = { #  
+	holding = none
+}
+3741 = { #  
+	holding = none
+}
+3742 = { #  
+	holding = church_holding
+}
+###c_gaolifang
+3746 = { #  
+	culture = chaoxian
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+3747 = { #  
+	holding = none
+}
+3745 = { #  
+	holding = church_holding
+}

@@ -1,0 +1,320 @@
+#k_gyeongju
+##d_gyeongju
+###c_gyeongju
+921 = { # gyeongju 경주
+	culture = gyeongju
+
+	religion = jogye
+
+	holding = castle_holding
+}
+918 = { # oedong 외동
+	holding = church_holding
+}
+915 = { # naenam 내남
+	holding = city_holding
+}
+922 = { # hyeongok 현곡
+	holding = church_holding
+}
+###c_geoncheon
+916 = { # geoncheon 건천
+	culture = gyeongju
+
+	religion = jogye
+
+	holding = castle_holding
+}
+914 = { # sannae 산내
+	holding = church_holding
+}
+917 = { # seomyeon gyeongju 아화
+	holding = none
+}
+###c_angang
+924 = { # angang 안강
+	culture = gyeongju
+
+	religion = jogye
+
+	holding = castle_holding
+}
+923 = { # cheonbuk 천북
+	holding = church_holding
+}
+925 = { # gangdong 강동
+	holding = none
+}
+##d_yeongcheon
+###c_yeongcheon
+947 = { # yeongcheon 영천
+	culture = gyeongju
+
+	religion = jogye
+
+	holding = castle_holding
+}
+946 = { # bugan 북안
+	holding = church_holding
+}
+942 = { # daechang 대창
+	holding = city_holding
+}
+944 = { # geumho 금호
+	holding = none
+}
+###c_imgo
+949 = { # imgo 임고
+	culture = gyeongju
+
+	religion = jogye
+
+	holding = castle_holding
+}
+950 = { # jayang 자양
+	holding = church_holding
+}
+948 = { # gogyeong 고경
+	holding = none
+}
+951 = { # hwabuk 화북
+	holding = none
+}
+###c_cheongtong
+945 = { # cheongtong 청통
+	culture = gyeongju
+
+	religion = jogye
+
+	holding = castle_holding
+}
+952 = { # hwanam 화남
+	holding = church_holding
+}
+953 = { # hwasan 화산
+	holding = none
+}
+184 = { # sinnyeong 신녕
+	holding = none
+}
+##d_gyeongsan
+###c_gyeongsan
+935 = { # gyeongsan 경산
+	culture = gyeongju
+
+	religion = maitreya
+
+	holding = castle_holding
+}
+934 = { # namcheon 남천
+	holding = church_holding
+}
+939 = { # apryang 압량
+	holding = city_holding
+}
+###c_hayang
+940 = { # hayang 하양
+	culture = gyeongju
+
+	religion = maitreya
+
+	holding = castle_holding
+}
+943 = { # wachon 와촌
+	holding = church_holding
+}
+941 = { # jinryang 진량
+	holding = none
+}
+###c_jain
+938 = { # jain 자인
+	culture = gyeongju
+
+	religion = maitreya
+
+	holding = castle_holding
+}
+936 = { # namsan 남산
+	holding = none
+}
+937 = { # yongseong 용성
+	holding = church_holding
+}
+###c_hwayang
+910 = { # hwayang 화양
+	culture = gyeongju
+
+	religion = maitreya
+
+	holding = castle_holding
+}
+906 = { # gakbuk 각북
+	holding = none
+}
+907 = { # pungga 풍가
+	holding = none
+}
+908 = { # iseo 이서
+	holding = none
+}
+909 = { # gaknam 각남
+	holding = church_holding
+}
+###c_cheongdo
+911 = { # cheongdo 청도
+	culture = gyeongju
+
+	religion = maitreya
+
+	holding = castle_holding
+}
+912 = { # maejeon 매전
+	holding = none
+}
+913 = { # geumcheon 금천
+	holding = church_holding
+}
+182 = { # unmun 운문
+	holding = none
+}
+##d_miryang
+###c_miryang
+902 = { # miryang 밀양
+	culture = miryang
+
+	religion = bailian
+
+	holding = castle_holding
+}
+897 = { # chodong 초동
+	holding = church_holding
+}
+895 = { # muan 무안
+	holding = city_holding
+}
+896 = { # milcheong 밀청
+	holding = none
+}
+898 = { # bubuk 부북
+	holding = none
+}
+903 = { # yucheon 유천
+	holding = none
+}
+###c_samryangjin
+901 = { # samryangjin 삼량진
+	culture = miryang
+
+	religion = bailian
+
+	holding = castle_holding
+}
+900 = { # gisan 기산
+	holding = church_holding
+}
+899 = { # susan 수산
+	holding = none
+}
+###c_danjang
+905 = { # danjang 단장
+	culture = miryang
+
+	religion = bailian
+
+	holding = castle_holding
+}
+180 = { # sannae 산내
+	holding = church_holding
+}
+904 = { # sanoe 산외
+	holding = none
+}
+###c_changnyeong
+884 = { # changnyeong 창녕
+	culture = miryang
+
+	religion = jogye
+
+	holding = castle_holding
+}
+176 = { # seongsan 성산
+	holding = none
+}
+887 = { # goam 고암
+	holding = church_holding
+}
+886 = { # daehap 대합
+	holding = none
+}
+883 = { # ibang 이방
+	holding = none
+}
+885 = { # daeji 대지
+	holding = none
+}
+882 = { # yueo 유어
+	holding = none
+}
+###c_yeongsan
+879 = { # yeongsan 영산
+	culture = miryang
+
+	religion = jogye
+
+	holding = castle_holding
+}
+875 = { # namji 남지
+	holding = church_holding
+}
+881 = { # jangma 장마
+	holding = none
+}
+880 = { # gyeseong 계성
+	holding = none
+}
+878 = { # docheon 도천
+	holding = none
+}
+877 = { # gilgok 길곡
+	holding = none
+}
+876 = { # bugok 부곡
+	holding = none
+}
+##d_yangsan
+###c_yangsan
+795 = { # yangsan 양산
+	culture = busan
+
+	religion = bailian
+
+	holding = castle_holding
+}
+792 = { # gasan 가산
+	holding = none
+}
+793 = { # mulgeum 물금
+	holding = church_holding
+}
+794 = { # wondong 외동
+	holding = city_holding
+}
+###c_yangbuk
+796 = { # sangbuk 상북
+	culture = busan
+
+	religion = bailian
+
+	holding = castle_holding
+}
+797 = { # habuk 하북
+	holding = church_holding
+}
+###c_ungsang
+179 = { # ungsang 웅상
+	culture = busan
+
+	religion = bailian
+
+	holding = castle_holding
+}

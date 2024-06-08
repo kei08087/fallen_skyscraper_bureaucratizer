@@ -1,0 +1,201 @@
+#k_changwon
+##d_changwon
+###c_changwon
+759 = { # changwon 창원
+	culture = jinhae
+
+	religion = unitizm
+
+	holding = castle_holding
+}
+760 = { # seongsan 성산
+	holding = church_holding
+}
+###c_uichang
+768 = { # daesan 대산
+	culture = miryang
+
+	religion = unitizm
+
+	holding = castle_holding
+}
+766 = { # changbuk 창북
+	holding = church_holding
+}
+767 = { # yongjam 용잠
+	holding = none
+}
+###c_hoewon
+173 = { # hoewon 회언
+	culture = jinhae
+
+	religion = unitizm
+
+	holding = castle_holding
+}
+758 = { # naeseo 내서
+	holding = church_holding
+}
+###c_masan
+757 = { # masan 마산
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+756 = { # gusan 구산
+	holding = church_holding
+}
+755 = { # jindong 진동
+	holding = none
+}
+754 = { # jinbuk 진북
+	holding = none
+}
+753 = { # jinjeon 진전
+	holding = none
+}
+###c_jinhae
+761 = { # jinhae 진해
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+728 = { # ungcheon 웅천
+	holding = church_holding
+}
+##d_geoje
+###c_geoje
+720 = { # geoje 거제
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+718 = { # sadeung 사등
+	holding = none
+}
+717 = { # dundeok 둔덕
+	holding = none
+}
+719 = { # jangpyeong 장평
+	holding = none
+}
+###c_jangseungpo
+724 = { # jangseungpo 장성포
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+721 = { # nambu 남부
+	holding = none
+}
+722 = { # dongbu 동부
+	holding = none
+}
+723 = { # irun 이룬
+	holding = none
+}
+###c_yeoncho
+726 = { # yeoncho 연초
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+727 = { # hacheong 하청
+	holding = none
+}
+237 = { # jangmok 장목
+	holding = none
+}
+725 = { # okpo 옥포
+	holding = none
+}
+##d_tongyeong
+###c_tongyeong
+236 = { # tongyeong 통영
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+716 = { # sanyang 산양
+	holding = none
+}
+228 = { # saryang 사량
+	holding = none
+}
+235 = { # yokji 욕지
+	holding = none
+}
+229 = { # hansan 한산
+	holding = none
+}
+###c_gwangdo
+751 = { # gwangdo 광도
+	culture = jinhae
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+750 = { # dosan 도산
+	holding = none
+}
+227 = { # yongnam 용남
+	holding = none
+}
+###c_namhae
+711 = { # namhae 남해
+	culture = sudsee_deutsch
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+708 = { # seolcheon 설천
+	holding = none
+}
+709 = { # gohyeon 고현
+	holding = none
+}
+710 = { # seosang 서상
+	holding = none
+}
+712 = { # danghang 당항
+	holding = none
+}
+###c_mulgeon
+715 = { # mulgeon 물건
+	culture = sudsee_deutsch
+
+	religion = lutheran
+
+	holding = castle_holding
+}
+713 = { # murim 무림
+	holding = none
+}
+714 = { # sangju 상주
+	holding = none
+}
+225 = { # mijo 미조
+	holding = none
+}
+###c_changseon
+226 = { # changseon 창선
+	culture = sudsee_deutsch
+
+	religion = lutheran
+
+	holding = castle_holding
+}

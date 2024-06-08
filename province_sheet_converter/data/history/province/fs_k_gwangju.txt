@@ -1,0 +1,142 @@
+#k_gwangju
+##d_damyang
+###c_changpyeong
+128 = { # nammyeon 남면
+	holding = none
+}
+138 = { # mudong 무동
+	holding = none
+}
+614 = { # goseo 고서
+	holding = none
+}
+615 = { # changpyeong 창평
+	culture = namwon
+
+	religion = catholic
+
+	holding = castle_holding
+}
+616 = { # daedeok 대덕
+	holding = church_holding
+}
+###c_samgye
+595 = { # samseo 삼서
+	holding = church_holding
+}
+596 = { # samgye 삼계
+	culture = saemangeum
+
+	religion = catholic
+
+	holding = castle_holding
+}
+597 = { # donghwa 동화
+	holding = none
+}
+598 = { # hwangryong 황룡
+	holding = none
+}
+599 = { # nammyeon 남면
+	holding = none
+}
+###c_g_jangseong
+600 = { # seosam 서삼
+	holding = none
+}
+601 = { # bukil 북일
+	holding = none
+}
+603 = { # bukha 북하
+	holding = none
+}
+604 = { # jangseong 장성
+	culture = saemangeum
+
+	religion = catholic
+
+	holding = castle_holding
+}
+605 = { # jinwon 진원
+	culture = saemangeum
+
+	religion = catholic
+
+	holding = city_holding
+}
+2672 = { # buki 북이
+	holding = none
+}
+###c_subuk
+606 = { # daejeon 대전
+	holding = church_holding
+}
+611 = { # subuk 수북
+	culture = namwon
+
+	religion = catholic
+
+	holding = castle_holding
+}
+612 = { # bongsan 봉산
+	holding = none
+}
+###c_damyang
+607 = { # wolsan 월산
+	holding = city_holding
+}
+608 = { # yongmyeon 용면
+	holding = church_holding
+}
+609 = { # geumseong 금성
+	holding = none
+}
+610 = { # damyang 담양
+	culture = namwon
+
+	religion = catholic
+
+	holding = castle_holding
+}
+613 = { # mujeong 무정
+	holding = none
+}
+##d_gwangju
+###c_gwangju
+129 = { # unam 운암
+	holding = city_holding
+}
+130 = { # hyodeok 효덕
+	holding = church_holding
+}
+564 = { # geumnam 금남
+	culture = gwangju
+
+	religion = catholic
+
+	holding = castle_holding
+}
+2667 = { # sangmu 상무
+	culture = gwangju
+
+	religion = catholic
+
+	holding = city_holding
+}
+###c_gwangsan
+563 = { # songjeong 송정
+	culture = gwangju
+
+	religion = catholic
+
+	holding = castle_holding
+}
+780 = { # bia 비아
+	holding = city_holding
+}
+4121 = { #  
+	holding = none
+}
+4122 = { #  
+	holding = none
+}

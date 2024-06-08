@@ -1,0 +1,275 @@
+﻿#k_cheongjin
+##d_cheongjin
+###c_cheongjin
+2680 = {	# Cheongjin
+	culture = gyeongseong
+	religion = cheonjin
+	holding = castle_holding
+}
+2328 = {	# Gyeongseong
+	holding = church_holding
+}
+2329 = {	# Jueul
+	holding = city_holding
+}
+2330 = {	# Jubuk
+	holding = city_holding
+}
+2331 = {	# Junam
+	holding = none
+}
+2332 = {	# Eorang
+	holding = none
+}
+356 = {	# Eodaejin
+	holding = none
+}
+
+###c_buryeong
+2334 = {	# Buryeong
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2333 = {	# Seosang
+	holding = city_holding
+}
+2335 = {	# Seokmak
+	holding = none
+}
+2336 = {	# Cheongam
+	holding = none
+}
+
+###c_samhae
+358 = {	# Samhae
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2339 = {	# Gwanhae
+	holding = city_holding
+}
+2338 = {	# Bugeo
+	holding = none
+}
+2337 = {	# Yeoncheon
+	holding = none
+}
+
+###c_hoeryeong
+359 = {	# Hoeryeong
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2351 = {	# Beokseong
+	holding = none
+}
+2349 = {	# Boeul
+	holding = city_holding
+}
+2350 = {	# Changdu
+	holding = none
+}
+
+###c_paleul
+2352 = {	# Paleul
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2354 = {	# Hwapung
+	holding = city_holding
+}
+2353 = {	# Yongheung
+	holding = none
+}
+
+##d_najin
+###c_najin
+361 = {	# Najin
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+360 = {	# Punghae
+	holding = city_holding
+}
+2373 = {	# Unggi
+	holding = church_holding
+}
+2370 = {	# Aoji
+	holding = city_holding
+}
+2371 = {	# Gyeongheung
+	holding = castle_holding
+}
+2372 = {	# Noseo
+	holding = none
+}
+
+###c_gyeongwon
+2365 = {	# Gyeongwon
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2366 = {	# Annong
+	holding = city_holding
+}
+2367 = {	# Dongwon
+	holding = none
+}
+
+###c_yongdeok
+2368 = {	# Yongdeok
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2369 = {	# Asan
+	holding = city_holding
+}
+368 = {	# Yudeok
+	holding = none
+}
+
+###c_jongseong
+362 = {	# Jongseong
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2359 = {	# Punggok
+	holding = city_holding
+}
+2358 = {	# Namsan
+	holding = none
+}
+
+###c_haengyeong
+2357 = {	# Haengyeong
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2356 = {	# Yonggye
+	holding = none
+}
+2355 = {	# Hwabang
+	holding = city_holding
+}
+
+###c_h_onseong
+2363 = {	# Onseong
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2364 = {	# Mipo
+	holding = city_holding
+}
+369 = {	# Hunyung
+	holding = none
+}
+
+###c_namyang
+2361 = {	# Namyang
+	culture = yukjin
+	religion = cheonjin
+	holding = castle_holding
+}
+2362 = {	# Yeongwa
+	holding = city_holding
+}
+2360 = {	# Yeongchung
+	holding = none
+}
+
+##d_seongjin
+###c_seongjin
+350 = {	# Seongjin
+	culture = gyeongseong
+	religion = cheonjin
+	holding = castle_holding
+}
+2303 = {	# Haknam
+	holding = city_holding
+}
+2304 = {	# Haksang
+	holding = church_holding
+}
+2305 = {	# Hakseo
+	holding = none
+}
+2306 = {	# Hakjung
+	holding = none
+}
+349 = {	# Hakdong
+	holding = none
+}
+
+###c_gilju
+351 = {	# Gilju
+	culture = gyeongseong
+	religion = cheonjin
+	holding = castle_holding
+}
+2319 = {	# Ungpyeong
+	holding = city_holding
+}
+2318 = {	# Donghae
+	holding = none
+}
+
+###c_h_deoksan
+2317 = {	# Deoksan
+	culture = gyeongseong
+	religion = cheonjin
+	holding = castle_holding
+}
+2316 = {	# Jangbaek
+	holding = city_holding
+}
+2315 = {	# Yangsa
+	holding = none
+}
+
+###c_myeongcheon
+2682 = {	# Myeongcheon
+	culture = gyeongseong
+	religion = cheonjin
+	holding = castle_holding
+}
+2321 = {	# Ssanggye
+	holding = none
+}
+355 = {	# Honam
+	holding = none
+}
+2327 = {	# Ibseok
+	holding = city_holding
+}
+2326 = {	# Hau
+	holding = none
+}
+
+###c_haga
+2681 = {	# Haga
+	culture = gyeongseong
+	religion = cheonjin
+	holding = castle_holding
+}
+2323 = {	# Sangga
+	holding = none
+}
+2324 = {	# Hago
+	holding = none
+}
+2322 = {	# Agan
+	holding = city_holding
+}
+2325 = {	# Sanggo
+	holding = none
+}

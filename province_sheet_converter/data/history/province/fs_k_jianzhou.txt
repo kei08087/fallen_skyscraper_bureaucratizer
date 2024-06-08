@@ -1,0 +1,577 @@
+#k_jianzhou
+##d_tunghua
+###c_tunghua
+3242 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3247 = { #  
+	holding = none
+}
+3252 = { #  
+	holding = none
+}
+###c_erdaojang
+3246 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3249 = { #  
+	holding = none
+}
+3248 = { #  
+	holding = none
+}
+3250 = { #  
+	holding = none
+}
+###c_donglai
+3251 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3254 = { #  
+	holding = none
+}
+3255 = { #  
+	holding = none
+}
+###c_kuaidamao
+3240 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3238 = { #  
+	holding = none
+}
+3237 = { #  
+	holding = none
+}
+3241 = { #  
+	holding = none
+}
+###c_sankeyusu
+3234 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3233 = { #  
+	holding = none
+}
+3236 = { #  
+	holding = none
+}
+3235 = { #  
+	holding = none
+}
+###c_guanghua
+3243 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3244 = { #  
+	holding = none
+}
+3245 = { #  
+	holding = none
+}
+3239 = { #  
+	holding = none
+}
+##d_jian
+###c_jian
+3264 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3263 = { #  
+	holding = none
+}
+3266 = { #  
+	holding = none
+}
+3265 = { #  
+	holding = none
+}
+###c_liangshuei
+3261 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3260 = { #  
+	holding = none
+}
+3262 = { #  
+	holding = none
+}
+###c_huashun
+3258 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3256 = { #  
+	holding = none
+}
+3253 = { #  
+	holding = none
+}
+3257 = { #  
+	holding = none
+}
+3259 = { #  
+	holding = none
+}
+##d_xinbin
+###c_sinbin
+3213 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3212 = { #  
+	holding = none
+}
+3214 = { #  
+	holding = none
+}
+###c_wangqingmen
+3216 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3215 = { #  
+	holding = none
+}
+3217 = { #  
+	holding = none
+}
+3232 = { #  
+	holding = none
+}
+###c_muqi
+3208 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3207 = { #  
+	holding = none
+}
+3211 = { #  
+	holding = none
+}
+###c_dasiping
+3209 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3210 = { #  
+	holding = none
+}
+3206 = { #  
+	holding = none
+}
+3205 = { #  
+	holding = none
+}
+##d_huanren
+###c_huanren
+3224 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3219 = { #  
+	holding = none
+}
+3218 = { #  
+	holding = none
+}
+3220 = { #  
+	holding = none
+}
+###c_shajianzi
+3230 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3223 = { #  
+	holding = none
+}
+3221 = { #  
+	holding = none
+}
+3231 = { #  
+	holding = none
+}
+3229 = { #  
+	holding = none
+}
+###c_gucheng
+3227 = { #  
+	culture = yalu_manchu
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3226 = { #  
+	holding = none
+}
+3228 = { #  
+	holding = none
+}
+##d_baishan
+###c_baekshan
+3268 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3273 = { #  
+	holding = none
+}
+3267 = { #  
+	holding = none
+}
+3269 = { #  
+	holding = none
+}
+3270 = { #  
+	holding = none
+}
+###c_zangwian
+3275 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3274 = { #  
+	holding = none
+}
+3276 = { #  
+	holding = none
+}
+3272 = { #  
+	holding = none
+}
+3309 = { #  
+	holding = none
+}
+3313 = { #  
+	holding = none
+}
+###c_zingwi
+3280 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3281 = { #  
+	holding = none
+}
+3279 = { #  
+	holding = none
+}
+3285 = { #  
+	holding = none
+}
+3290 = { #  
+	holding = none
+}
+###c_chisong
+3284 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3283 = { #  
+	holding = none
+}
+3282 = { #  
+	holding = none
+}
+##d_linzhang
+###c_linzhang
+3278 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3271 = { #  
+	holding = none
+}
+3277 = { #  
+	holding = none
+}
+3310 = { #  
+	holding = none
+}
+###c_xidaogou
+3312 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3315 = { #  
+	holding = none
+}
+3311 = { #  
+	holding = none
+}
+3304 = { #  
+	holding = none
+}
+###c_changbai
+3302 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3300 = { #  
+	holding = none
+}
+3301 = { #  
+	holding = none
+}
+3303 = { #  
+	holding = none
+}
+###c_badaogou
+3308 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3305 = { #  
+	holding = none
+}
+3306 = { #  
+	holding = none
+}
+3307 = { #  
+	holding = none
+}
+##d_pussung
+###c_pussung
+3291 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3287 = { #  
+	holding = none
+}
+3296 = { #  
+	holding = none
+}
+3295 = { #  
+	holding = none
+}
+3297 = { #  
+	holding = none
+}
+###c_singtunji
+3288 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3286 = { #  
+	holding = none
+}
+3289 = { #  
+	holding = none
+}
+###c_beigang
+3292 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3294 = { #  
+	holding = none
+}
+3293 = { #  
+	holding = none
+}
+###c_tonggang
+3298 = { #  
+	culture = west_changbai
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3314 = { #  
+	holding = none
+}
+3299 = { #  
+	holding = none
+}
+##d_liaoyuan
+###c_liaoyuan
+3320 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3321 = { #  
+	holding = none
+}
+3324 = { #  
+	holding = none
+}
+###c_dongliao
+3322 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3323 = { #  
+	holding = none
+}
+3326 = { #  
+	holding = none
+}
+3325 = { #  
+	holding = none
+}
+###c_yangmulin
+3327 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3328 = { #  
+	holding = none
+}
+###c_xiaoyang
+3331 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3330 = { #  
+	holding = none
+}
+3329 = { #  
+	holding = none
+}
+###c_natanbo
+3332 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3333 = { #  
+	holding = none
+}
+3334 = { #  
+	holding = none
+}
+###c_niuxingding
+3337 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3336 = { #  
+	holding = none
+}
+3335 = { #  
+	holding = none
+}
+###c_baichuan
+3319 = { #  
+	culture = liaoyuan
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3318 = { #  
+	holding = none
+}
+3317 = { #  
+	holding = none
+}
+3316 = { #  
+	holding = none
+}

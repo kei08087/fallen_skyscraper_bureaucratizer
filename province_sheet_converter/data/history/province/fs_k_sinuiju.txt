@@ -1,0 +1,33 @@
+#k_sinuiju
+##
+###
+314 = { # yonggye 용계
+	holding = 
+}
+316 = { # anheung 안흥
+	holding = 
+}
+317 = { # simcheon 심천
+	holding = 
+}
+318 = { # seorim 서림
+	holding = 
+}
+319 = { # yulgok 율곡
+	holding = 
+}
+320 = { # sinuiju 신의주
+	holding = 
+}
+321 = { # wihwa 위화
+	holding = 
+}
+322 = { # sogwan 소관
+	holding = 
+}
+324 = { # ansim 안심
+	holding = 
+}
+4004 = { # dongdang 신도
+	holding = 
+}

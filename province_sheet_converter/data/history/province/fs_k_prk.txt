@@ -1,0 +1,460 @@
+#k_prk
+##d_pyongyang
+###c_pyongyang
+303 = { # pyeongyang 평양
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = city_holding
+}
+4019 = { # moranbong 모란봉
+	holding = castle_holding
+}
+4017 = { # daedonggang 대동강
+	holding = city_holding
+}
+2036 = { # imwon 임원
+	holding = church_holding
+}
+302 = { # seocheon 서천
+	holding = none
+}
+###c_taedong
+2044 = { # gimje 김제
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2045 = { # namhyeongjesan 남형제산
+	holding = city_holding
+}
+2040 = { # jaegyeongri 재경리
+	holding = none
+}
+1967 = { # deoksan 덕산
+	holding = none
+}
+###c_taebo
+2042 = { # taebo 대보
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2041 = { # gopyeong 고평
+	holding = none
+}
+2043 = { # ryongsan 룡산
+	holding = none
+}
+2061 = { # chori 초리
+	holding = none
+}
+2062 = { # ingcha 잉차
+	holding = none
+}
+###c_nakrang
+4018 = { # nakrang 낙랑
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2034 = { # ryongyeon 룡연
+	holding = church_holding
+}
+2037 = { # namgwan 남관
+	holding = city_holding
+}
+2030 = { # dangjeong 당정
+	holding = none
+}
+###c_east_pyongyang
+4016 = { # sadong 사동
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = city_holding
+}
+2033 = { # ryulri 률리
+	holding = castle_holding
+}
+2032 = { # cheongryong 청룡
+	holding = church_holding
+}
+###c_ryongsong
+2039 = { # busan 부산
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2038 = { # ryongak 룡악
+	holding = none
+}
+2035 = { # sijok 시족
+	holding = none
+}
+##d_kangdong
+###c_kangdong
+2007 = { # seungho 승호
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2005 = { # samdeung 삼등
+	holding = church_holding
+}
+2006 = { # kangdong 강동
+	holding = city_holding
+}
+###c_samsok
+2008 = { # wontan 원탄
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2009 = { # gocheon 고천
+	holding = none
+}
+304 = { # bongjin 봉진
+	holding = none
+}
+##d_junghwa
+###c_junghwa
+2028 = { # junghwa 중화
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2031 = { # yangjeong 양정
+	holding = none
+}
+2029 = { # sinheung 신흥
+	holding = none
+}
+299 = { # haeap 해압
+	holding = none
+}
+2027 = { # dongdu 동두
+	holding = none
+}
+###c_sangwon
+2025 = { # sangwon 상원
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2024 = { # susan 수산
+	holding = none
+}
+2023 = { # cheongok 천곡
+	holding = none
+}
+2022 = { # gandong 간동
+	holding = none
+}
+2026 = { # pungdong 풍동
+	holding = none
+}
+##d_nampho
+###c_nampho
+2048 = { # osin 오신
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = city_holding
+}
+2046 = { # dami 다미
+	holding = castle_holding
+}
+2047 = { # jinnampho 진남포
+	holding = none
+}
+###c_ryonggang
+2057 = { # ryonggang 룡강
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2051 = { # jiun 지운
+	holding = none
+}
+2052 = { # yanggok 양곡
+	holding = none
+}
+###c_haeun
+2056 = { # haeun 해운
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2058 = { # ryongwol 룡월
+	holding = none
+}
+300 = { # seohwa 서화
+	holding = none
+}
+###c_samhwa
+2053 = { # samhwa 삼화
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2049 = { # daedae 대대
+	holding = none
+}
+2050 = { # sinryeong 신령
+	holding = none
+}
+2054 = { # geumgok 금곡
+	holding = none
+}
+2055 = { # gwiseong 귀성
+	holding = none
+}
+##d_kangso
+###c_kangso
+2064 = { # kangso 강서
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2059 = { # seongam 성암
+	holding = none
+}
+2060 = { # borim 보림
+	holding = none
+}
+2063 = { # dongjin 동진
+	holding = none
+}
+2065 = { # susan 수산
+	holding = none
+}
+###c_hamjong
+2066 = { # hamjong 함종
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2069 = { # sinjeong 신정
+	holding = none
+}
+###c_jungsan
+2071 = { # jungsan 증산
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2067 = { # banseok 반석
+	holding = none
+}
+2068 = { # ssangryong 쌍룡
+	holding = none
+}
+###c_joksong
+301 = { # joksong 적송
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+307 = { # hancheon 한천
+	holding = none
+}
+2070 = { # seongtae 성태
+	holding = church_holding
+}
+##d_anju
+###c_anju
+1941 = { # anju 안주
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1939 = { # e.anju 동안주
+	holding = castle_holding
+}
+1940 = { # ungok 운곡
+	holding = church_holding
+}
+1943 = { # sinanju 신안주
+	holding = city_holding
+}
+###c_ryonghwa
+1944 = { # ryonghwa 룡화
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1945 = { # yeonho 연호
+	holding = none
+}
+1942 = { # daeni 대니
+	holding = church_holding
+}
+310 = { # libseok 립석
+	holding = none
+}
+###c_phyongwon
+1962 = { # phyongwon 평원
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1964 = { # haeso 해소
+	holding = none
+}
+1965 = { # ryongho 룡호
+	holding = none
+}
+1966 = { # noji 노지
+	holding = none
+}
+1968 = { # cheongsan 청산
+	holding = none
+}
+###c_sunan
+1960 = { # sunan 순안
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1961 = { # yanghwa 양화
+	holding = none
+}
+1959 = { # dongam 동암
+	holding = none
+}
+1958 = { # gongdeok 공덕
+	holding = none
+}
+###c_sukchon
+1957 = { # sukchon 숙천
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1954 = { # dongsong 동송
+	holding = none
+}
+1955 = { # geomsan 검산
+	holding = none
+}
+1956 = { # seohae 서해
+	holding = none
+}
+1963 = { # joun 조운
+	holding = none
+}
+##d_sunchon
+###c_sunchon
+1948 = { # sunchon 순천
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1946 = { # naenam 내남
+	holding = none
+}
+1952 = { # jasan 자산
+	holding = none
+}
+###c_phyongsong
+308 = { # sain 사인
+	culture = pyongyang
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1953 = { # hutan 후탄
+	holding = city_holding
+}
+###c_eunsan
+1950 = { # eunsan 은산
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1947 = { # bukchang 북창
+	holding = none
+}
+1949 = { # seonso 선소
+	holding = none
+}
+1951 = { # sinchang 신창
+	holding = none
+}
+###c_kaechon
+1937 = { # gaechon 개천
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1938 = { # jungseo 중서
+	holding = none
+}
+1936 = { # wonri 원리
+	holding = none
+}
+###c_joyang
+1935 = { # joyang 조양
+	culture = anju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1934 = { # bongdong 봉동
+	holding = none
+}
+311 = { # jungnam 중남
+	holding = none
+}

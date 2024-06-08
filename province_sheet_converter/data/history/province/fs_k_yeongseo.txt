@@ -1,0 +1,297 @@
+#k_yeongseo
+##d_wonju
+###c_heungeop
+240 = { # heungeop 흥업
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1453 = { # sinrim 신림
+	holding = none
+}
+1457 = { # panbu 판부
+	holding = none
+}
+###c_dunnae
+1459 = { # anheung 안흥
+	holding = none
+}
+1460 = { # dunnae 둔내
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1461 = { # ucheon 우천
+	holding = none
+}
+2665 = { # gangrim 강림
+	holding = none
+}
+###c_hoengseong
+1462 = { # cheongil 청일
+	holding = none
+}
+1463 = { # gapcheon 갑천
+	holding = none
+}
+1464 = { # hoengseong 횡성
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1465 = { # gonggeun 공근
+	holding = none
+}
+2657 = { # seowon 서원
+	holding = none
+}
+###c_wonju
+1466 = { # socho 소초
+	holding = none
+}
+1467 = { # wonju 원주
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1468 = { # hojeo 호저
+	holding = none
+}
+1469 = { # jijeong 지정
+	holding = none
+}
+###c_munmak
+1542 = { # gwiraeri 귀래
+	holding = none
+}
+1543 = { # munmak 문막
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1545 = { # buron 부론
+	holding = none
+}
+##d_pyeongchang
+###c_sabuk
+245 = { # sabuk 사북
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1228 = { # gohan 고한
+	holding = none
+}
+1235 = { # imgye 임계
+	holding = none
+}
+1236 = { # hwaam 화암
+	holding = none
+}
+1237 = { # yeoryang 여량
+	holding = none
+}
+###c_pyeongchang
+270 = { # mitan 미탄
+	holding = none
+}
+1253 = { # bangrim 방림
+	holding = none
+}
+1254 = { # daehwa 대화
+	holding = none
+}
+1255 = { # pyeongchang 평창
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1267 = { # dodon 도돈
+	holding = none
+}
+###c_jeongseon
+1238 = { # bukpyeong 북평
+	holding = none
+}
+1239 = { # jeongseon 정선
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1240 = { # S.jeongseon 문곡
+	holding = none
+}
+1256 = { # sindong 신동
+	holding = none
+}
+###c_daegwanryeong
+1251 = { # yongpyeong 용평
+	holding = none
+}
+1252 = { # bongpyeong 봉평
+	holding = none
+}
+2663 = { # daegwanryeong 대관령
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2664 = { # jinbu 진부
+	holding = none
+}
+##d_yeongwol
+###c_hanbando
+247 = { # mureungdowon(suju) 수주
+	holding = none
+}
+1266 = { # jucheon 주천
+	holding = none
+}
+1271 = { # hanbando 녹전
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+###c_gimsatgat
+1234 = { # sangdong 상동
+	holding = none
+}
+1257 = { # jungdong 중동
+	holding = none
+}
+1258 = { # gimsatgat 하동
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+###c_yeongwol
+1259 = { # yeonha 연하
+	holding = none
+}
+1268 = { # N.yeongwol 연당
+	holding = none
+}
+1269 = { # yeongwol 영월
+	culture = jecheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1270 = { # S.yeongwol 마차
+	holding = none
+}
+##d_chuncheon
+###c_namsan
+275 = { # s.chuncheon 발산
+	holding = none
+}
+1620 = { # w.chuncheon 금산
+	holding = none
+}
+1623 = { # namsan 남산
+	culture = chuncheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+###c_hwachon
+1578 = { # naehongcheon 창촌
+	holding = none
+}
+1579 = { # seoseok 서석
+	holding = none
+}
+1580 = { # naechon 내촌
+	holding = none
+}
+1581 = { # duchon 두촌
+	holding = none
+}
+1582 = { # hwachon 화촌
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+###c_hongcheon
+1583 = { # e.hongcheon 동홍천
+	holding = none
+}
+1584 = { # hongcheon 홍천
+	culture = wonju
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1585 = { # bukbang 북방
+	holding = none
+}
+1586 = { # w.hongcheon 감물악
+	holding = none
+}
+2660 = { # s.hongcheon 양덕원
+	holding = none
+}
+###c_sinbuk
+1614 = { # sabuk 사북
+	holding = none
+}
+1615 = { # buksan 북산
+	holding = none
+}
+1616 = { # e.chuncheon 만학
+	holding = none
+}
+1618 = { # sinbuk 신북
+	culture = chuncheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2658 = { # otan 오탄
+	holding = none
+}
+###c_chuncheon
+1617 = { # dongnae 동내
+	holding = none
+}
+1619 = { # chuncheon 춘천
+	culture = chuncheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1621 = { # dongsan 동산
+	holding = none
+}
+1622 = { # sindong 신동
+	holding = none
+}

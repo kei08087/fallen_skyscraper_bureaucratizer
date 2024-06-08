@@ -1,0 +1,391 @@
+#k_hwangju
+##d_hwangju
+###c_hwangju
+2016 = { # hwangju 황주
+	culture = hwangju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2018 = { # naeoe 내외
+	holding = none
+}
+2019 = { # heukgyo 흑교
+	holding = none
+}
+2015 = { # changmae 창매
+	holding = none
+}
+###c_songrim
+295 = { # songrim 송림
+	culture = hwangju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2021 = { # gwangchen 광천
+	holding = none
+}
+2020 = { # yonggung 용궁
+	holding = none
+}
+2017 = { # samjeong 삼정
+	holding = none
+}
+###c_cheoldo
+2014 = { # cheoldo 철도
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+2012 = { # suncheon 순천
+	holding = none
+}
+2013 = { # gupo 구포
+	holding = none
+}
+2011 = { # dochi 도치
+	holding = none
+}
+###c_yeontan
+2010 = { # yeontan 연탄
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+296 = { # pungdap 풍답
+	holding = none
+}
+1898 = { # songjuk 송죽
+	holding = none
+}
+##d_sariwon
+###c_sariwon
+294 = { # sariwon 사리원
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1886 = { # jeongbang 정방
+	holding = none
+}
+293 = { # seonjeong 선정
+	holding = none
+}
+1888 = { # migok 미곡
+	holding = none
+}
+###c_bongsan
+1885 = { # bongsan 봉산
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1887 = { # myosong 묘송
+	holding = none
+}
+1884 = { # toseong 토성
+	holding = none
+}
+###c_obong
+1883 = { # obong 오봉
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1894 = { # sugok 수곡
+	holding = none
+}
+1882 = { # gusan 구산
+	holding = none
+}
+##d_Insan
+###c_insan
+1787 = { # insan 인산
+	culture = hwangju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+1788 = { # sangwol 상월
+	holding = none
+}
+1786 = { # baekcheon 백천
+	holding = none
+}
+1789 = { # suhyeon 수현
+	holding = none
+}
+###c_eunpa
+1880 = { # eunpa 은파
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1881 = { # gangan 강안
+	holding = none
+}
+1878 = { # gisan 기산
+	holding = none
+}
+###c_gwangmyeong
+1877 = { # gwangmyeong 광명
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1879 = { # jeokseong 적성
+	holding = none
+}
+1889 = { # seokgyo 석교
+	holding = none
+}
+##d_singye
+###c_singye
+1776 = { # singye 신계
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1777 = { # eunjeom 은점
+	holding = none
+}
+297 = { # hwaya 화야
+	holding = none
+}
+1772 = { # hwaseong 화성
+	holding = none
+}
+###c_seoheung
+1891 = { # seoheung 서흥
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1890 = { # geumreung 금릉
+	holding = none
+}
+1892 = { # daepyeong 대평
+	holding = none
+}
+###c_daehyeong
+1893 = { # daehyeong 대형
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+1895 = { # gwijin 귀진
+	holding = none
+}
+1896 = { # jajak 자작
+	holding = none
+}
+###c_wangdang
+1773 = { # wangdang 왕당
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1775 = { # chimgyo 침교
+	holding = none
+}
+1774 = { # geumseong 금성
+	holding = none
+}
+1771 = { # sahyeon 사현
+	holding = none
+}
+##d_kumchon
+###c_kumchon
+1749 = { # kumchon 금천
+	culture = hwangju
+
+	religion = naturalism_pagan
+
+	holding = castle_holding
+}
+1748 = { # hyeonnae 현내
+	holding = none
+}
+1750 = { # gyejeong 계정
+	holding = none
+}
+###c_samchun
+1781 = { # samchun 삼춘
+	culture = hwangju
+
+	religion = naturalism_pagan
+
+	holding = castle_holding
+}
+1778 = { # pyeongsan 평산
+	holding = none
+}
+1747 = { # baekang 백앙
+	holding = none
+}
+###c_boksu
+1779 = { # boksu 복수
+	culture = hwangju
+
+	religion = naturalism_pagan
+
+	holding = castle_holding
+}
+1780 = { # sanseong 산성
+	holding = none
+}
+1782 = { # haewol 해월
+	holding = none
+}
+###c_tosan
+1744 = { # tosan 토산
+	culture = hwangju
+
+	religion = naturalism_pagan
+
+	holding = castle_holding
+}
+1746 = { # songse 송세
+	holding = none
+}
+1742 = { # hwanggang 황강
+	holding = none
+}
+1745 = { # midang 미당
+	holding = none
+}
+1743 = { # suhap 수합
+	holding = none
+}
+1741 = { # yangsa 양사
+	holding = none
+}
+##d_suan
+###c_suan
+1991 = { # suan 수안
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1993 = { # cheolsan 철산
+	holding = none
+}
+1992 = { # cheonam 천암
+	holding = none
+}
+1990 = { # dojeon 도전
+	holding = none
+}
+1983 = { # yeongjeo 영저
+	holding = none
+}
+###c_ryeonsan
+1989 = { # ryeonsan 연산
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1986 = { # holdong 홀동
+	holding = none
+}
+1987 = { # daeryeong 대령
+	holding = none
+}
+1988 = { # daesan 대산
+	holding = none
+}
+###c_seongmae
+1897 = { # seongmae 성매
+	culture = hwangju
+
+	religion = juche
+
+	holding = castle_holding
+}
+298 = { # obong 오봉
+	holding = none
+}
+###c_goksan
+331 = { # goksan 곡산
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1985 = { # pyeongam 평암
+	holding = none
+}
+##d_holdong
+###c_umil
+1984 = { # umil 우밀
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1982 = { # goseong 고성
+	holding = none
+}
+1981 = { # dongsan 동산
+	holding = none
+}
+###c_h_sinpyeong
+1975 = { # sinpyeong 신평
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1976 = { # daeheung 대흥
+	holding = none
+}
+1977 = { # baeksan 백산
+	holding = none
+}
+###c_holdong
+1979 = { # holdong 홀동
+	culture = singye
+
+	religion = juche
+
+	holding = castle_holding
+}
+1980 = { # daegun 대군
+	holding = none
+}
+1978 = { # geomdae 금대
+	holding = none
+}

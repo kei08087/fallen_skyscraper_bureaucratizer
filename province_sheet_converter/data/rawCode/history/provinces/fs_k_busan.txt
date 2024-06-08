@@ -1,0 +1,140 @@
+﻿#k_busan 
+##d_busan  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_busan
+
+779={#Busan
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+	2400.1.1 = {
+		buildings = {
+			Busan_Port_00
+		}
+	}
+}
+781={#Dongpyeong
+	holding = city_holding
+}
+763 = {#Yeongdo
+	holding = church_holding
+}
+### c_easternbusan
+787={#Haeundae
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+
+783 = {#Suyeong
+	holding = none
+}
+782 = { #Daeyeon(Namgu)
+	holding = church_holding
+}
+ 
+ 
+### c_westernbusan
+777 = {#Gupo(Bukgu)
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+775 = {#Saha
+	holding = none
+}
+776 = {#Sasang
+	holding = none
+}
+774 = {#Gangseo
+	holding = church_holding
+}
+ 
+### c_dongrae
+785={#Dongrae
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+
+784 = {#Yeonje
+	holding = none
+} 
+786 = {#Geumjeong
+	holding = church_holding
+	
+	2400.1.1 = {
+		special_building_slot = pusan_national_university
+	}
+	2500.1.1 = {
+		special_building = pusan_national_university
+	}
+} 
+  
+  
+### c_gijang
+788={#Gijang
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+
+789 = {#Cheolma
+	holding = church_holding
+} 
+790 = {#Ilgwang
+	holding = none
+}  
+791 = {#Jeonggwan
+	holding = none
+} 
+178 = {#Jangan
+	holding = none
+} 
+
+
+##d_gimhae  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_gimhae
+765={#Gimhae
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+
+770 = {#Juchon
+	holding = church_holding
+} 
+762 = {#Jangyu
+	holding = city_holding
+}  
+ 
+
+### c_daedong
+177={#Daedong
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+
+773 = {#Sangdong
+	holding = church_holding
+} 
+772 = {#Saengrim
+	holding = none
+}  
+ 
+
+### c_jinyeong
+769={#Jinyeong
+	culture = busan 
+	religion = unitizm
+	holding = city_holding
+}
+
+771 = {#Hanrim
+	holding = none
+} 
+764 = {#Jinrye
+	holding = church_holding
+}  
+ 
+  

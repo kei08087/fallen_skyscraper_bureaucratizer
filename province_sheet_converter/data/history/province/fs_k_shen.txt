@@ -1,0 +1,370 @@
+#k_shen
+##d_shenyang
+###c_shenyang
+3137 = { #  
+	culture = chaoxian
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+3100 = { #  
+	holding = none
+}
+3104 = { #  
+	holding = none
+}
+3095 = { #  
+	holding = none
+}
+###c_tieshi
+3138 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3088 = { #  
+	holding = none
+}
+3089 = { #  
+	holding = none
+}
+3085 = { #  
+	holding = none
+}
+###c_shenbei
+3102 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3105 = { #  
+	holding = none
+}
+3092 = { #  
+	holding = none
+}
+3103 = { #  
+	holding = none
+}
+3107 = { #  
+	holding = none
+}
+###c_hunnan
+3101 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = castle_holding
+}
+3108 = { #  
+	holding = none
+}
+3110 = { #  
+	holding = none
+}
+###c_sujiatun
+3093 = { #  
+	culture = liaoshen
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+3087 = { #  
+	holding = none
+}
+3094 = { #  
+	holding = none
+}
+###c_qianxiangtun
+3099 = { #  
+	culture = mukden
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3096 = { #  
+	holding = none
+}
+3097 = { #  
+	holding = none
+}
+3098 = { #  
+	holding = none
+}
+3106 = { #  
+	holding = none
+}
+##d_liaozhong
+###c_liaozhong
+3063 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3057 = { #  
+	holding = none
+}
+3055 = { #  
+	holding = none
+}
+3056 = { #  
+	holding = none
+}
+###c_chingbo
+3059 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3058 = { #  
+	holding = none
+}
+3060 = { #  
+	holding = none
+}
+3076 = { #  
+	holding = none
+}
+3066 = { #  
+	holding = none
+}
+###c_singjongtai
+3065 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3079 = { #  
+	holding = none
+}
+3086 = { #  
+	holding = none
+}
+3064 = { #  
+	holding = none
+}
+##d_sinmin
+###c_sinmin
+3074 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3083 = { #  
+	holding = none
+}
+3081 = { #  
+	holding = none
+}
+###c_damintun
+3077 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3078 = { #  
+	holding = none
+}
+3080 = { #  
+	holding = none
+}
+3084 = { #  
+	holding = none
+}
+###c_gongjutun
+3073 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3072 = { #  
+	holding = none
+}
+3082 = { #  
+	holding = none
+}
+3091 = { #  
+	holding = none
+}
+3090 = { #  
+	holding = none
+}
+###c_liangsan
+3070 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3069 = { #  
+	holding = none
+}
+3068 = { #  
+	holding = none
+}
+###c_dahongchi
+3071 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3075 = { #  
+	holding = none
+}
+3062 = { #  
+	holding = none
+}
+3061 = { #  
+	holding = none
+}
+3067 = { #  
+	holding = none
+}
+##d_suncheong
+###c_suncheong
+3112 = { #  
+	culture = chaoxian
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+3111 = { #  
+	holding = none
+}
+3109 = { #  
+	holding = none
+}
+3115 = { #  
+	holding = none
+}
+###c_siwen
+3114 = { #  
+	culture = mukden
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3113 = { #  
+	holding = none
+}
+3117 = { #  
+	holding = none
+}
+3118 = { #  
+	holding = none
+}
+###c_houan
+3119 = { #  
+	culture = mukden
+
+	religion = aisin_gioro
+
+	holding = tribal_holding
+}
+3120 = { #  
+	holding = none
+}
+3121 = { #  
+	holding = none
+}
+###c_hadaji
+3122 = { #  
+	culture = chaoxian
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+3123 = { #  
+	holding = none
+}
+3116 = { #  
+	holding = none
+}
+##d_tieling
+###c_tieling
+3132 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3131 = { #  
+	holding = none
+}
+3133 = { #  
+	holding = none
+}
+###c_feidi
+3135 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3136 = { #  
+	holding = none
+}
+###c_kaiyuan
+3130 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3129 = { #  
+	holding = none
+}
+###c_xiaobao
+3128 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3127 = { #  
+	holding = none
+}
+###c_aji
+3124 = { #  
+	culture = mukden
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3125 = { #  
+	holding = none
+}
+3126 = { #  
+	holding = none
+}

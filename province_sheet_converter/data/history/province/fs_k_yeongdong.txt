@@ -1,0 +1,203 @@
+#k_yeongdong
+##d_donghae
+###c_donghae
+246 = { # samcheok 삼척
+	holding = none
+}
+1227 = { # miro 미로
+	holding = none
+}
+2656 = { # donghae 동해
+	culture = gangneung
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+###c_oesamcheok
+1221 = { # gagok 가곡
+	holding = none
+}
+1222 = { # wondeok 원덕
+	culture = gangneung
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+1223 = { # nogok 노곡
+	holding = none
+}
+1224 = { # geundeok 근덕
+	holding = none
+}
+###c_taebaek
+1225 = { # dogye 도계
+	holding = none
+}
+1226 = { # hajang 하장
+	holding = none
+}
+1233 = { # taebaek 태백
+	culture = gangneung
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+##d_sokcho
+###c_sokcho
+268 = { # sokcho 속초
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1592 = { # toseong 토성
+	holding = none
+}
+1593 = { # jukwang 죽왕
+	holding = none
+}
+1594 = { # ganseong 간성
+	holding = none
+}
+###c_yangyang
+271 = { # yangyang 양양
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1589 = { # w.yangyang 한계령
+	holding = none
+}
+1591 = { # ganghyeon 강현
+	holding = none
+}
+###c_s.yangyang
+1587 = { # hyeonnam 현남
+	holding = none
+}
+1588 = { # hyeonbuk 현북
+	holding = none
+}
+1590 = { # sonyang 손양
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+###c_koseong
+1595 = { # geojin 거진
+	holding = none
+}
+1596 = { # sudong 수동
+	holding = none
+}
+1597 = { # koseong 고성
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1598 = { # hyeonnae 현내
+	holding = none
+}
+##d_tongcheon
+###c_jangjeon
+276 = { # jangjeon 장전
+	culture = geumgang
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1599 = { # w.koseong 송탄
+	holding = none
+}
+1600 = { # oegeumgang 외금감
+	holding = none
+}
+###c_tongcheon
+1655 = { # imnam 임남
+	holding = none
+}
+1656 = { # byeokyang 벽양
+	holding = none
+}
+1657 = { # tongcheon 통천
+	culture = geumgang
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1658 = { # gojeo 고저
+	holding = none
+}
+###c_songjeon
+1659 = { # songjeon 송전
+	culture = geumgang
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1660 = { # hakil 학일
+	holding = none
+}
+1661 = { # heubgok 흡곡
+	holding = none
+}
+##d_gangneung
+###c_wangsan
+1241 = { # okgye 옥계
+	holding = none
+}
+1242 = { # wangsan 왕산
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+1243 = { # gangdong 강동
+	holding = none
+}
+###c_gangneung
+1245 = { # seongsan 성산
+	holding = none
+}
+1246 = { # gangneung 강릉
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+2661 = { # gujeong 구정
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = none
+}
+###c_jumunjin
+1247 = { # sacheon 사천
+	holding = none
+}
+2655 = { # jumunjin 주문진
+	culture = gangneung
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+2662 = { # yeongok 영옥
+	holding = none
+}

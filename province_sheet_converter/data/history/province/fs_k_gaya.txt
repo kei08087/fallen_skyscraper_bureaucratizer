@@ -1,0 +1,361 @@
+#k_gaya
+##d_sancheong
+###c_geumyang
+145 = { # jingyo 진교
+	holding = none
+}
+704 = { # gojeon 고전
+	holding = none
+}
+705 = { # geumseong 금성
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+706 = { # yangbo 양보
+	holding = none
+}
+707 = { # geumnam 금남
+	holding = none
+}
+###c_sancheong
+157 = { # chahwang 차황
+	holding = none
+}
+798 = { # samjang 삼장
+	holding = none
+}
+803 = { # sancheong 산청
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+804 = { # geumseo 금서
+	holding = none
+}
+805 = { # saengcho 생초
+	holding = none
+}
+806 = { # obu 오부
+	holding = none
+}
+2607 = { # sicheon 시천
+	holding = none
+}
+###c_hadong
+696 = { # hwagae 화개
+	holding = city_holding # 화개장터
+}
+698 = { # agyang 악양
+	holding = none
+}
+702 = { # jeokryang 적량
+	holding = none
+}
+703 = { # hadong 하동
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+###c_okjong
+697 = { # cheongam 청암
+	holding = none
+}
+699 = { # okjong 옥종
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+700 = { # bukcheon 북천
+	holding = none
+}
+701 = { # hwangcheon 황천
+	holding = none
+}
+###c_danseong
+799 = { # danseong 단성
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+800 = { # sinan 압해
+	holding = none
+}
+801 = { # saengbiryang 생비량
+	holding = none
+}
+802 = { # sindeung 신등
+	holding = none
+}
+##d_geochang
+###c_hamyang
+149 = { # hyucheon 휴천
+	holding = none
+}
+150 = { # yurim 유림
+	holding = none
+}
+695 = { # macheon 마천
+	holding = none
+}
+1013 = { # baekjeon 백전
+	holding = none
+}
+1014 = { # hamyang 함양
+	culture = gaya
+
+	religion = jogye
+
+	holding = castle_holding
+}
+1015 = { # byeonggok 병곡
+	holding = none
+}
+1018 = { # jigok 지곡
+	holding = none
+}
+1019 = { # sudong 수동
+	holding = none
+}
+###c_gajo
+158 = { # sinwon 신원
+	holding = none
+}
+1027 = { # mureung 무릉
+	holding = none
+}
+1028 = { # gajo 가조
+	culture = gaya
+
+	religion = jogye
+
+	holding = castle_holding
+}
+1029 = { # muchon 무촌
+	holding = none
+}
+###c_geochang
+729 = { # geochang 거창
+	culture = gaya
+
+	religion = jogye
+
+	holding = castle_holding
+}
+1021 = { # goje 고제
+	holding = none
+}
+1022 = { # ungyang 웅양
+	holding = none
+}
+1024 = { # jusang 주상
+	holding = none
+}
+1025 = { # gabuk 가북
+	holding = none
+}
+###c_anui
+1012 = { # daenam 대남
+	holding = none
+}
+1016 = { # songgye 송계
+	holding = none
+}
+1017 = { # anui 안의
+	culture = gaya
+
+	religion = jogye
+
+	holding = castle_holding
+}
+###c_mari
+1020 = { # galgye 갈계
+	holding = none
+}
+1023 = { # wicheon 위천
+	holding = none
+}
+1026 = { # mari 마리
+	culture = gaya
+
+	religion = jogye
+
+	holding = castle_holding
+}
+##d_hapcheon
+###c_hapcheon
+169 = { # haein 해인
+	holding = none
+}
+849 = { # daeyang 대양
+	holding = none
+}
+855 = { # yulgok 율곡
+	holding = none
+}
+856 = { # hapcheon 합천
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+858 = { # myosan 묘산
+	holding = none
+}
+859 = { # yaro 야로
+	holding = none
+}
+###c_burim
+171 = { # nakseo 낙서
+	holding = none
+}
+829 = { # gungryu 궁류
+	holding = none
+}
+830 = { # bongsu 봉수
+	holding = none
+}
+831 = { # yugok 유곡
+	holding = none
+}
+834 = { # burim 부림
+	culture = miryang
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+###c_garye
+823 = { # daeui 대율
+	holding = none
+}
+824 = { # chilgok 칠곡
+	holding = none
+}
+827 = { # garye 가례
+	culture = miryang
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+###c_uiryeong
+825 = { # hwajeong 화정
+	holding = none
+}
+826 = { # uiryeong 의령
+	culture = miryang
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+828 = { # yongdeok 용덕
+	holding = none
+}
+832 = { # jeonggok 정곡
+	holding = none
+}
+833 = { # jijeong 지정
+	holding = none
+}
+###c_samga
+844 = { # samga 삼가
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+845 = { # gahoe 가회
+	holding = none
+}
+846 = { # ssangbaek 쌍백
+	holding = none
+}
+847 = { # daebyeong 대병
+	holding = none
+}
+848 = { # yongju 용주
+	holding = none
+}
+857 = { # bongsan 봉산
+	holding = none
+}
+###c_chogye
+850 = { # chogye 초계
+	culture = gaya
+
+	religion = jogye
+
+	holding = tribal_holding
+}
+851 = { # jeokjung 적중
+	holding = none
+}
+852 = { # cheongdeok 청덕
+	holding = none
+}
+853 = { # deokgok 덕곡
+	holding = none
+}
+854 = { # ssangchaek 쌍책
+	holding = none
+}
+##d_haman
+###c_chilwon
+172 = { # chilbuk 칠북
+	holding = none
+}
+840 = { # daesan 대산
+	holding = none
+}
+842 = { # chilwon 칠원
+	culture = miryang
+
+	religion = jogye
+
+	holding = castle_holding
+}
+843 = { # chilseo 칠서
+	holding = none
+}
+###c_gunbuk
+835 = { # gunbuk 군북
+	culture = miryang
+
+	religion = jogye
+
+	holding = castle_holding
+}
+839 = { # beopsu 법수
+	holding = none
+}
+###c_haman
+836 = { # yeohang 예항
+	holding = none
+}
+837 = { # haman 함안
+	holding = none
+}
+838 = { # gaya 가야
+	culture = miryang
+
+	religion = jogye
+
+	holding = castle_holding
+}
+841 = { # sanin 산인
+	holding = none
+}

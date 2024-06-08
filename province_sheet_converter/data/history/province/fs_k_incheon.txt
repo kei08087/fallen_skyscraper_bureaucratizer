@@ -1,0 +1,230 @@
+#k_incheon
+##d_gimpo
+###c_tongjin
+59 = { # wolgot 월곳
+	holding = none
+}
+1433 = { # daegot 대곶
+	holding = none
+}
+1435 = { # tongjin 통진
+	culture = incheon
+
+	religion = methodism
+
+	holding = castle_holding
+}
+1436 = { # haseong 하성
+	holding = city_holding
+}
+###c_gimpo
+1427 = { # geomdan 검단
+	culture = incheon
+
+	religion = methodism
+
+	holding = castle_holding
+}
+1430 = { # gochon 고촌
+	holding = none
+}
+1431 = { # gimpo 김포
+	culture = incheon
+
+	religion = methodism
+
+	holding = castle_holding
+}
+1432 = { # yangchon 양촌
+	holding = none
+}
+1434 = { # unyang 운양
+	holding = none
+}
+##d_incheon
+###c_seogu
+60 = { # oryuwang 오류
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+64 = { # cheongra 청라
+	holding = church_holding
+	
+	2400.1.1 = {
+	    buildings = {
+		    Incheon_Port_00
+		}
+	}
+}
+###c_incheon
+65 = { # michuhol 미추홀
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+66 = { # yeonsu 연수
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = city_holding
+}
+67 = { # guwol 구월
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+##d_bupyeong
+###c_bupyeong
+61 = { # gyeyang 계양
+	holding = castle_holding
+}
+63 = { # bupyeong 부평
+	culture = incheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+###c_bucheon
+62 = { # bucheon 부천
+	culture = incheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+3807 = { # sorae 소래
+	holding = city_holding
+}
+##d_ganghwado
+###c_yangsa
+77 = { # yangsa 양사
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = castle_holding
+}
+1441 = { # naega 내가
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = church_holding
+}
+1444 = { # hajeom 하점
+	holding = none
+}
+###c_seokmo
+78 = { # seokmo 석모
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = castle_holding
+}
+2498 = { # seodo 서도
+	holding = none
+}
+###c_gyodong
+79 = { # gyodong 교동
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = castle_holding
+}
+###c_hwado
+1437 = { # hwado 화도
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = castle_holding
+}
+1438 = { # gilsang 길상
+	holding = none
+}
+1439 = { # yangdo 양도
+	holding = none
+}
+###c_buleun
+1440 = { # buleun 불은
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = castle_holding
+}
+1442 = { # seonwon 선원
+	holding = none
+}
+###c_ganghwa
+1443 = { # ganghwa 강화
+	culture = incheon
+
+	religion = anglicanism
+
+	holding = castle_holding
+}
+1445 = { # songhae 송해
+	holding = none
+}
+##d_yeongjongdo
+###c_yeongjongdo
+80 = { # yeongjongdo 영종도
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+2500 = { # muui 무의
+	holding = none
+}
+###c_bukdo
+2499 = { # bukdo 북도
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_deokjeok
+2501 = { # deokjeok 덕적
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = city_holding
+}
+###c_jawol
+2502 = { # jawol 자월
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_daebu
+2503 = { # yeonghuengdo 영흥도
+	holding = none
+}
+2504 = { # pungdo 풍도
+	holding = church_holding
+}
+3808 = { # daebudo 대부도
+	culture = incheon
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}

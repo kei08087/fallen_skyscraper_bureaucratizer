@@ -1,0 +1,136 @@
+#k_busan
+##d_busan
+###c_busan
+779 = { # busan 부산
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+	2400.1.1 = {
+		buildings = {
+			Busan_Port_00
+		}
+	}
+}
+763 = { # yeongdo 영도
+	holding = church_holding
+}
+781 = { # dongpyeong 동평
+	holding = city_holding
+}
+###c_easternbusan
+787 = { # haeundae 해운대
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+783 = { # suyeong 수영
+	holding = none
+}
+782 = { # daeyeon 대연
+	holding = church_holding
+}
+###c_westernbusan
+777 = { # gupo 구포
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+775 = { # saha 사하
+	holding = none
+}
+776 = { # sasang 사상
+	holding = none
+}
+774 = { # gangseo 강서
+	holding = church_holding
+}
+###c_dongrae
+785 = { # dongrae 동래
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+784 = { # yeonje 연제
+	holding = none
+}
+786 = { # geumjeong 금정
+	holding = church_holding
+	
+	2400.1.1 = {
+		special_building_slot = pusan_national_university
+	}
+	2500.1.1 = {
+		special_building = pusan_national_university
+	}
+}
+###c_gijang
+788 = { # gijang 기장
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+789 = { # cheolma 철마
+	holding = church_holding
+}
+790 = { # ilgwang 일광
+	holding = none
+}
+791 = { # jeonggwan 정관
+	holding = none
+}
+178 = { # jangan 장안
+	holding = none
+}
+##d_gimhae
+###c_gimhae
+765 = { # gimhae 김해
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+770 = { # juchon 주촌
+	holding = church_holding
+}
+762 = { # jangyu 장유
+	holding = city_holding
+}
+###c_daedong
+177 = { # daedong 대동
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+773 = { # sangdong 상동
+	holding = church_holding
+}
+772 = { # saengrim 생림
+	holding = none
+}
+###c_jinyeong
+769 = { # jinyeong 진영
+	culture = busan
+
+	religion = unitizm
+
+	holding = city_holding
+}
+771 = { # hanrim 한림
+	holding = none
+}
+764 = { # jinrye 진례
+	holding = church_holding
+}

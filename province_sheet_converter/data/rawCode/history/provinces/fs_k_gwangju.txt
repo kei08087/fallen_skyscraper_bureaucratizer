@@ -1,0 +1,126 @@
+﻿#k_gwangju
+##d_gwangju
+###c_gwangju
+564 = {	# 금남
+	culture = gwangju
+	religion = catholic
+	holding = castle_holding
+}
+2667 = {	# 상무
+	culture = gwangju
+	religion = catholic
+	holding = city_holding
+}
+129 = {	# 운암
+	holding = city_holding
+}
+130 = {	# Hyodeok
+	holding = church_holding
+}
+###c_gwangsan
+563 = {	# 송정
+	culture = gwangju
+	religion = catholic
+	holding = castle_holding
+}
+780 = {	# 비아
+	holding = city_holding
+}
+4121 = { # 삼도
+	holding = none
+}
+4122 = { # 임곡
+	holding = none
+}
+##d_damyang
+###c_damyang
+610 = {	# Damyang
+	culture = namwon
+	religion = catholic
+	holding = castle_holding
+}
+607 = {	# Wolsan
+	holding = city_holding
+}
+608 = {	# Yongmyeon
+	holding = church_holding
+}
+609 = {	# Geumseong
+	holding = none
+}
+613 = {	# Mujeong
+	holding = none
+}
+
+###c_subuk
+611 = {	# Subuk
+	culture = namwon
+	religion = catholic
+	holding = castle_holding
+}
+606 = {	# Daejeon
+	holding = church_holding
+}
+612 = {	# Bongsan
+	holding = none
+}
+
+###c_changpyeong
+615 = {	# Changpyeong
+	culture = namwon
+	religion = catholic
+	holding = castle_holding
+}
+614 = {	# Goseo
+	holding = none
+}
+616 = {	# Daedeok
+	holding = church_holding
+}
+128 = {	# Nammyeon
+	holding = none
+}
+138 = {	# Mudong
+	holding = none
+}
+
+###c_g_jangseong
+604 = {	# Jangseong
+	culture = saemangeum
+	religion = catholic
+	holding = castle_holding
+}
+605 = {	# Jinwon
+	holding = city_holding
+}
+603 = {	# Bukha
+	holding = none
+}
+2672 = {	# Buki
+	holding = none
+}
+601 = {	# Bukil
+	holding = none
+}
+600 = {	# Seosam
+	holding = none
+}
+
+###c_samgye
+596 = {	# Samgye
+	culture = saemangeum
+	religion = catholic
+	holding = castle_holding
+}
+595 = {	# Samseo
+	holding = church_holding
+}
+597 = {	# Donghwa
+	holding = none
+}
+598 = {	# Hwangryong
+	holding = none
+}
+599 = {	# Nammyeon
+	holding = none
+}

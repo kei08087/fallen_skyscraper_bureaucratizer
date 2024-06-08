@@ -1,0 +1,305 @@
+﻿#k_gyeongju
+##d_gyeongju
+###c_gyeongju
+921 = {
+	culture = gyeongju
+	religion = jogye
+	holding = castle_holding
+}
+918 = {	# Oedong
+	holding = church_holding
+}
+915 = {	# Naenam
+	holding = city_holding
+}
+922 = {	# Hyeongok
+	holding = church_holding
+}
+
+###c_geoncheon
+916 = {	# Geoncheon
+	culture = gyeongju
+	religion = jogye
+	holding = castle_holding
+}
+914 = {	# Sannae
+	holding = church_holding
+}
+917 = {	# Seomyeon
+	holding = none
+}
+
+###c_angang
+924 = {	# Angang
+	culture = gyeongju
+	religion = jogye
+	holding = castle_holding
+}
+923 = {	# Cheonbuk
+	holding = church_holding
+}
+925 = {	# Gangdong
+	holding = none
+}
+
+##d_yeongcheon
+###c_yeongcheon
+947 = {
+	culture = gyeongju
+	religion = jogye
+	holding = castle_holding
+}
+946 = {	# Bugan
+	holding = church_holding
+}
+942 = {	# Daechang
+	holding = city_holding
+}
+944 = {	# Geumho
+	holding = none
+}
+
+###c_imgo
+949 = {	# Imgo
+	culture = gyeongju
+	religion = jogye
+	holding = castle_holding
+}
+950 = {	# Jayang
+	holding = church_holding
+}
+948 = {	# Gogyeong
+	holding = none
+}
+951 = {	# Hwabuk
+	holding = none
+}
+
+###c_cheongtong
+945 = {	# Cheongtong
+	culture = gyeongju
+	religion = jogye
+	holding = castle_holding
+}
+952 = {	# Hwanam
+	holding = church_holding
+}
+953 = {	# Hwasan
+	holding = none
+}
+184 = {	# Sinnyeong
+	holding = none
+}
+
+##d_gyeongsan
+###c_gyeongsan
+935 = {
+	culture = gyeongju
+	religion = maitreya
+	holding = castle_holding
+}
+934 = {	# Namcheon
+	holding = church_holding
+}
+939 = {	# Apryang
+	holding = city_holding
+}
+
+###c_hayang
+940 = {	# Hayang
+	culture = gyeongju
+	religion = maitreya
+	holding = castle_holding
+}
+943 = {	# Wachon
+	holding = church_holding
+}
+941 = {	# Jinryang
+	holding = none
+}
+
+###c_jain
+938 = {	# Jain
+	culture = gyeongju
+	religion = maitreya
+	holding = castle_holding
+}
+936 = {	# Namsan
+	holding = none
+}
+937 = {	# Yongseong
+	holding = church_holding
+}
+
+###c_hwayang
+910 = {	# Hwayang
+	culture = gyeongju
+	religion = maitreya
+	holding = castle_holding
+}
+906 = {	# Gakbuk
+	holding = none
+}
+907 = {	# Pungga
+	holding = none
+}
+908 = {	# Iseo
+	holding = none
+}
+909 = {	# Gaknam
+	holding = church_holding
+}
+
+###c_cheongdo
+911 = {	# Cheongdo
+	culture = gyeongju
+	religion = maitreya
+	holding = castle_holding
+}
+912 = {	# Maejeon
+	holding = none
+}
+913 = {	# Geumcheon
+	holding = church_holding
+}
+182 = {	# Unmun
+	holding = none
+}
+
+##d_miryang
+###c_miryang
+902 = {
+	culture = miryang
+	religion = bailian
+	holding = castle_holding
+}
+897 = {	# Chodong
+	holding = church_holding
+}
+895 = {	# Muan
+	holding = city_holding
+}
+896 = {	# Milcheong
+	holding = none
+}
+898 = {	# Bubuk
+	holding = none
+}
+903 = {	# Yucheon
+	holding = none
+}
+###c_samryangjin
+901 = {	# Samryangjin
+	culture = miryang
+	religion = bailian
+	holding = castle_holding
+}
+900 = {	# Gisan
+	holding = church_holding
+}
+899 = {	# Susan
+	holding = none
+}
+###c_danjang
+905 = {	# Danjang
+	culture = miryang
+	religion = bailian
+	holding = castle_holding
+}
+180 = {	# Sannae
+	holding = church_holding
+}
+904 = {	# Sanoe
+	holding = none
+}
+### c_changnyeong
+884={#Changnyeong
+	culture = miryang
+	religion = jogye
+	holding = castle_holding
+}
+
+176 = {#Seongsan
+	holding = none
+} 
+887 = {#Goam
+	holding = church_holding
+} 
+886 = {#Daehap
+	holding = none
+} 
+883 = {#Ibang
+	holding = none
+} 
+885 = {#Daeji
+	holding = none
+} 
+882 = {#yueo
+	holding = none
+} 
+      
+  
+### c_yeongsan
+879={#Yeongsan
+	culture = miryang
+	religion = jogye
+	holding = castle_holding
+}
+
+875 = {#Namji
+	holding = church_holding
+} 
+881 = {#Jangma
+	holding = none
+} 
+880 = {#Gyeseong
+	holding = none
+} 
+878 = {#Docheon
+	holding = none
+} 
+877 = {#Gilgok
+	holding = none
+} 
+876 = {#Bugok
+	holding = none
+} 
+##d_yangsan
+###c_ungsang
+179 = {	# Ungsang
+	culture = busan
+	religion = bailian
+	holding = castle_holding
+}
+
+###c_yangsan
+795 = {	# Yangsan
+	culture = busan
+	religion = bailian
+	holding = castle_holding
+}
+792 = {	# Gasan
+	holding = none
+}
+793 = {	# Mulgeum
+	holding = church_holding
+}
+
+794 = {	# Wondong
+	holding = city_holding
+}
+###c_yangbuk
+796 = {	# Sangbuk
+	culture = busan
+	religion = bailian
+	holding = castle_holding
+}
+797 = {	# Habuk
+	holding = church_holding
+}
+
+
+
+
+
+

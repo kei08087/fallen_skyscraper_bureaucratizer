@@ -1,0 +1,170 @@
+#k_daejeon
+##d_daejeon
+###c_daedeok
+111 = { # daedeok 대덕
+	culture = daejeon
+
+	religion = mechanism
+
+	holding = castle_holding
+	
+	
+	
+}
+2651 = { # hoedeok 회덕
+	culture = daejeon
+
+	religion = mechanism
+
+	holding = church_holding
+}
+###c_yuseong
+2636 = { # yuseong 유성
+	culture = daejeon
+
+	religion = mechanism
+
+	holding = castle_holding
+	
+	1970.1.1 = {
+		special_building_slot = KAIST # 충남대(였던것)
+		special_building = KAIST
+	}
+}
+2637 = { # jinjam 진잠
+	culture = daejeon
+
+	religion = mechanism
+
+	holding = city_holding
+}
+###c_daejeon
+2638 = { # daejeon 대전
+	culture = daejeon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+##d_jinsan
+###c_geumsan
+117 = { # jewon 제원
+	holding = none
+}
+1158 = { # hageum 하금
+	holding = city_holding
+}
+1159 = { # chohyeon 초현
+	holding = none
+}
+1160 = { # buri 부리
+	holding = none
+}
+1161 = { # geumsan 금산
+	culture = muju
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+###c_jinsan
+1162 = { # jinsan 진산
+	culture = muju
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1163 = { # boksu 복수
+	holding = none
+}
+1164 = { # geumseong 금성
+	holding = none
+}
+1165 = { # chubu 추부
+	holding = city_holding
+}
+1166 = { # dudu 두두
+	holding = none
+}
+##d_okcheon
+###c_hwanggan
+152 = { # chupungryeong 추풍령
+	holding = none
+}
+1105 = { # yongsan 용산
+	holding = none
+}
+1108 = { # hwanggan 황간
+	culture = sangju
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1109 = { # maegok 매곡
+	holding = none
+}
+2654 = { # sangchon 상촌
+	holding = city_holding
+}
+###c_yeongdong
+1100 = { # yonghwa 용화
+	holding = none
+}
+1101 = { # haksan 학산
+	holding = none
+}
+1102 = { # yangsan 양산
+	holding = none
+}
+1103 = { # yanggang 양강
+	holding = none
+}
+1104 = { # simcheon 심천
+	holding = city_holding
+}
+1106 = { # yeongdong 영동
+	culture = sangju
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+###c_okcheon
+2511 = { # dongi 동이
+	holding = none
+}
+2639 = { # dongpyeong 동평
+	holding = city_holding
+}
+2640 = { # iwon 이원
+	holding = none
+}
+2641 = { # okcheon 옥천
+	culture = sangju
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+2642 = { # ibaek 이백
+	holding = none
+}
+###c_cheongsan
+2512 = { # allae 알래
+	holding = city_holding
+}
+2513 = { # allam 알람
+	holding = none
+}
+2514 = { # cheongseong 청성
+	holding = church_holding
+}
+2515 = { # cheongsan 청산
+	culture = sangju
+
+	religion = mechanism
+
+	holding = castle_holding
+}

@@ -1,0 +1,215 @@
+﻿#k_hamheung
+##d_hamheung
+###c_hamheung
+340 = {	# Hamheung
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2243 = {	# Juseo
+	holding = none
+}
+2239 = {	# Cheonwon
+	holding = none
+}
+2241 = {	# Cheonseo
+	holding = none
+}
+2240 = {	# Jubuk
+	holding = none
+}
+2238 = {	# Sangjicheon
+	holding = none
+}
+
+###c_heungnam
+341 = {	# Heungnam
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+339 = {	# Yeonpo
+	holding = none
+}
+2244 = {	# Sampyeong
+	holding = none
+}
+2242 = {	# Juji
+	holding = none
+}
+2173 = {	# Seondeok
+	holding = none
+}
+2237 = {	# Toejo
+	holding = none
+}
+
+###c_h_gigok
+2234 = {	# Gigok
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2235 = {	# Deoksan
+	holding = none
+}
+2236 = {	# Dongcheon
+	holding = none
+}
+
+###c_gicheon
+2233 = {	# Gicheon
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2231 = {	# Sangtong
+	holding = none
+}
+2232 = {	# Hajoyang
+	holding = none
+}
+
+###c_hongwon
+343 = {	# Hongwon
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2276 = {	# Samho
+	holding = none
+}
+2277 = {	# Unhak
+	holding = none
+}
+
+###c_yongwon
+2280 = {	# Yongwon
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2281 = {	# Gyeongun
+	holding = none
+}
+2279 = {	# Yongpo
+	holding = none
+}
+2278 = {	# Bohyeon
+	holding = none
+}
+
+##d_bukcheong
+###c_bukcheong
+2288 = {	# Bukcheong
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2286 = {	# Deokseong
+	holding = none
+}
+2285 = {	# Hageoseo
+	holding = none
+}
+2287 = {	# Gahoe
+	holding = none
+}
+
+###c_sinpo
+346 = {	# Sinpo
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2294 = {	# Yanghwa
+	holding = none
+}
+2293 = {	# Huchang
+	holding = none
+}
+2292 = {	# Sokhu
+	holding = none
+}
+
+###c_h_sinchang
+2291 = {	# Sinchang
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2289 = {	# Geosan
+	holding = none
+}
+2290 = {	# Sangri
+	holding = none
+}
+
+###c_geoseo
+2284 = {	# Geoseo
+	culture = hamheung
+	religion = hamortho
+	holding = castle_holding
+}
+2282 = {	# Igok
+	holding = none
+}
+2283 = {	# Seongdae
+	holding = none
+}
+
+##d_dancheon
+###c_dancheon
+348 = {	# Dancheon
+	culture = hamheung
+	religion = cheonjin
+	holding = castle_holding
+}
+2302 = {	# Bokgwi
+	holding = none
+}
+2299 = {	# Ijung
+	holding = none
+}
+
+###c_hada
+2300 = {	# Hada
+	culture = hamheung
+	religion = cheonjin
+	holding = castle_holding
+}
+2301 = {	# Sinman
+	holding = none
+}
+2297 = {	# Suha
+	holding = none
+}
+
+###c_gwangcheon
+2298 = {	# Gwangcheon
+	culture = hamheung
+	religion = cheonjin
+	holding = castle_holding
+}
+2296 = {	# S
+	holding = none
+}
+2295 = {	# N
+	holding = none
+}
+
+###c_iwon
+2375 = {	# Iwon
+	culture = hamheung
+	religion = cheonjin
+	holding = castle_holding
+}
+2374 = {	# Sangseon
+	holding = none
+}
+2376 = {	# Yeombun
+	holding = none
+}
+347 = {	# Chaho
+	holding = none
+}

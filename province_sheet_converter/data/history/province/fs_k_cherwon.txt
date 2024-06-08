@@ -1,0 +1,280 @@
+#k_cherwon
+##d_cheolwon
+###c_n.cheolwon
+258 = { # majang 마장
+	holding = none
+}
+1689 = { # n.cheolwon 태봉
+	culture = geumgang
+
+	religion = naturalism_pagan
+
+	holding = tribal_holding
+}
+1690 = { # myojang 묘장
+	holding = none
+}
+1691 = { # naemun 내문
+	holding = none
+}
+###c_hyeonnae
+263 = { # sepo 세포
+	holding = none
+}
+1695 = { # hyeonnae 현내
+	culture = geumgang
+
+	religion = inmin_juche
+
+	holding = tribal_holding
+}
+1697 = { # yujin 유진
+	holding = none
+}
+###c_cheolwon
+1631 = { # cheolwon 철원
+	culture = chuncheon
+
+	religion = authoritarianism
+
+	holding = castle_holding
+}
+1685 = { # galmal 갈말
+	holding = none
+}
+1686 = { # dongsong 동송
+	holding = city_holding
+}
+1687 = { # bukmyeon 북면
+	holding = none
+}
+1688 = { # eoun 어운
+	holding = none
+}
+###c_pyeonggang
+1692 = { # s.pyeonggang 지암
+	holding = none
+}
+1693 = { # pyeonggang 평강
+	culture = geumgang
+
+	religion = inmin_juche
+
+	holding = tribal_holding
+}
+1694 = { # w.pyeonggang 옥동
+	holding = none
+}
+1696 = { # mokjeon 목전
+	holding = none
+}
+##d_gimhwa
+###c_gimhwa
+259 = { # w.gimhwa 병참부
+	holding = none
+}
+1681 = { # geunbuk 근북
+	holding = none
+}
+1683 = { # geunnam 근남
+	holding = none
+}
+1684 = { # gimhwa 김화
+	culture = chuncheon
+
+	religion = authoritarianism
+
+	holding = tribal_holding
+}
+###c_hwacheon
+260 = { # sanae 사내
+	holding = none
+}
+1611 = { # hwacheon 화천
+	culture = chuncheon
+
+	religion = authoritarianism
+
+	holding = tribal_holding
+}
+1612 = { # sangseo 상서
+	holding = none
+}
+1613 = { # hanam 하남
+	holding = none
+}
+2659 = { # gandong 간동
+	holding = none
+}
+###c_changdo
+1675 = { # imnam 임남
+	holding = none
+}
+1676 = { # changdo 창도
+	culture = geumgang
+
+	religion = authoritarianism
+
+	holding = tribal_holding
+}
+1678 = { # wondong 원동
+	holding = none
+}
+###c_wonnam
+1677 = { # wonbuk 원북
+	holding = none
+}
+1679 = { # geumseong 금성
+	holding = none
+}
+1680 = { # wonnam 원남
+	culture = geumgang
+
+	religion = authoritarianism
+
+	holding = tribal_holding
+}
+1682 = { # geundong 근동
+	holding = none
+}
+##d_icheon
+###c_icheon
+264 = { # e.ichen 산참
+	holding = none
+}
+1705 = { # icheon 이천
+	culture = geumgang
+
+	religion = inmin_juche
+
+	holding = tribal_holding
+}
+1706 = { # w.icheon 하식찬
+	holding = none
+}
+1707 = { # anhyeop 안협
+	holding = none
+}
+###c_bangjang
+1698 = { # ungtan 웅탄
+	holding = none
+}
+1699 = { # bangjang 방장
+	culture = geumgang
+
+	religion = inmin_juche
+
+	holding = tribal_holding
+}
+1702 = { # pangyo 판교
+	holding = none
+}
+1703 = { # yongpo 용포
+	holding = none
+}
+###c_hakbong
+1700 = { # nagyang 낙양
+	holding = none
+}
+1701 = { # sannae 산내
+	holding = none
+}
+1704 = { # hakbong 학봉
+	culture = geumgang
+
+	religion = inmin_juche
+
+	holding = tribal_holding
+}
+##d_inje
+###c_girin
+267 = { # naerincheon 상남
+	holding = none
+}
+1601 = { # girin 기린
+	culture = chuncheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+###c_e.yanggu
+274 = { # e.yanggu 임당
+	culture = chuncheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1606 = { # s.yanggu 용하
+	holding = none
+}
+1610 = { # haean 해안
+	holding = none
+}
+###c_inje
+1602 = { # seohwa 서화
+	holding = none
+}
+1603 = { # n.inje 원통
+	holding = none
+}
+1604 = { # inje 인제
+	culture = chuncheon
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1605 = { # s.inje 신남
+	holding = none
+}
+###c_yanggu
+1607 = { # suip 수입
+	holding = none
+}
+1608 = { # yanggu 양구
+	culture = chuncheon
+
+	religion = authoritarianism
+
+	holding = tribal_holding
+}
+1609 = { # bangsan 방산
+	holding = none
+}
+##d_hoeyang
+###c_hoeyang
+277 = { # habuk 하북
+	holding = none
+}
+1665 = { # hoeyang 회양
+	culture = geumgang
+
+	religion = inmin_juche
+
+	holding = castle_holding
+}
+1666 = { # sangbuk 상북
+	holding = none
+}
+1667 = { # nangok 난곡
+	holding = none
+}
+###c_sadong
+1662 = { # naegeumgang 내금강
+	holding = none
+}
+1663 = { # anpung 안풍
+	holding = none
+}
+1664 = { # sadong 사동
+	culture = geumgang
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+1674 = { # tonggu 통구
+	holding = none
+}

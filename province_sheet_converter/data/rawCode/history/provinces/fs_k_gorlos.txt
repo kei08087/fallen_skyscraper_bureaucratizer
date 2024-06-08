@@ -1,0 +1,664 @@
+#k_gorlos
+##d_shuangliao
+###c_shuangliao
+3339 = {	# 솽랴오
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3338 = {	# 나무스
+	holding = none
+}
+3341 = {	# 토민도
+	holding = none
+}
+3340 = {	# 왕번
+	holding = none
+}
+
+###c_shuangshan
+3349 = {	# 수앙산
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3352 = {	# 융지아
+	holding = none
+}
+3344 = {	# 워위
+	holding = none
+}
+3353 = {	# 리우티아오
+	holding = none
+}
+3354 = {	# 신리
+	holding = none
+}
+
+###c_chilong
+3348 = {	# 치롱
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3345 = {	# 보리산
+	holding = none
+}
+3346 = {	# 마오린
+	holding = none
+}
+3347 = {	# 푸시안
+	holding = none
+}
+
+##d_lisu
+###c_lisu
+3361 = {	# 리수
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3362 = {	# 바이산
+	holding = none
+}
+3358 = {	# 유슈타이
+	holding = none
+}
+3363 = {	# 추안얀링
+	holding = none
+}
+3369 = {	# 진산
+	holding = none
+}
+
+###c_linhai
+3343 = {	# 린하이
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3342 = {	# 리우지아구안지
+	holding = none
+}
+3359 = {	# 수구오수
+	holding = none
+}
+3360 = {	# 라마디안
+	holding = none
+}
+
+###c_menjialing
+3365 = {	# 먼지아링
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3367 = {	# 카이지아
+	holding = none
+}
+3366 = {	# 구오지아디안
+	holding = none
+}
+3364 = {	# 시지아푸
+	holding = none
+}
+
+###c_xiaokui
+3375 = {	# 시아오쿠이
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3650 = {	# 선양
+	holding = none
+}
+3357 = {	# 구지아지
+	holding = none
+}
+3374 = {	# 시아오유지
+	holding = none
+}
+
+###c_wanpa
+3368 = {	# 완파
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3372 = {	# 동허
+	holding = none
+}
+
+##d_gungjuling
+###c_gungjuling
+3373 = {	# 궁주링
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3384 = {	# 차오양포
+	holding = none
+}
+3371 = {	# 시시지아지
+	holding = none
+}
+3370 = {	# 롱산
+	holding = none
+}
+
+###c_fanjiatun
+3389 = {	# 판지아툰
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3390 = {	# 타오지아툰
+	holding = none
+}
+3391 = {	# 시앙수이
+	holding = none
+}
+
+###c_heilinji
+3385 = {	# 헤이린지
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3387 = {	# 융파
+	holding = none
+}
+3388 = {	# 다링
+	holding = none
+}
+
+###c_qinjiatun
+3380 = {	# 친지아툰
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3376 = {	# 바우
+	holding = none
+}
+3383 = {	# 다유수
+	holding = none
+}
+
+###c_xiu
+3356 = {	# 시우
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3351 = {	# 상수허
+	holding = none
+}
+3350 = {	# 보리청지
+	holding = none
+}
+3378 = {	# 마오청지
+	holding = none
+}
+
+###c_xuanglong
+3381 = {	# 수앙롱
+	culture = dongliao
+	religion = tibetan
+	holding = tribal_holding
+}
+3379 = {	# 양타이청지
+	holding = none
+}
+3382 = {	# 수앙청바오
+	holding = none
+}
+3386 = {	# 화이더
+	holding = none
+}
+##d_kangping
+###c_kangping
+3635 = {	# 캉핑
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3634 = {	# 베이시지아지
+	holding = none
+}
+3633 = {	# 리앙시지앙
+	holding = none
+}
+
+###c_houmisiang
+3626 = {	# 호우미시앙
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3625 = {	# 창파
+	holding = none
+}
+3627 = {	# 다시지아지
+	holding = none
+}
+
+###c_faku
+3631 = {	# 파쿠
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3632 = {	# 바이지아고우
+	holding = none
+}
+3628 = {	# 허핑
+	holding = none
+}
+
+###c_fengbeibao
+3629 = {	# 펑베이바오
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3630 = {	# 유지안팡
+	holding = none
+}
+
+###c_guyusu
+3623 = {	# 구유수
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3622 = {	# 산디앙커우
+	holding = none
+}
+3624 = {	# 치치아지
+	holding = none
+}
+
+###c_xiaochengzi
+3637 = {	# 샤오청지
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3636 = {	# 하이저우우푸
+	holding = none
+}
+3638 = {	# 장치앙
+	holding = none
+}
+##d_fuxin
+###c_xihecheng
+3639 = {	# 시허청
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3640 = {	# 알시앙
+	holding = none
+}
+
+
+###c_pingandi
+3642 = {	# 핑안디
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3643 = {	# 시푸지
+	holding = none
+}
+3641 = {	# 만탕홍
+	holding = none
+}
+
+###c_fuidi
+3645 = {	# 푸이디
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3646 = {	# 다핑
+	holding = none
+}
+3644 = {	# 리마아오
+	holding = none
+}
+
+###c_jiweisan
+3649 = {	# 지웨이산
+	culture = mongol
+	religion = tibetan
+	holding = tribal_holding
+}
+3648 = {	# 지두타이
+	holding = none
+}
+3647 = {	# 화시우
+	holding = none
+}
+
+##d_changling
+###c_changling
+3495 = {	# 창링
+	culture = taepyeongho
+	religion = tibetan
+	holding = tribal_holding
+}
+3494 = {	# 신안
+	holding = none
+}
+3496 = {	# 야오투오지
+	holding = none
+}
+3507 = {	# 동링
+	holding = none
+}
+
+###c_shinsianbao
+3505 = {	# 신시안바오
+	culture = taepyeongho
+	religion = tibetan
+	holding = tribal_holding
+}
+3508 = {	# 치안진
+	holding = none
+}
+3504 = {	# 융지우
+	holding = none
+}
+
+###c_shanchingshan
+3502 = {	# 산칭산
+	culture = taepyeongho
+	religion = tibetan
+	holding = tribal_holding
+}
+3501 = {	# 주바오산
+	holding = none
+}
+3503 = {	# 타이핑산
+	holding = none
+}
+
+###c_hiching
+3498 = {	# 하이칭
+	culture = taepyeongho
+	religion = tibetan
+	holding = tribal_holding
+}
+3500 = {	# 지티
+	holding = none
+}
+3497 = {	# 리우수이
+	holding = none
+}
+3499 = {	# 광밍
+	holding = none
+}
+3506 = {	# 리파성
+	holding = none
+}
+
+###c_beijeng
+3489 = {	# 베이정
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3488 = {	# 산시하오
+	holding = none
+}
+3492 = {	# 산투안
+	holding = none
+}
+
+###c_h_daxing
+3491 = {	# 다싱
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3487 = {	# 타이핑촨
+	holding = none
+}
+3490 = {	# 바시바하오
+	holding = none
+}
+3493 = {	# 치안치하오
+	holding = none
+}
+
+##d_omnod_gorlos
+###c_gorlos
+3539 = {	# 고를로스
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3544 = {	# 멍구툰
+	holding = none
+}
+3538 = {	# 타오하오타이
+	holding = none
+}
+3534 = {	# 다산
+	holding = none
+}
+
+###c_balang
+3547 = {	# 바랑
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3543 = {	# 창산
+	holding = none
+}
+3540 = {	# 핑펑
+	holding = none
+}
+3542 = {	# 다리바
+	holding = none
+}
+
+###c_wangfuzhan
+3531 = {	# 왕푸잔
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3537 = {	# 창룽
+	holding = none
+}
+3530 = {	# 하라마오두
+	holding = none
+}
+
+###c_ulan_tuga
+3548 = {	# 울란투가
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3546 = {	# 울란탈라
+	holding = none
+}
+3545 = {	# 선징쯔
+	holding = none
+}
+
+###c_chaganhua
+3549 = {	# 차간화
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3550 = {	# 울란아오두
+	holding = none
+}
+3551 = {	# 구뎬
+	holding = none
+}
+3552 = {	# 둥싼자지
+	holding = none
+}
+
+##d_qenan
+###c_qenan
+3557 = {	# 첸안
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3559 = {	# 수이지
+	holding = none
+}
+3556 = {	# 유지
+	holding = none
+}
+3653 = {	# 랑지
+	holding = none
+}
+
+###c_dabusu
+3554 = {	# 다부수
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3555 = {	# 다오지
+	holding = none
+}
+3553 = {	# 수오지
+	holding = none
+}
+
+###c_anji
+3558 = {	# 안지
+	culture = gorlos
+	religion = tibetan
+	holding = tribal_holding
+}
+3652 = {	# 연지
+	holding = none
+}
+3651 = {	# 안유
+	holding = none
+}
+
+##d_tungwi
+###c_tungwi
+3576 = {	# 퉁위
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3581 = {	# 울란화
+	holding = none
+}
+3580 = {	# 신싱
+	holding = none
+}
+3577 = {	# 수공투어
+	holding = none
+}
+
+###c_hongxing
+3575 = {	# 홍싱
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3574 = {	# 솽강
+	holding = none
+}
+3566 = {	# 바미안
+	holding = none
+}
+3567 = {	# 시화다오
+	holding = none
+}
+
+###c_janyu
+3582 = {	# 잔유
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3583 = {	# 바오라웬도우
+	holding = none
+}
+3579 = {	# 신화
+	holding = none
+}
+3578 = {	# 비안자오
+	holding = none
+}
+
+###c_xinglongsan
+3573 = {	# 싱롱산
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3572 = {	# 시앙하이
+	holding = none
+}
+3585 = {	# 투안지에
+	holding = none
+}
+3584 = {	# 신파
+	holding = none
+}
+
+##d_taonan
+###c_taonan
+3568 = {	# 타오난
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3565 = {	# 얼롱
+	holding = none
+}
+3569 = {	# 헤이수이
+	holding = none
+}
+
+###c_huhechelli
+3570 = {	# 후허철리
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3571 = {	# 다통
+	holding = none
+}
+
+###c_humanuma
+3563 = {	# 후마누마
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3564 = {	# 다강지
+	holding = none
+}
+
+###c_xinping
+3562 = {	# 신핑
+	culture = khorchin
+	religion = tibetan
+	holding = tribal_holding
+}
+3561 = {	# 하이투어
+	holding = none
+}
+3560 = {	# 리앙수어지
+	holding = none
+}

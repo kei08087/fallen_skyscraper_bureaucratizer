@@ -1,0 +1,174 @@
+#k_myohyang
+##d_maengsan
+###c_maengsan
+1926 = { # maengsan 맹산
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+1922 = { # aejeon 애전
+	holding = none
+}
+1923 = { # jideok 지덕
+	holding = none
+}
+1924 = { # nocheon 노천
+	holding = none
+}
+1925 = { # wonnam 원남
+	holding = none
+}
+###c_pukchang
+1927 = { # okcheon 옥천
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+1928 = { # bongin 봉인
+	holding = none
+}
+309 = { # hakcheon 학천
+	holding = none
+}
+1929 = { # jamdo 잠도
+	holding = none
+}
+1930 = { # jamsang 잠상
+	holding = none
+}
+###c_tokchon
+1932 = { # tokchon 덕천
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+1931 = { # ilha 일하
+	holding = none
+}
+1933 = { # pungdeok 풍덕
+	holding = none
+}
+312 = { # seongyang 성양
+	holding = none
+}
+###c_nyongwon
+2186 = { # nyongwon 녕원
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+2182 = { # deokhwa 덕화
+	holding = none
+}
+2183 = { # onhwa 온화
+	holding = none
+}
+2184 = { # seongryong 성룡
+	holding = none
+}
+2185 = { # yeongrak 영락
+	holding = none
+}
+313 = { # taegeuk 태극
+	holding = none
+}
+###c_taehung
+2180 = { # taeheung 대흥
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+2179 = { # sinseong 신성
+	holding = none
+}
+2181 = { # sobaek 소백
+	holding = none
+}
+##d_songchon
+###c_songchon
+1999 = { # songchon 성천
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+1994 = { # ssangryong 쌍룡
+	holding = none
+}
+1995 = { # saga 사가
+	holding = none
+}
+1996 = { # samdeok 삼덕
+	holding = none
+}
+1997 = { # ryeongcheon 령천
+	holding = none
+}
+1998 = { # tongseon 통선
+	holding = none
+}
+###c_hoechang
+2004 = { # neungjung 능중
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+2002 = { # sungin 숭인
+	holding = none
+}
+2000 = { # guryong 구룡
+	holding = none
+}
+2003 = { # daegok 대곡
+	holding = none
+}
+305 = { # samheung 삼흥
+	holding = none
+}
+###c_yangdok
+1972 = { # yangdeok 양덕
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+1973 = { # oncheon 온천
+	holding = none
+}
+1974 = { # dongyang 동양
+	holding = none
+}
+306 = { # daeryun 대륜
+	holding = none
+}
+###c_sinyang
+2001 = { # daegu 대구
+	culture = deokcheon
+
+	religion = juche
+
+	holding = castle_holding
+}
+1969 = { # ogang 오강
+	holding = none
+}
+1970 = { # hwachon 화촌
+	holding = none
+}
+1971 = { # ssangryong 쌍룡
+	holding = none
+}

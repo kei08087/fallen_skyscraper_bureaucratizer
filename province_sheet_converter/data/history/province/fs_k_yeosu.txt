@@ -1,0 +1,289 @@
+#k_yeosu
+##d_suncheon
+###c_seungju
+140 = { # hwangcheon 황천
+	holding = none
+}
+642 = { # seungju 승주
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+643 = { # seomyeon 서면
+	holding = none
+}
+644 = { # woldeung 월등
+	holding = none
+}
+###c_nakan
+531 = { # beolgyo 벌교
+	holding = city_holding
+}
+638 = { # nakan 낙안
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+639 = { # oeseo 외서
+	holding = none
+}
+###c_suncheon
+634 = { # haeryong 해룡
+	holding = none
+}
+635 = { # suncheon 순천
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+636 = { # byeollyang 별량
+	holding = none
+}
+637 = { # sangsa 상사
+	holding = none
+}
+###c_juam
+640 = { # songgwang 송광
+	holding = none
+}
+641 = { # juam 주암
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+##d_gokseong
+###c_gokseong
+141 = { # godal 고달
+	holding = none
+}
+653 = { # gokseong 곡성
+	culture = namwon
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+654 = { # ogok 오곡
+	holding = none
+}
+###c_jukgok
+645 = { # moksadong 목사동
+	holding = none
+}
+646 = { # jukgok 죽곡
+	culture = namwon
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+###c_seokgok
+647 = { # seokgok 석곡
+	culture = namwon
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+648 = { # samgi 삼기
+	holding = none
+}
+###c_okgwa
+649 = { # osan 오산
+	holding = none
+}
+650 = { # okgwa 옥과
+	culture = namwon
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+651 = { # gyeommyeon 겸면
+	holding = none
+}
+652 = { # ibmyeon 입면
+	holding = none
+}
+##d_gwangyang
+###c_toji
+143 = { # ganjeon 간전
+	holding = none
+}
+692 = { # muncheok 문척
+	holding = none
+}
+693 = { # masan 마산
+	holding = none
+}
+694 = { # toji 토지
+	culture = namwon
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+###c_okgok
+144 = { # jinwol 진월
+	holding = none
+}
+659 = { # okgok 옥곡
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+660 = { # daap 다압
+	holding = none
+}
+661 = { # jinsang 진상
+	holding = none
+}
+###c_gwangyang
+224 = { # geumho 금호
+	holding = none
+}
+655 = { # bonggang 봉강
+	holding = none
+}
+656 = { # gwangyang 광양
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+657 = { # jungma 중마
+	holding = none
+}
+658 = { # okryong 옥룡
+	holding = none
+}
+###c_gurye
+688 = { # sandong 산동
+	holding = none
+}
+689 = { # gwangui 광의
+	holding = none
+}
+690 = { # yongbang 용방
+	holding = none
+}
+691 = { # gurye 구례
+	culture = namwon
+
+	religion = mu_pagan
+
+	holding = castle_holding
+}
+##d_hwasun
+###c_chunhyang
+565 = { # doam 도암
+	holding = none
+}
+566 = { # cheongpung 청풍
+	holding = none
+}
+567 = { # iyang 이양
+	holding = none
+}
+568 = { # chunhyang 춘향
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_hwasun
+570 = { # hwasun 화순
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+571 = { # neungju 능주
+	holding = none
+}
+2669 = { # dogok 도곡
+	holding = none
+}
+###c_sapyeong
+572 = { # hancheon 한천
+	holding = none
+}
+573 = { # sapyeong 사평
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+574 = { # dongmyeon 동면
+	holding = none
+}
+###c_baeka
+575 = { # dongbok 동복
+	holding = none
+}
+576 = { # baeka 백아
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+##d_yeosu
+###c_yeosu
+630 = { # hwayang 화양
+	holding = none
+}
+631 = { # sora 소라
+	holding = none
+}
+632 = { # yeosu 여수
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+633 = { # yulchon 율촌
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = none
+}
+###c_dolsan
+3820 = { # hwajeong 화정
+	holding = none
+}
+4020 = { # dolsan 돌산
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+4021 = { # uhak 우학
+	holding = none
+}
+##d_geomun
+###c_geomun
+3810 = { # geumundo 거문도
+	culture = namhae
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}

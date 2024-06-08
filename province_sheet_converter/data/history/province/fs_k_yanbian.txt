@@ -1,0 +1,281 @@
+#k_yanbian
+##d_yanji
+###c_yanji
+3166 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3165 = { #  
+	holding = none
+}
+3158 = { #  
+	holding = none
+}
+###c_tumen
+3170 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3180 = { #  
+	holding = none
+}
+3169 = { #  
+	holding = none
+}
+3168 = { #  
+	holding = none
+}
+3171 = { #  
+	holding = none
+}
+###c_chaoyang
+3159 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3154 = { #  
+	holding = none
+}
+###c_longjing
+3160 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3163 = { #  
+	holding = none
+}
+3167 = { #  
+	holding = none
+}
+3164 = { #  
+	holding = none
+}
+###c_jisin
+3161 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3152 = { #  
+	holding = none
+}
+3162 = { #  
+	holding = none
+}
+##d_antu
+###c_antu
+3157 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3155 = { #  
+	holding = none
+}
+3146 = { #  
+	holding = none
+}
+3156 = { #  
+	holding = none
+}
+###c_wanbao
+3144 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3143 = { #  
+	holding = none
+}
+3140 = { #  
+	holding = none
+}
+###c_songjiang
+3142 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3139 = { #  
+	holding = none
+}
+###c_hwaryong
+3147 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3149 = { #  
+	holding = none
+}
+3148 = { #  
+	holding = none
+}
+3141 = { #  
+	holding = none
+}
+###c_bajiaji
+3150 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3145 = { #  
+	holding = none
+}
+3151 = { #  
+	holding = none
+}
+3153 = { #  
+	holding = none
+}
+##d_hunchun
+###c_hunchun
+3184 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3181 = { #  
+	holding = none
+}
+3183 = { #  
+	holding = none
+}
+3185 = { #  
+	holding = none
+}
+3187 = { #  
+	holding = none
+}
+###c_hadamen
+3182 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3186 = { #  
+	holding = none
+}
+3188 = { #  
+	holding = none
+}
+###c_wangching
+3178 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3172 = { #  
+	holding = none
+}
+3173 = { #  
+	holding = none
+}
+3174 = { #  
+	holding = none
+}
+3175 = { #  
+	holding = none
+}
+###c_tokosik
+3179 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3176 = { #  
+	holding = none
+}
+3177 = { #  
+	holding = none
+}
+###c_sengdanjiang
+3189 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3191 = { #  
+	holding = none
+}
+3190 = { #  
+	holding = none
+}
+##d_dunhwa
+###c_dunhwa
+3192 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3193 = { #  
+	holding = none
+}
+3194 = { #  
+	holding = none
+}
+###c_chinggouji
+3204 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3203 = { #  
+	holding = none
+}
+3202 = { #  
+	holding = none
+}
+###c_dashitou
+3198 = { #  
+	culture = chaoxian
+
+	religion = holy_spirit
+
+	holding = castle_holding
+}
+3199 = { #  
+	holding = none
+}
+3201 = { #  
+	holding = none
+}

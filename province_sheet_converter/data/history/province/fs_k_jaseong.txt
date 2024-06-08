@@ -1,0 +1,161 @@
+#k_jaseong
+##d_jaseong
+###c_jaseong
+332 = { # jaseong 자성
+	culture = jaseong
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2261 = { # ipyeong 이평
+	holding = none
+}
+2262 = { # sampung 삼풍
+	holding = none
+}
+2265 = { # jaha 자하
+	holding = none
+}
+###c_jangto
+2264 = { # jangto 장토
+	culture = jaseong
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2263 = { # junggang 중강
+	holding = none
+}
+###c_huchang
+2260 = { # huchang 후창
+	culture = jaseong
+
+	religion = juche
+
+	holding = tribal_holding
+}
+336 = { # dongsin 동신
+	holding = none
+}
+2259 = { # dongheung 동흥
+	holding = none
+}
+###c_chilpyeong
+2257 = { # chilpyeong 칠평
+	culture = jaseong
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2258 = { # namsin 남신
+	holding = none
+}
+##d_ganggye
+###c_ganggye
+2224 = { # ganggye 강계
+	culture = jaseong
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2221 = { # eoroe 어뢰
+	holding = none
+}
+2220 = { # gosan 고산
+	holding = none
+}
+2222 = { # sijung 시중
+	holding = none
+}
+###c_manpo
+2219 = { # manpo 만포
+	culture = jaseong
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2223 = { # oegwi 외귀
+	holding = none
+}
+2218 = { # iseo 이서
+	holding = none
+}
+2217 = { # jongseo 종서
+	holding = none
+}
+###c_hanjeon
+2216 = { # hanjeon 한전
+	culture = jaseong
+
+	religion = juche
+
+	holding = tribal_holding
+}
+2215 = { # gongbuk 공북
+	holding = none
+}
+2214 = { # ganbuk 간북
+	holding = none
+}
+2209 = { # yongrim 용림
+	holding = none
+}
+###c_jeoncheon
+2212 = { # jeoncheon 전천
+	culture = jaseong
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2211 = { # hwagyeong 화경
+	holding = none
+}
+2210 = { # ibgwan 입관
+	holding = none
+}
+2213 = { # seonggan 성간
+	holding = none
+}
+##d_wiwon
+###c_j_wiwon
+2230 = { # wiwon 위원
+	culture = jaseong
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+330 = { # seotae 서태
+	holding = none
+}
+###c_j_bongsan
+2229 = { # bongsan 봉산
+	culture = jaseong
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2228 = { # wisong 위송
+	holding = none
+}
+###c_hwachang
+2227 = { # hwachang 화창
+	culture = jaseong
+
+	religion = mu_pagan
+
+	holding = tribal_holding
+}
+2225 = { # sungjeong 숭정
+	holding = none
+}
+2226 = { # daedeok 대덕
+	holding = none
+}

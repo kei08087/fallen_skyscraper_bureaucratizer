@@ -1,0 +1,289 @@
+﻿#k_haeju
+##d_haeju
+###c_haeju
+283 = {	# Haeju
+	culture = haeju
+	religion = haeseoan
+	holding = castle_holding
+}
+1798 = {	# Euppa
+	holding = none
+}
+1796 = {	# Yeongyang
+	holding = none
+}
+1801 = {	# Singwang
+	holding = none
+}
+1797 = {	# Suyang
+	holding = none
+}
+
+###c_cheongdan
+1792 = {	# Cheongdan
+	culture = haeju
+	religion = juche
+	holding = castle_holding
+}
+1795 = {	# Hwasan
+	holding = none
+}
+1794 = {	# Namchon
+	holding = none
+}
+1793 = {	# Guwol
+	holding = none
+}
+
+###c_deokdal
+1791 = {	# Deokdal
+	culture = haeju
+	religion = haeseoan
+	holding = castle_holding
+}
+1765 = {	# Ahyeon
+	holding = none
+}
+
+###c_sinwon
+1840 = {	# Sinwon
+	culture = hwangju
+	religion = cheondo
+	holding = castle_holding
+}
+1841 = {	# Gyenam
+	holding = none
+}
+1839 = {	# Suwon
+	holding = none
+}
+
+
+##d_ongjin
+###c_ongjin
+1812 = {	# Ongjin
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1813 = {	# Masan
+	holding = none
+}
+1814 = {	# Gugok
+	holding = none
+}
+1815 = {	# Okam
+	holding = none
+}
+
+###c_sunwi
+286 = {	# Sunwi
+	culture = haeju
+	religion = haeseoan
+	holding = castle_holding
+}
+285 = {	# Deungam
+	holding = none
+}
+1809 = {	# Bupo
+	holding = none
+}
+1810 = {	# Yongyeon
+	holding = none
+}
+
+###c_gangryeong
+1811 = {	# Gangryeong
+	culture = haeju
+	religion = haeseoan
+	holding = castle_holding
+}
+1805 = {	# Bongo
+	holding = none
+}
+1806 = {	# Dongpo
+	holding = none
+}
+282 = {	# Songhyeon
+	holding = none
+}
+
+###c_eupjeo
+284 = {	# Jejak
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1817 = {	# Hyeonbong
+	holding = none
+}
+1816 = {	# Gurang
+	holding = none
+}
+
+##d_west_isles
+###c_baekryeong
+2508 = { # 백령도
+	culture = baekryeong
+	religion = authoritarianism
+	holding = castle_holding
+}
+2507 = { # 대청도
+	holding = none
+}
+###c_jangrin
+2505 = { # 장린도
+	culture = baekryeong
+	religion = authoritarianism
+	holding = castle_holding
+}
+2506 = { # 기린도
+	holding = none
+}
+###c_yeonpyeong
+2495 = { # 연평도
+	culture = baekryeong
+	religion = authoritarianism
+	holding = castle_holding
+}
+##d_taetan
+###c_taetan
+1818 = {	# Taetan
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1808 = {	# Sudong
+	holding = none
+}
+1807 = {	# Yongjeong
+	holding = none
+}
+1819 = {	# Mokgam
+	holding = none
+}
+1803 = {	# Unsan
+	holding = none
+}
+
+###c_byeokseong
+1802 = {	# Byeokseong
+	culture = haeju
+	religion = haeseoan
+	holding = castle_holding
+}
+1804 = {	# Ssangam
+	holding = none
+}
+1800 = {	# Seokdam
+	holding = none
+}
+
+
+##d_yeonan
+###c_yeonan
+1762 = {	# Yeonan
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1760 = {	# Subok
+	holding = none
+}
+1757 = {	# Obong
+	holding = none
+}
+
+###c_buheung
+1767 = {	# Buheung
+	culture = haeju
+	religion = juche
+	holding = castle_holding
+}
+1766 = {	# Donam
+	holding = none
+}
+1768 = {	# Jeongchon
+	holding = none
+}
+1764 = {	# Ohyeon
+	holding = none
+}
+
+###c_yeomjeon
+262 = {	# Yeomjeon
+	culture = haeju
+	religion = juche
+	holding = castle_holding
+}
+1770 = {	# Songho
+	holding = none
+}
+1769 = {	# Cheonghwa
+	holding = none
+}
+1763 = {	# Honam
+	holding = none
+}
+
+###c_yeokgudo
+1761 = {	# Yeokgudo
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1759 = {	# Bonghwa
+	holding = none
+}
+1758 = {	# Sinwol
+	holding = none
+}
+
+##d_bongcheon
+###c_bongcheon
+1784 = {	# Bongcheon
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1756 = {	# Daea
+	holding = none
+}
+265 = {	# Hwangryong
+	holding = none
+}
+1751 = {	# Yeonhong
+	holding = none
+}
+1783 = {	# Songjeong
+	holding = none
+}
+
+###c_baecheon
+1753 = {	# Baecheon
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1755 = {	# Munsan
+	holding = none
+}
+1754 = {	# Geumgok
+	holding = none
+}
+1752 = {	# Seoksan
+	holding = none
+}
+
+###c_hanchon
+1790 = {	# Hanchon
+	culture = haeju
+	religion = cheondo
+	holding = castle_holding
+}
+1785 = {	# Eungchon
+	holding = none
+}
+261 = {	# Seoksa
+	holding = none
+}

@@ -1,0 +1,397 @@
+#k_uiju
+##d_sinuiju
+###c_sinuiju
+320 = { # sinuiju 신의주
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2168 = { # yongyeon 용연
+	holding = none
+}
+2167 = { # yangha 양하
+	holding = none
+}
+###c_yongcheon
+2169 = { # yongcheon 용천
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+2170 = { # bura 부라
+	holding = none
+}
+2166 = { # bukjung 북중
+	holding = none
+}
+###c_dongha
+2165 = { # dongha 동하
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2164 = { # yanggwang 양광
+	holding = none
+}
+2163 = { # dongsang 동상
+	holding = none
+}
+###c_dongdang
+2162 = { # dongdang 동당
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+319 = { # yulgok 율곡
+	holding = none
+}
+2161 = { # jeongcha 정차
+	holding = none
+}
+###c_maan
+4004 = { # dongdang 신도
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+##d_cheolsan
+###c_cheolsan
+2157 = { # cheolsan 철산
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+2156 = { # baekryang 백량
+	holding = none
+}
+###c_gasan
+2160 = { # gasan 가산
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+318 = { # seorim 서림
+	holding = none
+}
+2159 = { # yeohan 여한
+	holding = none
+}
+2158 = { # buseo 부서
+	holding = none
+}
+###c_seoncheon
+2152 = { # seoncheon 선천
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+2151 = { # gunsan 군산
+	holding = none
+}
+2150 = { # sambong 삼봉
+	holding = none
+}
+###c_sucheong
+2155 = { # sucheong 수청
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2154 = { # taesan 태산
+	holding = none
+}
+###c_simcheon
+317 = { # simcheon 심천
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2153 = { # sinbu 신부
+	holding = none
+}
+2149 = { # yongyeon 용연
+	holding = none
+}
+2148 = { # ilbong 일봉
+	holding = none
+}
+###c_sinmi_i
+2685 = { # gado 가도
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2686 = { # daehwa 대화
+	holding = none
+}
+2687 = { # sinmido 신미도
+	holding = none
+}
+##d_jeongju
+###c_jeongju
+2142 = { # jeongju 정주
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2144 = { # hadan 하단
+	holding = none
+}
+2145 = { # impo 임포
+	holding = none
+}
+2688 = { # jangdo 장도
+	holding = none
+}
+###c_gwanksan
+2146 = { # gwaksan 곽산
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+2147 = { # gwanju 관주
+	holding = none
+}
+316 = { # anheung 안흥
+	holding = none
+}
+2143 = { # okcheon 옥천
+	holding = none
+}
+###c_deokeon
+2140 = { # deokeon 덕언
+	culture = uiju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2138 = { # galsan 갈산
+	holding = none
+}
+2141 = { # goan 고안
+	holding = none
+}
+###c_munjeon
+2136 = { # munjeon 문전
+	culture = uiju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2137 = { # godeok 고덕
+	holding = none
+}
+2139 = { # masan 마산
+	holding = none
+}
+##d_uiju
+###c_uiju
+2131 = { # uiju 의주
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2133 = { # songjang 송장
+	holding = none
+}
+321 = { # wihwa 위화
+	holding = none
+}
+2134 = { # goseong 고성
+	holding = none
+}
+2135 = { # sujin 수진
+	holding = none
+}
+###c_okgang
+2126 = { # okgang 옥강
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2125 = { # gwangpyeong 광평
+	holding = none
+}
+2124 = { # oksang 옥상
+	holding = none
+}
+###c_wiwon
+2132 = { # wiwon 위원
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+2130 = { # gogwan 고관
+	holding = none
+}
+2129 = { # bihyeon 비현
+	holding = none
+}
+###c_goryeongsak
+2127 = { # goryeongsak 고령삭
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2128 = { # wolhwa 월화
+	holding = none
+}
+##d_guseong
+###c_guseong
+2117 = { # guseong 구성
+	culture = uiju
+
+	religion = new_left
+
+	holding = castle_holding
+}
+2116 = { # dongsan 동산
+	holding = none
+}
+2115 = { # obong 오봉
+	holding = none
+}
+2118 = { # seosan 서산
+	holding = none
+}
+###c_sogwan
+322 = { # sogwan 소관
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2123 = { # cheonma 천마
+	holding = none
+}
+2122 = { # sagi 사기
+	holding = none
+}
+###c_banghyeon
+2119 = { # banghyeon 방현
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2120 = { # nodong 노동
+	holding = none
+}
+2121 = { # ihyeon 이현
+	holding = none
+}
+##d_bakcheon
+###c_bakcheon
+2073 = { # bakcheon 박천
+	culture = uiju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2077 = { # cheongryong 청룡
+	holding = none
+}
+2078 = { # gasan 가산
+	holding = none
+}
+314 = { # yonggye 용계
+	holding = none
+}
+###c_yangga
+2075 = { # yangga 양가
+	culture = uiju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2076 = { # songdam 송담
+	holding = none
+}
+2074 = { # deokan 덕안
+	holding = none
+}
+2072 = { # pyeongjung 평중
+	holding = none
+}
+###c_taecheon
+2100 = { # taecheon 태천
+	culture = uiju
+
+	religion = cheondo
+
+	holding = castle_holding
+}
+2096 = { # songbuk 송북
+	holding = none
+}
+2097 = { # hakdang 학당
+	holding = none
+}
+###c_seoseong
+2101 = { # seoseong 서성
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+2099 = { # majang 마장
+	holding = none
+}
+2103 = { # naeha 내하
+	holding = none
+}
+###c_songu
+2102 = { # songgu 송구
+	culture = uiju
+
+	religion = marxism
+
+	holding = castle_holding
+}
+324 = { # ansim 안심
+	holding = none
+}
+2098 = { # jangrim 장림
+	holding = none
+}

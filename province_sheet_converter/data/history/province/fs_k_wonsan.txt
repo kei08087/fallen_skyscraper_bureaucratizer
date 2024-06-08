@@ -1,0 +1,190 @@
+#k_wonsan
+##d_wonsan
+###c_wonsan
+1900 = { # wonsan 원산
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1673 = { # ando 안도
+	holding = none
+}
+279 = { # baehwa 배화
+	holding = none
+}
+1671 = { # seogok 서곡
+	holding = none
+}
+1670 = { # seokwangsa 석왕사
+	holding = none
+}
+###c_anbyeon
+1672 = { # anbyeon 안변
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1669 = { # sinmo 신모
+	holding = none
+}
+1668 = { # singosan 신고산
+	holding = none
+}
+###c_muncheon
+1902 = { # muncheon 문천
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1905 = { # myeonggu 명구
+	holding = none
+}
+1904 = { # cheonnae 천내
+	holding = none
+}
+1903 = { # unrim 운림
+	holding = none
+}
+###c_deokwon
+1901 = { # deokwon 덕원
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+281 = { # bukseong 북성
+	holding = none
+}
+1899 = { # pungsang 풍상
+	holding = none
+}
+280 = { # pungha 풍하
+	holding = none
+}
+##d_jeongpyeong
+###c_jeongpyeong
+2177 = { # jeongpyeong 정평
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+335 = { # jui 주이
+	holding = none
+}
+2176 = { # gwangdeok 광덕
+	holding = none
+}
+###c_jangwon
+2175 = { # jangwon 장원
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2178 = { # gosan 고산
+	holding = none
+}
+###c_sinsang
+2172 = { # sinsang 신상
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2174 = { # munsan 문산
+	holding = none
+}
+2171 = { # gwirim 귀림
+	holding = none
+}
+##d_yeongheung
+###c_yeongheung
+1914 = { # yeongheung 영흥
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1915 = { # jangheung 장흥
+	holding = none
+}
+1916 = { # deokheung 덕흥
+	holding = none
+}
+1917 = { # sunnyeong 순녕
+	holding = none
+}
+###c_yodeok
+1912 = { # yodeok 요덕
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1911 = { # hoengcheon 횡천
+	holding = none
+}
+1913 = { # seonheung 선흥
+	holding = none
+}
+###c_jinpyeong
+1919 = { # jinpyeong 진평
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1918 = { # eokgi 억기
+	holding = none
+}
+1920 = { # inheung 인흥
+	holding = none
+}
+1921 = { # goryeong 고령
+	holding = none
+}
+334 = { # hodo 호도
+	holding = none
+}
+###c_gowon
+333 = { # wonsan 고원
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1909 = { # sangsan 상산
+	holding = none
+}
+1910 = { # gunnae 군내
+	holding = none
+}
+###c_sudong
+1908 = { # sudong 수동
+	culture = wonsan
+
+	religion = orthodox
+
+	holding = castle_holding
+}
+1906 = { # ungok 운곡
+	holding = none
+}
+1907 = { # sangok 산곡
+	holding = none
+}

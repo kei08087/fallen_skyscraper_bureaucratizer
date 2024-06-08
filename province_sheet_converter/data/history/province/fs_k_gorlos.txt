@@ -1,0 +1,715 @@
+#k_gorlos
+##d_shuangliao
+###c_shuangliao
+3339 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3338 = { #  
+	holding = none
+}
+3341 = { #  
+	holding = none
+}
+3340 = { #  
+	holding = none
+}
+###c_shuangshan
+3349 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3352 = { #  
+	holding = none
+}
+3344 = { #  
+	holding = none
+}
+3353 = { #  
+	holding = none
+}
+3354 = { #  
+	holding = none
+}
+###c_chilong
+3348 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3345 = { #  
+	holding = none
+}
+3346 = { #  
+	holding = none
+}
+3347 = { #  
+	holding = none
+}
+##d_lisu
+###c_lisu
+3361 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3362 = { #  
+	holding = none
+}
+3358 = { #  
+	holding = none
+}
+3363 = { #  
+	holding = none
+}
+3369 = { #  
+	holding = none
+}
+###c_linhai
+3343 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3342 = { #  
+	holding = none
+}
+3359 = { #  
+	holding = none
+}
+3360 = { #  
+	holding = none
+}
+###c_menjialing
+3365 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3367 = { #  
+	holding = none
+}
+3366 = { #  
+	holding = none
+}
+3364 = { #  
+	holding = none
+}
+###c_xiaokui
+3375 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3650 = { #  
+	holding = none
+}
+3357 = { #  
+	holding = none
+}
+3374 = { #  
+	holding = none
+}
+###c_wanpa
+3368 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3372 = { #  
+	holding = none
+}
+##d_gungjuling
+###c_gungjuling
+3373 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3384 = { #  
+	holding = none
+}
+3371 = { #  
+	holding = none
+}
+3370 = { #  
+	holding = none
+}
+###c_fanjiatun
+3389 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3390 = { #  
+	holding = none
+}
+3391 = { #  
+	holding = none
+}
+###c_heilinji
+3385 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3387 = { #  
+	holding = none
+}
+3388 = { #  
+	holding = none
+}
+###c_qinjiatun
+3380 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3376 = { #  
+	holding = none
+}
+3383 = { #  
+	holding = none
+}
+###c_xiu
+3356 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3351 = { #  
+	holding = none
+}
+3350 = { #  
+	holding = none
+}
+3378 = { #  
+	holding = none
+}
+###c_xuanglong
+3381 = { #  
+	culture = dongliao
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3379 = { #  
+	holding = none
+}
+3382 = { #  
+	holding = none
+}
+3386 = { #  
+	holding = none
+}
+##d_kangping
+###c_kangping
+3635 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3634 = { #  
+	holding = none
+}
+3633 = { #  
+	holding = none
+}
+###c_houmisiang
+3626 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3625 = { #  
+	holding = none
+}
+3627 = { #  
+	holding = none
+}
+###c_faku
+3631 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3632 = { #  
+	holding = none
+}
+3628 = { #  
+	holding = none
+}
+###c_fengbeibao
+3629 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3630 = { #  
+	holding = none
+}
+###c_guyusu
+3623 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3622 = { #  
+	holding = none
+}
+3624 = { #  
+	holding = none
+}
+###c_xiaochengzi
+3637 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3636 = { #  
+	holding = none
+}
+3638 = { #  
+	holding = none
+}
+##d_fuxin
+###c_xihecheng
+3639 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3640 = { #  
+	holding = none
+}
+###c_pingandi
+3642 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3643 = { #  
+	holding = none
+}
+3641 = { #  
+	holding = none
+}
+###c_fuidi
+3645 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3646 = { #  
+	holding = none
+}
+3644 = { #  
+	holding = none
+}
+###c_jiweisan
+3649 = { #  
+	culture = mongol
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3648 = { #  
+	holding = none
+}
+3647 = { #  
+	holding = none
+}
+##d_changling
+###c_changling
+3495 = { #  
+	culture = taepyeongho
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3494 = { #  
+	holding = none
+}
+3496 = { #  
+	holding = none
+}
+3507 = { #  
+	holding = none
+}
+###c_shinsianbao
+3505 = { #  
+	culture = taepyeongho
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3508 = { #  
+	holding = none
+}
+3504 = { #  
+	holding = none
+}
+###c_shanchingshan
+3502 = { #  
+	culture = taepyeongho
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3501 = { #  
+	holding = none
+}
+3503 = { #  
+	holding = none
+}
+###c_hiching
+3498 = { #  
+	culture = taepyeongho
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3500 = { #  
+	holding = none
+}
+3497 = { #  
+	holding = none
+}
+3499 = { #  
+	holding = none
+}
+3506 = { #  
+	holding = none
+}
+###c_beijeng
+3489 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3488 = { #  
+	holding = none
+}
+3492 = { #  
+	holding = none
+}
+###c_h_daxing
+3491 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3487 = { #  
+	holding = none
+}
+3490 = { #  
+	holding = none
+}
+3493 = { #  
+	holding = none
+}
+##d_omnod_gorlos
+###c_gorlos
+3539 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3544 = { #  
+	holding = none
+}
+3538 = { #  
+	holding = none
+}
+3534 = { #  
+	holding = none
+}
+###c_balang
+3547 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3543 = { #  
+	holding = none
+}
+3540 = { #  
+	holding = none
+}
+3542 = { #  
+	holding = none
+}
+###c_wangfuzhan
+3531 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3535 = { #  
+	holding = 
+}
+3537 = { #  
+	holding = none
+}
+3530 = { #  
+	holding = none
+}
+###c_ulan_tuga
+3548 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3545 = { #  
+	holding = none
+}
+3546 = { #  
+	holding = none
+}
+###c_chaganhua
+3549 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3550 = { #  
+	holding = none
+}
+3551 = { #  
+	holding = none
+}
+3552 = { #  
+	holding = none
+}
+##d_qenan
+###c_qenan
+3557 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3559 = { #  
+	holding = none
+}
+3556 = { #  
+	holding = none
+}
+3653 = { #  
+	holding = none
+}
+###c_dabusu
+3554 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3555 = { #  
+	holding = none
+}
+3553 = { #  
+	holding = none
+}
+###c_anji
+3558 = { #  
+	culture = gorlos
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3652 = { #  
+	holding = none
+}
+3651 = { #  
+	holding = none
+}
+##d_tungwi
+###c_tungwi
+3576 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3581 = { #  
+	holding = none
+}
+3580 = { #  
+	holding = none
+}
+3577 = { #  
+	holding = none
+}
+###c_hongxing
+3575 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3574 = { #  
+	holding = none
+}
+3566 = { #  
+	holding = none
+}
+3567 = { #  
+	holding = none
+}
+###c_janyu
+3582 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3583 = { #  
+	holding = none
+}
+3579 = { #  
+	holding = none
+}
+3578 = { #  
+	holding = none
+}
+###c_xinglongsan
+3573 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3572 = { #  
+	holding = none
+}
+3585 = { #  
+	holding = none
+}
+3584 = { #  
+	holding = none
+}
+##d_taonan
+###c_taonan
+3568 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3565 = { #  
+	holding = none
+}
+3569 = { #  
+	holding = none
+}
+###c_huhechelli
+3570 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3571 = { #  
+	holding = none
+}
+###c_humanuma
+3563 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3564 = { #  
+	holding = none
+}
+###c_xinping
+3562 = { #  
+	culture = khorchin
+
+	religion = tibetan
+
+	holding = tribal_holding
+}
+3561 = { #  
+	holding = none
+}
+3560 = { #  
+	holding = none
+}

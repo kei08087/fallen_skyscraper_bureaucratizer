@@ -1,0 +1,230 @@
+#k_hamheung
+##d_hamheung
+###c_hamheung
+340 = { # hamheung 함흥
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2243 = { # juseo 주서
+	holding = none
+}
+2239 = { # cheonwon 천원
+	holding = none
+}
+2241 = { # cheonseo 천서
+	holding = none
+}
+2240 = { # jubuk 주북
+	holding = none
+}
+2238 = { # sangjicheon 상지천
+	holding = none
+}
+###c_heungnam
+341 = { # heungnam 흥남
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+339 = { # yeonpo 연포
+	holding = none
+}
+2244 = { # sampyeong 삼평
+	holding = none
+}
+2242 = { # juji 주지
+	holding = none
+}
+2173 = { # seondeok 선덕
+	holding = none
+}
+2237 = { # toejo 퇴조
+	holding = none
+}
+###c_h_gigok
+2234 = { # gigok 기곡
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2235 = { # deoksan 덕산
+	holding = none
+}
+2236 = { # dongcheon 동천
+	holding = none
+}
+###c_gicheon
+2233 = { # gicheon 기천
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2231 = { # sangtong 상통
+	holding = none
+}
+2232 = { # hajoyang 하조양
+	holding = none
+}
+###c_hongwon
+343 = { # hongwon 홍원
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2276 = { # samho 삼호
+	holding = none
+}
+2277 = { # unhak 운학
+	holding = none
+}
+###c_yongwon
+2280 = { # yongwon 용원
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2281 = { # gyeongun 경운
+	holding = none
+}
+2279 = { # yongpo 용포
+	holding = none
+}
+2278 = { # bohyeon 보현
+	holding = none
+}
+##d_bukcheong
+###c_bukcheong
+2288 = { # bukcheong 북청
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2286 = { # deokseong 덕성
+	holding = none
+}
+2285 = { # hageoseo 하거서
+	holding = none
+}
+2287 = { # gahoe 가회
+	holding = none
+}
+###c_sinpo
+346 = { # sinpo 신포
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2294 = { # yanghwa 양화
+	holding = none
+}
+2293 = { # huchang 후창
+	holding = none
+}
+2292 = { # sokhu 속후
+	holding = none
+}
+###c_h_sinchang
+2291 = { # sinchang 신창
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2289 = { # geosan 거산
+	holding = none
+}
+2290 = { # sangri 상리
+	holding = none
+}
+###c_geoseo
+2284 = { # geoseo 거서
+	culture = hamheung
+
+	religion = hamortho
+
+	holding = castle_holding
+}
+2282 = { # igok 이곡
+	holding = none
+}
+2283 = { # seongdae 성대
+	holding = none
+}
+##d_dancheon
+###c_dancheon
+348 = { # dancheon 단천
+	culture = hamheung
+
+	religion = cheonjin
+
+	holding = castle_holding
+}
+2302 = { # bokgwi 복귀
+	holding = none
+}
+2299 = { # ijung 이중
+	holding = none
+}
+###c_hada
+2300 = { # hada 하다
+	culture = hamheung
+
+	religion = cheonjin
+
+	holding = castle_holding
+}
+2301 = { # sinman 신만
+	holding = none
+}
+2297 = { # suha 수하
+	holding = none
+}
+###c_gwangcheon
+2298 = { # gwangcheon 광천
+	culture = hamheung
+
+	religion = cheonjin
+
+	holding = castle_holding
+}
+2296 = { # s.duil 남두일
+	holding = none
+}
+2295 = { # n.duil 북두일
+	holding = none
+}
+###c_iwon
+2375 = { # iwon 이원
+	culture = hamheung
+
+	religion = cheonjin
+
+	holding = castle_holding
+}
+2374 = { # sangseon 상선
+	holding = none
+}
+2376 = { # yeombun 염분
+	holding = none
+}
+347 = { # chaho 차호
+	holding = none
+}

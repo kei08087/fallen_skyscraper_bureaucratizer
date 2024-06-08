@@ -1,0 +1,482 @@
+#k_gyeonggi
+##d_ansan
+###c_gwacheon
+51 = { # gwacheon 과천
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+76 = { # uiwang 의왕
+	holding = city_holding
+}
+###c_anyang
+69 = { # gwangmyeong 광명
+	holding = city_holding
+}
+70 = { # anyang 안양
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+75 = { # gunpo 군포
+	holding = church_holding
+}
+1426 = { # manan 만안
+	holding = city_holding
+}
+###c_ansan
+73 = { # suam 수암
+	holding = church_holding
+}
+74 = { # sangrok 상록
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1425 = { # singil 신길
+	holding = city_holding
+}
+3806 = { # gunja 군자
+	holding = none
+}
+##d_seongnam
+###c_seongnam
+52 = { # seongnam 성남
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1524 = { # bundang 분당
+	holding = city_holding
+}
+1525 = { # sujeong 수정
+	holding = city_holding
+}
+###c_kwangju
+53 = { # docheok 도척
+	holding = none
+}
+1526 = { # opo 오포
+	holding = city_holding
+}
+1527 = { # kwangju 광주
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1531 = { # chowol 초월
+	holding = none
+}
+1532 = { # gonjiam 곤지암
+	holding = none
+}
+###c_hanam
+54 = { # hanam 하남
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1528 = { # namhansanseong 남한산성
+	holding = none
+}
+1529 = { # namjong 남종
+	holding = city_holding
+}
+1530 = { # toechon 퇴촌
+	holding = none
+}
+##d_suwon
+###c_suwon
+84 = { # suwon 수원
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+	1798.1.1 = {
+		special_building_slot = hwaseong_fortress
+		special_building = hwaseong_fortress
+		buildings = { castle_02 }
+	}
+}
+1422 = { # gwonseon 권선
+	holding = church_holding
+}
+1423 = { # jangan 장안
+	holding = castle_holding
+}
+1424 = { # yeongtong 영통
+	holding = city_holding
+}
+###c_hyangnam
+1409 = { # yanggam 양감
+	holding = none
+}
+1410 = { # hyangnam 향남
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1411 = { # jangan 장안
+	holding = none
+}
+1412 = { # ujeong 우정
+	holding = none
+}
+1413 = { # paltan 팔탄
+	holding = city_holding
+}
+###c_g_namyang
+1414 = { # namyang 남양
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1415 = { # songsan 송산
+	holding = none
+}
+1417 = { # bibong 비봉
+	holding = church_holding
+}
+1419 = { # maesong 매송
+	holding = city_holding
+}
+2673 = { # seosin 서신
+	holding = none
+}
+3804 = { # mado 마도
+	holding = none
+}
+###c_g_osan
+1416 = { # jeongnam 정남
+	holding = none
+}
+1418 = { # bongdam 봉담
+	holding = church_holding
+}
+1420 = { # osan 오산
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1421 = { # dongtan 동탄
+	holding = city_holding
+}
+3805 = { # taean 태안
+	holding = city_holding
+}
+##d_yongin
+###c_giheung
+85 = { # suji 수지
+	holding = city_holding
+}
+1520 = { # yangji 양지
+	holding = none
+}
+1521 = { # giheung 기흥
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1522 = { # pogok 포곡
+	holding = none
+}
+1523 = { # mohyeon 모현
+	holding = none
+}
+###c_janghowon
+89 = { # seolseong 설성
+	holding = none
+}
+249 = { # yulmyeon 율면
+	holding = church_holding
+}
+1539 = { # moga 모가
+	holding = none
+}
+1541 = { # daewol 대월
+	holding = none
+}
+1551 = { # janghowon 장호원
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+###c_yongin
+1510 = { # goan 고안
+	holding = none
+}
+1515 = { # namsa 남사
+	holding = city_holding
+}
+1516 = { # idong 이동
+	holding = church_holding
+}
+1517 = { # baekam 백암
+	holding = none
+}
+1518 = { # wonsam 원삼
+	holding = city_holding
+}
+1519 = { # yongin 용인
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+###c_g_icheon
+1533 = { # majang 마장
+	holding = none
+}
+1534 = { # sindun 신둔
+	holding = church_holding
+}
+1535 = { # baeksa 백사
+	holding = none
+}
+1536 = { # icheon 이천
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1537 = { # budal 부달
+	holding = none
+}
+1538 = { # hobeop 호법
+	holding = none
+}
+##d_pyeongtaek
+###c_anjung
+95 = { # oseong 오성
+	holding = none
+}
+1405 = { # hyeondeok 현덕
+	holding = none
+}
+1406 = { # poseung 포승
+	holding = church_holding
+}
+1407 = { # anjung 안중
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1408 = { # cheongbuk 청북
+	holding = none
+}
+###c_pyeongtaek
+1400 = { # pangseong 팡성
+	holding = none
+}
+1402 = { # pyeongtaek 평택
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1403 = { # godeok 고덕
+	holding = none
+}
+1404 = { # seotan 서탄
+	holding = none
+}
+1514 = { # jinwi 진위
+	holding = church_holding
+}
+##d_yeoju
+###c_neungseo
+250 = { # sanbuk 산북
+	holding = none
+}
+1552 = { # neungseo 능서
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1553 = { # hongcheon 홍천
+	holding = none
+}
+1555 = { # daesin 대신
+	holding = church_holding
+}
+1556 = { # geumsa 금사
+	holding = none
+}
+###c_yangpyeong
+251 = { # gaegun 개군
+	holding = none
+}
+1562 = { # yangpyeong 양평
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1563 = { # gangsang 강상
+	holding = church_holding
+}
+1564 = { # gangha 강하
+	holding = none
+}
+###c_yeoju
+1540 = { # ganam 가남
+	holding = none
+}
+1544 = { # gangcheon 강천
+	holding = city_holding
+}
+1546 = { # yeoju 여주
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1547 = { # hwapyeong 화평
+	holding = none
+}
+1548 = { # jeomdong 점동
+	holding = church_holding
+}
+1554 = { # buknae 북내
+	holding = none
+}
+###c_jipyeong
+1557 = { # yangdong 양동
+	holding = none
+}
+1558 = { # cheongun 청운
+	holding = church_holding
+}
+1559 = { # jipyeong 지평
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1560 = { # danwol 단월
+	holding = none
+}
+1561 = { # yongmun 용문
+	holding = none
+}
+###c_yangseo
+1565 = { # seojong 서종
+	holding = church_holding
+}
+1566 = { # yangseo 두물머리
+	culture = icheon
+
+	religion = populism
+
+	holding = castle_holding
+}
+1567 = { # okcheon 옥천
+	holding = none
+}
+##d_anseong
+###c_anseong
+1499 = { # seoun 서운
+	holding = castle_holding
+}
+1500 = { # miyang 미양
+	holding = none
+}
+1504 = { # anseong 안성
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1505 = { # daedeok 대덕
+	holding = city_holding
+}
+###c_yangseong
+1502 = { # wongok 원곡
+	holding = city_holding
+}
+1506 = { # yangseong 양성
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+2676 = { # gongdo 공도
+	holding = castle_holding
+}
+###c_geumwang
+1503 = { # geumwang 금왕
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1507 = { # gosam 고삼
+	holding = city_holding
+}
+1508 = { # bogae 보개
+	holding = church_holding
+}
+###c_juksan
+1509 = { # samjuk 삼죽
+	holding = none
+}
+1511 = { # juksan 죽산
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1512 = { # iljuk 일죽
+	holding = church_holding
+}
+###c_geumgwang
+1503 = { #  
+	culture = suwon
+
+	religion = mechanism
+
+	holding = castle_holding
+}
+1508 = { #  
+	holding = church_holding
+}
+1507 = { #  
+	holding = city_holding
+}

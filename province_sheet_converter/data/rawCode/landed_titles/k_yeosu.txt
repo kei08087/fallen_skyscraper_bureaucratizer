@@ -1,0 +1,429 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+k_yeosu = {
+		color = { 84 192 16 }
+		
+		capital = c_yeosu
+		
+		d_yeosu = {
+			color = { 84 192 16 }
+			
+			capital = c_yeosu
+			c_yeosu = {
+				color = { 84 192 16 }
+				
+				b_632 = { # Yeosu
+					province = 632
+					
+					color = { 84 192 16 }
+				}
+				b_633 = { # Yulchon
+					province = 633
+					
+					color = { 84 192 16 }
+				}
+				b_631 = { # Sora
+					province = 631
+					
+					color = { 84 192 16 }
+				}
+				b_630 = { # Hwayang
+					province = 630
+					
+					color = { 84 192 16 }
+				}
+			}
+			c_dolsan = {
+				color = { 4 132 10 }
+				
+				b_4020 = { # 돌산
+					province = 4020
+					
+					color = { 4 132 10 }
+				}
+				b_4021 = { # 우학
+					province = 4021
+					
+					color = { 4 132 10 }
+				}
+				b_3820 = { # 화정
+					province = 3820
+					
+					color = { 4 132 10 }
+				}
+			}
+		}
+		d_suncheon = {
+			color = { 0 201 145 }
+			capital = c_suncheon
+			
+			c_suncheon = {
+				color = { 0 201 145 }
+				
+				b_635 = { # Suncheon
+					province = 635
+					
+					color = { 0 201 145 }
+				}
+				b_634 = { # Haeryong
+					province = 634
+					
+					color = { 0 201 145 }
+				}
+				b_637 = { # Sangsa
+					province = 637
+					
+					color = { 0 201 145 }
+				}
+				b_636 = { # Byeollyang
+					province = 636
+					
+					color = { 0 201 145 }
+				}
+			}
+			c_juam = {
+				color = { 42 6 148 }
+				
+				b_641 = { # Juam
+					province = 641
+					
+					color = { 42 6 148 }
+				}
+				b_640 = { # Songgwang
+					province = 640
+					
+					color = { 42 6 148 }
+				}
+			}
+			c_seungju = {
+				color = { 84 9 21 }
+				
+				b_642 = { # Seungju
+					province = 642
+					
+					color = { 84 9 21 }
+				}
+				b_644 = { # Woldeung
+					province = 644
+					
+					color = { 84 9 21 }
+				}
+				b_140 = { # Hwangjeon
+					province = 140
+					
+					color = { 84 9 21 }
+				}
+				b_643 = { # Seomyeon
+					province = 643
+					
+					color = { 84 9 21 }
+				}
+			}
+			c_nakan = {
+				color = { 42 102 193 }
+				
+				b_638 = { # Nakan
+					province = 638
+					
+					color = { 42 102 193 }
+				}
+				b_639 = { # Oeseo
+					province = 639
+					
+					color = { 42 102 193 }
+				}
+				b_531 = { # Beolgyo
+					province = 531
+					
+					color = { 42 102 193 }
+				}
+			}
+		}
+
+		d_gwangyang = {
+			color = { 42 51 28 }
+			
+			capital = c_gwangyang
+			c_gwangyang = {
+				color = { 42 51 28 }
+				
+				b_656 = { # Gwangyang
+					province = 656
+					
+					color = { 42 51 28 }
+				}
+				b_657 = { # Jungma
+					province = 657
+					
+					color = { 42 51 28 }
+				}
+				b_655 = { # Bonggang
+					province = 655
+					
+					color = { 42 51 28 }
+				}
+				b_224 = { # Geumho
+					province = 224
+					
+					color = { 42 51 28 }
+				}
+				b_658 = { # Okryong
+					province = 658
+					
+					color = { 42 51 28 }
+				}
+			}
+			c_okgok = {
+				color = { 168 60 157 }
+				
+				b_659 = { # Okgok
+					province = 659
+					
+					color = { 168 60 157 }
+				}
+				b_661 = { # Jinsang
+					province = 661
+					
+					color = { 168 60 157 }
+				}
+				b_660 = { # Daap
+					province = 660
+					
+					color = { 168 60 157 }
+				}
+				b_144 = { # Jinwol
+					province = 144
+					
+					color = { 168 60 157 }
+				}
+			}
+			c_gurye = {
+				color = { 42 156 173 }
+				
+				b_691 = { # Gurye
+					province = 691
+					
+					color = { 42 156 173 }
+				}
+				b_690 = { # Yongbang
+					province = 690
+					
+					color = { 42 156 173 }
+				}
+				b_689 = { # Gwangui
+					province = 689
+					
+					color = { 42 156 173 }
+				}
+				b_688 = { # Sandong
+					province = 688
+					
+					color = { 42 156 173 }
+				}
+			}
+			c_toji = {
+				color = { 168 165 47 }
+				
+				b_694 = { # Toji
+					province = 694
+					
+					color = { 168 165 47 }
+				}
+				b_143 = { # Ganjeon
+					province = 143
+					
+					color = { 168 165 47 }
+				}
+				b_692 = { # Muncheok
+					province = 692
+					
+					color = { 168 165 47 }
+				}
+				b_693 = { # Masan
+					province = 693
+					
+					color = { 168 165 47 }
+				}
+			}
+		}
+
+		d_gokseong = {
+			color = { 126 42 154 }
+			
+			capital = c_gokseong
+			c_gokseong = {
+				color = { 126 42 154 }
+				
+				b_653 = { # Gokseong
+					province = 653
+					
+					color = { 126 42 154 }
+				}
+				b_654 = { # Ogok
+					province = 654
+					
+					color = { 126 42 154 }
+				}
+				b_141 = { # Godal
+					province = 141
+					
+					color = { 126 42 154 }
+				}
+			}
+			c_okgwa = {
+				color = { 0 33 25 }
+				
+				b_650 = { # Okgwa
+					province = 650
+					
+					color = { 0 33 25 }
+				}
+				b_649 = { # Osan
+					province = 649
+					
+					color = { 0 33 25 }
+				}
+				b_651 = { # Gyeommyeon
+					province = 651
+					
+					color = { 0 33 25 }
+				}
+				b_652 = { # Ibmyeon
+					province = 652
+					
+					color = { 0 33 25 }
+				}
+			}
+			c_seokgok = {
+				color = { 84 24 151 }
+				
+				b_647 = { # Seokgok
+					province = 647
+					
+					color = { 84 24 151 }
+				}
+				b_648 = { # Samgi
+					province = 648
+					
+					color = { 84 24 151 }
+				}
+			}
+			c_jukgok = {
+				color = { 42 21 23 }
+				
+				b_646 = { # Jukgok
+					province = 646
+					
+					color = { 42 21 23 }
+				}
+				b_645 = { # Moksadong
+					province = 645
+					
+					color = { 42 21 23 }
+				}
+			}
+		}
+
+		d_hwasun = {
+			color = { 0 6 85 }
+			
+			capital = c_hwasun
+			c_hwasun = {
+				color = { 0 6 85 }
+				
+				b_570 = { # Hwasun
+					province = 570
+					
+					color = { 0 6 85 }
+				}
+				b_2669 = { # Dogok
+					province = 2669
+					
+					color = { 0 6 85 }
+				}
+				b_571 = { # Neungju
+					province = 571
+					
+					color = { 0 6 85 }
+				}
+			}
+			c_sapyeong = {
+				color = { 126 15 214 }
+				
+				b_573 = { # Sapyeong
+					province = 573
+					
+					color = { 126 15 214 }
+				}
+				b_572 = { # Hancheon
+					province = 572
+					
+					color = { 126 15 214 }
+				}
+				b_574 = { # Dongmyeon
+					province = 574
+					
+					color = { 126 15 214 }
+				}
+			}
+			c_baeka = {
+				color = { 42 24 88 }
+				
+				b_576 = { # Baeka
+					province = 576
+					
+					color = { 42 24 88 }
+				}
+				b_575 = { # Dongbok
+					province = 575
+					
+					color = { 42 24 88 }
+				}
+			}
+			c_chunhyang = {
+				color = { 126 0 84 }
+				
+				b_568 = { # Chunhyang
+					province = 568
+					
+					color = { 126 0 84 }
+				}
+				b_565 = { # Doam
+					province = 565
+					
+					color = { 126 0 84 }
+				}
+				b_566 = { # Cheongpung
+					province = 566
+					
+					color = { 126 0 84 }
+				}
+				b_567 = { # Iyang
+					province = 567
+					
+					color = { 126 0 84 }
+				}
+			}
+		}
+		d_geomun = {
+			color = { 3 141 5}
+
+			capital = c_geomun
+
+			c_geomun = {
+				color = { 3 141 5 }
+				cultural_names = {
+					name_list_english = cn_port_hamilton
+				}
+				b_3810 = { # 거문도
+					province = 3810
+					cultural_names = {
+						name_list_english = cn_port_hamilton
+					}
+					color = { 3 141 5 }
+				}
+			}
+		}
+	}

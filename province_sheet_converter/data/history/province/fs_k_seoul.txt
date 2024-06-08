@@ -1,0 +1,337 @@
+#k_seoul
+##d_mapo
+###c_eunpyeong
+25 = { # eunpyeong 은평
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_west_gate
+26 = { # w.gate 서대문
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+	2400.1.1 = {
+		special_building_slot = yonsei_university
+	}
+	2500.1.1 = {
+		special_building = yonsei_university
+	}
+}
+###c_mapo
+27 = { # mapo 마포
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+	2400.1.1 = {
+		special_building_slot = sogang_university
+	}
+	2500.1.1 = {
+		special_building = sogang_university
+	}
+}
+##d_seoul
+###c_jongno
+28 = { # jongno 종로
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+	2400.1.1 = {
+		special_building_slot = sungkyunkwan_university
+		duchy_capital_building = hanyang_city_01
+	}
+	2500.1.1 = {
+		special_building = sungkyunkwan_university
+	}
+}
+###c_junggu
+29 = { # junggu 중구
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+	2400.1.1 = {
+		special_building_slot = dongguk_university
+	}
+	2500.1.1 = {
+		special_building = dongguk_university
+	}
+}
+###c_yongsan
+30 = { # yongsan 용산
+	culture = kuriyn
+
+	religion = muttahida
+
+	holding = castle_holding
+	1976.5.21 = {
+		special_building_slot = seoul_central_mosque
+		special_building = seoul_central_mosque
+	}
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+##d_fareast
+###c_seongdong
+31 = { # seongdong 성동
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_east_gate
+34 = { # e.gate 동대문
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+	
+	2400.1.1 = {
+		special_building_slot = kyunghee_university
+	}
+	2500.1.1 = {
+		special_building = kyunghee_university
+	}
+}
+###c_jungnang
+37 = { # jungnang 중랑
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_gwangjin
+38 = { # gwangjin 광진
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+##d_northeast
+###c_seongbuk
+32 = { # seongbuk 성북
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+		2400.1.1 = {
+			special_building_slot = korea_university
+		}
+		2500.1.1 = {
+			special_building = korea_university
+		}
+}
+###c_gangbuk
+33 = { # gangbuk 강북
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_dobong
+35 = { # dobong 도봉
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_nowon
+36 = { # nowon 노원
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+##d_gangnam
+###c_gangdong
+40 = { # gangdong 강동
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_songpa
+41 = { # songpa 송파
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_gangnam
+42 = { # gangnam 강남
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_seocho
+43 = { # seocho 서초
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+##d_yeongdeungpo
+###c_dongjak
+44 = { # dongjak 동작
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_yeongdeungpo
+45 = { # yeongdeungpo 영등포
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_gangseo
+46 = { # gangseo 강서
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_yangcheon
+47 = { # yangcheon 양천
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_guro
+48 = { # guro 구로
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_geumcheon
+49 = { # geumcheon 금천
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+}
+###c_gwanak
+50 = { # gwanak 관악
+	culture = seoul
+
+	religion = seoulism
+
+	holding = castle_holding
+	
+	1975.1.1 = {
+		special_building = seoul_national_university_01
+	}
+	2000.1.1 = {
+		buildings = { seoul_metropolis_01 }
+	}
+	2500.1.1 = {
+		special_building = seoul_national_university_02
+	}
+}

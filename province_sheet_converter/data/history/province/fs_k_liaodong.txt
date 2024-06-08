@@ -1,0 +1,768 @@
+#k_liaodong
+##d_dalian
+###c_dalian
+2808 = { #  
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+###c_ganjingzi
+2807 = { #  
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+###c_port_arthur
+2806 = { #  
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+##d_pulandian
+###c_pulandian
+2815 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+2814 = { #  
+	holding = none
+}
+2816 = { #  
+	holding = none
+}
+2819 = { #  
+	holding = none
+}
+###c_jinzhou
+2810 = { #  
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+2811 = { #  
+	holding = none
+}
+2809 = { #  
+	holding = none
+}
+2812 = { #  
+	holding = none
+}
+2813 = { #  
+	holding = none
+}
+###c_yuantai
+2818 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = tribal_holding
+}
+2817 = { #  
+	holding = none
+}
+2821 = { #  
+	holding = none
+}
+2820 = { #  
+	holding = none
+}
+2862 = { #  
+	holding = none
+}
+###c_anbo
+2831 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = tribal_holding
+}
+2830 = { #  
+	holding = none
+}
+2829 = { #  
+	holding = none
+}
+2828 = { #  
+	holding = none
+}
+###c_xingtai
+2823 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = tribal_holding
+}
+2822 = { #  
+	holding = none
+}
+2824 = { #  
+	holding = none
+}
+2827 = { #  
+	holding = none
+}
+##d_zhuanghe
+###c_zhuanghe
+2836 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2845 = { #  
+	holding = none
+}
+2838 = { #  
+	holding = none
+}
+2837 = { #  
+	holding = none
+}
+2843 = { #  
+	holding = none
+}
+###c_shiangdui
+2839 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2840 = { #  
+	holding = none
+}
+2841 = { #  
+	holding = none
+}
+###c_mingyang
+2825 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2826 = { #  
+	holding = none
+}
+2834 = { #  
+	holding = none
+}
+2833 = { #  
+	holding = none
+}
+###c_shianledong
+2844 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2846 = { #  
+	holding = none
+}
+2842 = { #  
+	holding = none
+}
+###c_changyuan
+2835 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2832 = { #  
+	holding = none
+}
+2848 = { #  
+	holding = none
+}
+2847 = { #  
+	holding = none
+}
+##d_wafangdian
+###c_wafangdian
+2861 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = tribal_holding
+}
+2860 = { #  
+	holding = none
+}
+2857 = { #  
+	holding = none
+}
+2855 = { #  
+	holding = none
+}
+###c_xutun
+2868 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = tribal_holding
+}
+2865 = { #  
+	holding = none
+}
+2866 = { #  
+	holding = none
+}
+###c_yongyu
+2867 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+2864 = { #  
+	holding = none
+}
+2863 = { #  
+	holding = none
+}
+###c_shianjian
+2856 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+2858 = { #  
+	holding = none
+}
+2859 = { #  
+	holding = none
+}
+###c_paotai
+2854 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+2853 = { #  
+	holding = none
+}
+2852 = { #  
+	holding = none
+}
+2851 = { #  
+	holding = none
+}
+2850 = { #  
+	holding = none
+}
+2849 = { #  
+	holding = none
+}
+##d_faanchian
+###c_faanchian
+2872 = { #  
+	culture = jiaoliao
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+###c_laojou
+2879 = { #  
+	culture = liaoshen
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+2888 = { #  
+	holding = none
+}
+2880 = { #  
+	holding = none
+}
+2878 = { #  
+	holding = none
+}
+###c_ulongquan
+2881 = { #  
+	culture = liaoshen
+
+	religion = zhengyi
+
+	holding = tribal_holding
+}
+2882 = { #  
+	holding = none
+}
+2877 = { #  
+	holding = none
+}
+2875 = { #  
+	holding = none
+}
+2876 = { #  
+	holding = none
+}
+###c_xiuangtai
+2873 = { #  
+	culture = liaoshen
+
+	religion = zhengyi
+
+	holding = castle_holding
+}
+2871 = { #  
+	holding = none
+}
+2870 = { #  
+	holding = none
+}
+2874 = { #  
+	holding = none
+}
+2869 = { #  
+	holding = none
+}
+##d_dandung
+###c_dandung
+2946 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = castle_holding
+}
+2931 = { #  
+	holding = none
+}
+2944 = { #  
+	holding = none
+}
+###c_jeonan
+2929 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2928 = { #  
+	holding = none
+}
+2927 = { #  
+	holding = none
+}
+2932 = { #  
+	holding = none
+}
+2930 = { #  
+	holding = none
+}
+###c_gusan
+2959 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2960 = { #  
+	holding = none
+}
+2961 = { #  
+	holding = none
+}
+2964 = { #  
+	holding = none
+}
+2962 = { #  
+	holding = none
+}
+###c_heyuan
+2955 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2956 = { #  
+	holding = none
+}
+2957 = { #  
+	holding = none
+}
+###c_dunggang
+2948 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2949 = { #  
+	holding = none
+}
+2950 = { #  
+	holding = none
+}
+2954 = { #  
+	holding = none
+}
+###c_chenyang
+2947 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2945 = { #  
+	holding = none
+}
+2951 = { #  
+	holding = none
+}
+2943 = { #  
+	holding = none
+}
+2953 = { #  
+	holding = none
+}
+##d_xiuyan
+###c_xiuyan
+2970 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = castle_holding
+}
+2975 = { #  
+	holding = none
+}
+2974 = { #  
+	holding = none
+}
+2973 = { #  
+	holding = none
+}
+###c_yangjiabao
+2969 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2972 = { #  
+	holding = none
+}
+2971 = { #  
+	holding = none
+}
+2967 = { #  
+	holding = none
+}
+2968 = { #  
+	holding = none
+}
+###c_suzigou
+2983 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2965 = { #  
+	holding = none
+}
+2982 = { #  
+	holding = none
+}
+2966 = { #  
+	holding = none
+}
+###c_sanjiazi
+2978 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2977 = { #  
+	holding = none
+}
+2980 = { #  
+	holding = none
+}
+2981 = { #  
+	holding = none
+}
+2976 = { #  
+	holding = none
+}
+###c_tangwei
+2986 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2979 = { #  
+	holding = none
+}
+2984 = { #  
+	holding = none
+}
+2985 = { #  
+	holding = none
+}
+##d_fengcheng
+###c_fengcheng
+2940 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2939 = { #  
+	holding = none
+}
+2934 = { #  
+	holding = none
+}
+2925 = { #  
+	holding = none
+}
+2926 = { #  
+	holding = none
+}
+###c_simenzi
+2937 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2938 = { #  
+	holding = none
+}
+2936 = { #  
+	holding = none
+}
+2935 = { #  
+	holding = none
+}
+###c_daxing
+2924 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2922 = { #  
+	holding = none
+}
+2921 = { #  
+	holding = none
+}
+2923 = { #  
+	holding = none
+}
+###c_baiqi
+2942 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2963 = { #  
+	holding = none
+}
+2941 = { #  
+	holding = none
+}
+###c_hongqi
+2952 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2958 = { #  
+	holding = none
+}
+2933 = { #  
+	holding = none
+}
+##d_kuandian
+###c_kuandian
+2911 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2912 = { #  
+	holding = none
+}
+2917 = { #  
+	holding = none
+}
+2918 = { #  
+	holding = none
+}
+###c_changsun
+2913 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2914 = { #  
+	holding = none
+}
+2915 = { #  
+	holding = none
+}
+2916 = { #  
+	holding = none
+}
+###c_shuangshanzi
+2920 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2909 = { #  
+	holding = none
+}
+2910 = { #  
+	holding = none
+}
+2919 = { #  
+	holding = none
+}
+###c_taiping
+2905 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2904 = { #  
+	holding = none
+}
+2908 = { #  
+	holding = none
+}
+2907 = { #  
+	holding = none
+}
+2906 = { #  
+	holding = none
+}
+###c_dasicha
+2902 = { #  
+	culture = yalu
+
+	religion = tengri_pagan
+
+	holding = tribal_holding
+}
+2903 = { #  
+	holding = none
+}
+2901 = { #  
+	holding = none
+}
+2900 = { #  
+	holding = none
+}
+##d_changhai
+###c_shicheng
+4006 = { # shicheng 스청
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+4007 = { # dawangzwa 다왕좌
+	holding = none
+}
+4008 = { # wumang 우망
+	holding = none
+}
+###c_dalu
+4005 = { # dalu 다루
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = city_holding
+}
+###c_changshan
+4010 = { # dachangshan 다창산
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+4009 = { # shaochangshan 샤오창산
+	holding = none
+}
+4011 = { # guanglu 광루
+	holding = none
+}
+###c_zhangzi
+4012 = { # zhangzi 장쯔
+	culture = jiaoliao
+
+	religion = nightglow
+
+	holding = castle_holding
+}
+4013 = { # haiyang 하이양
+	holding = church_holding
+}

@@ -1,0 +1,434 @@
+﻿#e_hec
+#k_iksan 
+##d_iksan  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_iksan
+
+
+1059={#Iri
+	culture =  jeonju
+	religion = imperial_church
+	holding = city_holding
+	2300.1.1 = {
+		special_building = holy_site_cathedral_01
+	}
+}
+68 = {	#Okya
+	holding = city_holding
+}
+71 = {	#Palbong
+	holding = church_holding
+}
+72 = {	#Bukil
+	holding = castle_holding
+}
+1055 = {	#Osan
+	holding = church_holding
+}
+
+###c_geumma
+
+1060 = {	#Chunpo
+	holding = city_holding
+}
+1061 = {	#Wanggung
+	holding = church_holding
+}
+1063 = {	#Geumma
+	culture =  jeonju
+	religion = imperial_church
+	holding = castle_holding
+	640.1.1 = {
+		special_building_slot = maitreya_temple
+		special_building = maitreya_temple
+	}
+}
+
+###c_yeosan 
+1062={#Yeosan  
+	culture = gunsan
+	religion = imperial_church
+	holding = castle_holding
+}
+
+114 = {	#Mangseong
+	holding = city_holding
+}
+
+1070 = {	#Nangsan
+	holding = castle_holding
+}
+1064 = {	#Samgi
+	holding = none
+}
+###c_hamyeol
+1065={#Hwangdeung
+	holding = castle_holding
+}
+1066 = {	#Hamna
+	culture = gunsan
+	religion = imperial_church
+	holding = castle_holding
+}
+1067 = {	#Ungpo
+	holding = city_holding
+}
+1068 = {	#Seongdang
+	holding = church_holding
+}
+1069 = {	#Hamyeol
+	holding = city_holding
+}
+###c_yongan
+1071 = {	#Yongan
+	culture = gunsan
+	religion = imperial_church
+	holding = castle_holding
+}
+1072 = {	#Yongdong
+	holding = city_holding
+}
+
+ 
+ 
+ 
+ 
+
+##d_gunsan  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_gunsan
+1047={#Gunsan
+	culture = gunsan 
+	religion = imperial_church
+	holding = castle_holding
+}
+
+1048 = {	#Okseo
+	holding = none
+}
+1049 = {	#Okgu
+	holding = none
+}
+1051 = {	#Oksan
+	holding = none
+}
+1050 = {	#Hoehyeon
+	holding = none
+}
+57 = { # Miseong
+	holding = city_holding
+}
+###c_old_gunsan_islands
+3818 = { # 옥도
+	culture = gunsan
+	religion = imperial_church
+	holding = castle_holding
+}
+3817 = { # 위도
+	holding = none
+}
+3819 = { # 외연
+	holding = none
+}
+
+###c_impi 
+
+1056={#Impi
+	culture = gunsan 
+	religion = imperial_church
+	holding = castle_holding
+}
+
+1058 = {	#Seosu
+	holding = none
+}
+1057 = {	#Napo
+	holding = none
+}
+1054 = {	#Seongsan
+	holding = none
+}
+1052 = {	#Gaejeong
+	holding = none
+}
+1053 = {	#Daeya
+	holding = none
+}  
+ 
+  
+
+##d_gimje  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_gimje
+1036={#Gimje
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}
+
+1034 = {	#Buryang
+	holding = castle_holding
+	330.1.1 = {
+		special_building_slot = byeokkolje
+		special_building = byeokkolje
+	}
+}
+1037 = {	#Baeksan
+	holding = church_holding
+}
+1032 = {	#Juksan
+	holding = city_holding
+}
+
+###c_geumgu
+
+1041 = {	#Geumgu
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}
+1039 = {	#Bongnam
+	holding = none
+}
+1040 = {	#Geumsan
+	holding = none
+}
+1042 = {	#Hwangsan
+	holding = none
+}
+
+###c_mangyeong 
+1035 = {	#Mangyeong
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}
+1038 = {	#Cheongha
+	holding = none
+}
+1044 = {	#Gongdeok
+	holding = none
+}
+
+###c_baekgu 
+
+120={#Baekgu
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}
+
+1043 = {	#Yongji
+	holding = none
+}
+ 
+###c_jinbong 
+
+1030={#Jinbong
+	culture = saemangeum
+	religion = holyist
+	holding = castle_holding
+}
+
+
+1033 = {	#Seongdeok
+	holding = none
+}
+1031 = {	#Gwanghwal
+	holding = none
+}
+ 
+ 
+ 
+
+
+##d_gochang  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_gochang
+626={#Gochang
+	culture = saemangeum
+	religion = imperial_church
+	holding = castle_holding
+}
+
+625 = {	#Gosu
+	holding = none
+}
+624 = {	#Asan
+	holding = none
+}
+
+###c_heungdeok_gochang
+629 = {	#Heungdeok
+	culture = saemangeum
+	religion = imperial_church
+	holding = castle_holding
+}
+627 = {	#Sinrim
+	holding = none
+}
+628={ #Buan
+	holding = none
+}
+126 = {	#Seongnae
+	holding = none
+}
+
+###c_daesan 
+
+617={#Daesan
+	culture = saemangeum
+	religion = imperial_church
+	holding = castle_holding
+}
+618 = {	#Gongeup
+	holding = none
+}
+
+###c_haeri
+619 = {	#Sangha
+	holding = none
+}
+620 = {	#Haeri
+	culture = saemangeum
+	religion = imperial_church
+	holding = castle_holding
+}
+623 = {	#Simwon
+	holding = none
+}
+
+###c_mujang
+621 = {	#Mujang
+	culture = saemangeum
+	religion = imperial_church
+	holding = castle_holding
+}
+622 = {	#Seongsong
+	holding = none
+}
+
+##d_buan
+###c_buan 
+
+978={#Buan
+	culture = saemangeum
+	religion = holyist
+	holding = castle_holding
+}
+  
+977 = {	#Dongjeon
+	holding = none
+}
+975 = {	#Gyehwa
+	holding = none
+}
+  
+976 = {	#Haengan
+	holding = none
+} 
+
+###c_byeonsan 
+
+969={#Byeonsan
+	culture = saemangeum
+	religion = holyist
+	holding = castle_holding
+}
+
+970 = {	#Jinseo
+	holding = city_holding
+}
+972 = {	#Haseo
+	holding = none
+}
+  
+973 = {	#Sangseo
+	holding = none
+}
+
+###c_boan
+
+971 = {	#Boan
+	culture = saemangeum
+	religion = holyist
+	holding = castle_holding
+}
+974 = {	#Jusan
+	holding = none
+}
+121 = {	#Julpo
+	holding = city_holding
+}   
+
+
+
+##d_jeongeup  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_jeongeup
+984={#Jeongeup
+	culture = jeonju
+	religion = imperial_church
+	holding = castle_holding
+}
+
+2653 = {	# N.Jeongeup
+	holding = none
+}
+980 = {	#Ibam
+	holding = none
+}
+56 = { #Naejang
+	holding = church_holding
+}
+
+###c_gobu
+
+982 = {	#Gobu
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}
+981 = {	#Soseong
+	holding = church_holding
+}
+979 = {	#Baeksan
+	holding = city_holding
+}
+989 = {	#Jeongu
+	holding = none
+}
+985 = {	#Deokcheon
+	holding = none
+}
+983 = {	#Yeongwon
+	holding = none
+} 
+986 = {	#Ipyeong
+	holding = city_holding
+} 
+###c_taein 
+
+992={#Taein
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}
+987={#Sintaein
+	holding = city_holding
+}
+988 = {	#Gamgok
+	holding = none
+}
+993 = {	#Ongdong
+	holding = none
+}
+
+###c_chilbo
+994 = {	#Sanoe
+	holding = city_holding
+}
+123 = {	#Sannae
+	holding = church_holding
+}  
+991 = {	#Chilbo
+	culture = jeonju
+	religion = holyist
+	holding = castle_holding
+}   
+

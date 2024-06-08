@@ -1,0 +1,241 @@
+﻿#k_incheon 
+## d_incheon  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_incheon
+
+65={#Michuhol
+	holding = castle_holding
+	culture = incheon 
+	religion = presbyterianism
+
+}
+66 = {	# Yeonsu
+	culture = incheon 
+	religion = presbyterianism
+	holding = city_holding
+}
+67={#Guwol
+	holding = castle_holding
+	culture = incheon 
+	religion = presbyterianism
+}
+
+###c_seogu
+60={#Oryuwang
+	culture = incheon 
+	religion = presbyterianism
+	holding = castle_holding
+}
+
+64={#Cheongra
+	holding = church_holding
+	
+	2400.1.1 = {
+	    buildings = {
+		    Incheon_Port_00
+		}
+	}
+} 
+
+#d_bupyeong
+
+#c_bupyeong
+63={#Bupyeong
+	culture = incheon 
+	religion = populism
+	holding = castle_holding
+}
+61={#Gyeyang
+	holding = castle_holding
+}
+### c_bucheon 
+
+62={#Bucheon
+	culture = incheon  
+	religion = populism
+	holding = castle_holding
+}
+3807 = {#소래
+	holding = city_holding
+}
+
+##d_ganghwado  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_ganghwa
+1443={#Ganghwa
+	culture = incheon 
+	religion = anglicanism
+	holding = castle_holding
+}
+
+1445 = {	#Songhae
+	holding = none
+}
+ 
+ 
+
+###c_yangsa 
+
+77={#Yangsa
+	culture = incheon 
+	religion = anglicanism
+	holding = castle_holding
+}
+
+1444 = {	#Hajeom
+	holding = none
+} 
+
+1441={#Naega
+	culture = incheon 
+	religion = anglicanism
+	holding = church_holding
+}
+ 
+###c_buleun 
+
+1440={#Buleun
+	culture = incheon 
+	religion = anglicanism
+	holding = castle_holding
+}
+
+1442 = {	#Seonwon
+	holding = none
+}
+ 
+###c_hwado 
+
+1437={#Hwado
+	culture = incheon 
+	religion = anglicanism
+	holding = castle_holding
+}
+
+1438 = {	#Gilsang
+	holding = none
+}
+1439 = {	#Yangdo
+	holding = none
+}  
+###c_seokmo
+
+78={#Seokmo
+	culture = incheon 
+	religion = anglicanism
+	holding = castle_holding
+}
+
+2498={#Seodo
+	holding = none
+}
+###c_gyodong 
+
+79={#Gyodong
+	culture = incheon 
+	religion = anglicanism
+	holding = castle_holding
+}
+
+
+
+ 
+
+ 
+##d_yeongjongdo  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_yeongjongdo
+80={#Yeongjongdo
+	culture = incheon 
+	religion = presbyterianism
+	holding = castle_holding
+}
+
+2500 = { #Muui
+	holding = none
+}
+ 
+ 
+
+###c_bukdo 
+
+2499={#Bukdo
+	culture = incheon 
+	religion = presbyterianism
+	holding = castle_holding
+}
+
+ 
+ 
+###c_daebu
+
+3808={#대부도
+	culture = incheon 
+	religion = presbyterianism
+	holding = castle_holding
+}
+2503={#Yeongheungdo
+	holding = none
+}
+2504={#풍도
+	holding = church_holding
+}
+###c_deokjeok 
+
+2501={#Deokjeok
+	culture = incheon 
+	religion = presbyterianism
+	holding = city_holding
+}
+
+ 
+ 
+###c_jawol 
+
+2502={#Jawol
+	culture = incheon 
+	religion = presbyterianism
+	holding = castle_holding
+}
+
+ 
+ 
+
+##d_gimpo  ###################################k는 왕국 d는 공작 c는 백작 b는 남작
+### c_gimpo
+1431={#Gimpo
+	culture = incheon 
+	religion = methodism
+	holding = castle_holding
+}
+1427={#Geomdan
+	culture = incheon 
+	religion = methodism
+	holding = castle_holding
+}
+1430 = { #Gochon
+	holding = none
+}
+1434 = { #Unyang
+	holding = none
+}
+1432 = { #Yangchon
+	holding = none
+}
+ 
+
+###c_tongjin 
+
+1435={#Tongjin
+	culture = incheon 
+	religion = methodism
+	holding = castle_holding
+}
+59 = { #Wolgot
+	holding = none
+}
+1433 = { #Daegot
+	holding = none
+}
+1436 = { #Haseong
+	holding = city_holding
+}
+ 
+  

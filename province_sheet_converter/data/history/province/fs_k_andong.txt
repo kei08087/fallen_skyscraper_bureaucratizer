@@ -1,0 +1,363 @@
+#k_andong
+##d_andong
+###c_andong
+1347 = { # andong 안동
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+	
+	2400.1.1 = {
+		special_building_slot = andong_taehak
+	}
+	2500.1.1 = {
+		special_building = andong_taehak
+	}
+}
+1343 = { # namseon 남선
+	holding = church_holding
+}
+###c_yean
+163 = { # yean 예안
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1349 = { # waryong 와룡
+	holding = church_holding
+}
+1350 = { # nokjeon 녹전
+	holding = none
+}
+1351 = { # dosan 도산
+	holding = church_holding
+	1570.1.1 = {
+		special_building_slot = dosan_academy
+		special_building = dosan_academy
+	}
+}
+###c_imha
+1344 = { # imha 임하
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1352 = { # imdong 임동
+	holding = none
+}
+1345 = { # giran 길안
+	holding = church_holding
+}
+###c_pungsan
+1342 = { # pungsan 풍산
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1340 = { # iljik 일직
+	holding = church_holding
+}
+1341 = { # namhu 남후
+	holding = none
+}
+1339 = { # pungcheon 풍천
+	holding = city_holding
+}
+1346 = { # seohu 서후
+	holding = none
+}
+1348 = { # bukhu 북후
+	holding = none
+}
+###c_yecheon
+1318 = { # yecheon 예천
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1312 = { # gamcheon 감천
+	holding = church_holding
+}
+1313 = { # bomun 보문
+	holding = none
+}
+1319 = { # homyeong 호명
+	holding = city_holding
+}
+##d_cheongsong
+###c_cheongsong
+1185 = { # cheongsong 청송
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1183 = { # juwangsan 주왕산
+	holding = church_holding
+}
+1184 = { # pacheon 파천
+	holding = none
+}
+191 = { # jinbo 진보
+	holding = city_holding
+}
+###c_andeok
+1181 = { # andeok 안덕
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1182 = { # bunam 부남
+	holding = church_holding
+}
+1180 = { # hyeondong 현동
+	holding = none
+}
+1179 = { # hyeonseo 현서
+	holding = none
+}
+###c_yeongyang
+1197 = { # yeongyang 영양
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+164 = { # subi 수비
+	holding = church_holding
+}
+1198 = { # irwol 일월
+	holding = none
+}
+1196 = { # cheonggi 청기
+	holding = none
+}
+###c_seokbo
+1194 = { # seokbo 석보
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1195 = { # ibam 입밤
+	holding = church_holding
+}
+##d_yeongju
+###c_yeongju
+1308 = { # yeongju 영주
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1307 = { # jangsu 장수
+	holding = castle_holding
+}
+1309 = { # munsu 문수
+	holding = none
+}
+162 = { # pyeongeun 평은
+	holding = none
+}
+1310 = { # isan 이산
+	holding = church_holding
+}
+###c_sunheong
+1303 = { # sunheong 순흥
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1301 = { # buseok 부석
+	holding = church_holding
+}
+1302 = { # dansan 단산
+	holding = none
+}
+###c_punggi
+1304 = { # punggi 풍기
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1305 = { # bonghyeong 봉현
+	holding = church_holding
+}
+1306 = { # anjeong 안정
+	holding = none
+}
+##d_gunwi
+###c_gunwi
+1152 = { # gunwi 군위
+	culture = andong
+
+	religion = jogye
+
+	holding = castle_holding
+}
+1151 = { # sobo 소보
+	holding = none
+}
+1153 = { # hyoryeong 효령
+	holding = none
+}
+###c_uiheung
+1157 = { # uiheung 의흥
+	culture = andong
+
+	religion = jogye
+
+	holding = castle_holding
+}
+1155 = { # ubo 우보
+	holding = none
+}
+1156 = { # sanseong 산성
+	holding = none
+}
+1154 = { # bugye 부계
+	holding = none
+}
+166 = { # goro 고로
+	holding = none
+}
+##d_bonghwa
+###c_bongwha
+1298 = { # bonghwa 봉화
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1299 = { # bongseong 봉성
+	holding = church_holding
+}
+1300 = { # murya 물야
+	holding = none
+}
+1297 = { # sangun 상운
+	holding = none
+}
+###c_chunyang
+1293 = { # chunyang 춘양
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+244 = { # seokpo 석포
+	holding = none
+}
+1292 = { # socheon 소천
+	holding = church_holding
+}
+###c_beopjeon
+1294 = { # beopjeon 법전
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1296 = { # myeongho 명호
+	holding = church_holding
+}
+1295 = { # jaesan 재산
+	holding = none
+}
+##d_uiseong
+###c_uiseong
+165 = { # uiseong 의성
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1338 = { # danchon 단촌
+	holding = none
+}
+1337 = { # jeomgok 점곡
+	holding = none
+}
+1336 = { # oksan 옥산
+	holding = none
+}
+1335 = { # sagok 사곡
+	holding = church_holding
+}
+###c_bongyang
+1458 = { # bongyang 봉양
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1332 = { # geumseong 금성
+	holding = church_holding
+}
+1333 = { # gaeum 가음
+	holding = none
+}
+1334 = { # chunsan 춘산
+	holding = none
+}
+###c_bian
+1329 = { # bian 비안
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1330 = { # anpyeong 안평
+	holding = church_holding
+}
+1328 = { # sinpyeong 신평
+	holding = none
+}
+1327 = { # ansa 안사
+	holding = none
+}
+###c_dain
+1323 = { # dain 다인
+	culture = andong
+
+	religion = neocon
+
+	holding = castle_holding
+}
+1324 = { # danbuk 단북
+	holding = none
+}
+1322 = { # danmil 단밀
+	holding = none
+}
+1325 = { # gucheon 구천
+	holding = none
+}
+1326 = { # angye 안계
+	holding = church_holding
+}

@@ -1,0 +1,138 @@
+#k_jeju
+##d_jeju
+###c_jeju
+460 = { # jeju 제주
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+401 = { # hwabuk 화북
+	holding = city_holding
+}
+459 = { # yongdam 용담
+	holding = castle_holding
+}
+###c_pyoseon
+408 = { # pyoseon 표선
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+466 = { # seongeup 성읍
+	holding = none
+}
+468 = { # namwon 남원
+	holding = none
+}
+467 = { # sumang 수망
+	holding = none
+}
+###c_j_seongsan
+411 = { # seongsan 성산
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+465 = { # goseong 고성
+	holding = none
+}
+464 = { # gujwa 구좌
+	holding = none
+}
+###c_jocheon
+461 = { # jocheon 조천
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+2684 = { # hoecheon 회천
+	holding = none
+}
+463 = { # songdang 송당
+	holding = none
+}
+412 = { # gimnyeong 김녕
+	holding = none
+}
+###c_udo
+2683 = { # udo 우도
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+##d_seogwipo
+###c_seogwipo
+458 = { # seogwipo 서귀포
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+462 = { # daeryun 대륜
+	holding = none
+}
+407 = { # bomok 보목
+	holding = none
+}
+###c_aewol
+403 = { # aewol 애월
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+454 = { # geumseong 금성
+	holding = none
+}
+453 = { # hanrim 한림
+	holding = none
+}
+###c_hankyeong
+451 = { # hankyeong 한경
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+404 = { # gosan 고산
+	holding = none
+}
+452 = { # daejeong 대정
+	holding = none
+}
+###c_j_andeok
+456 = { # andeok 안덕
+	culture = jeju
+
+	religion = jeju_pagan
+
+	holding = castle_holding
+}
+406 = { # jungmun 중문
+	holding = none
+}
+455 = { # geumak 금악
+	holding = none
+}
+##d_chuja
+###c_chuja
+3813 = { # chuja 추자
+	culture = sinan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}

@@ -1,0 +1,311 @@
+#k_muan
+##d_yeonggwang
+###c_hongnong
+127 = { # hongnong 홍농
+	culture = muan
+
+	religion = won_buddhism
+
+	holding = castle_holding
+}
+590 = { # baeksu 백수
+	holding = none
+}
+594 = { # beopseong 법성
+	holding = none
+}
+###c_yeomsan
+586 = { # yeomsan 염산
+	culture = muan
+
+	religion = won_buddhism
+
+	holding = castle_holding
+}
+587 = { # gunnam 군남
+	holding = none
+}
+588 = { # bulgap 불갑
+	holding = none
+}
+3816 = { # nakwol 낙월
+	holding = 
+}
+###c_yeonggwang
+589 = { # myoryang 묘량
+	holding = none
+}
+591 = { # gunseo 군서
+	holding = none
+}
+592 = { # daema 대마
+	holding = none
+}
+593 = { # yeonggwang 영광
+	culture = muan
+
+	religion = won_buddhism
+
+	holding = castle_holding
+}
+##d_naju
+###c_bitgaram
+131 = { # bitgaram 빛가람
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+560 = { # nampyeong 남평
+	holding = none
+}
+561 = { # sanpo 산포
+	holding = none
+}
+562 = { # geumcheon 금천
+	holding = none
+}
+###c_wanggok
+549 = { # donggang 동강
+	holding = none
+}
+550 = { # gongsan 공산
+	holding = none
+}
+551 = { # bannam 반남
+	holding = none
+}
+552 = { # wanggok 왕곡
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_naju
+553 = { # dasi 다시
+	holding = none
+}
+554 = { # munpyeong 문평
+	holding = none
+}
+555 = { # noan 노안
+	holding = none
+}
+2670 = { # naju 나주
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_bonghwang
+557 = { # seji 세지
+	holding = none
+}
+558 = { # bonghwang 봉황
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+559 = { # dado 다도
+	holding = none
+}
+##d_muan
+###c_muan
+133 = { # mangun 망운
+	holding = none
+}
+198 = { # unnam 운남
+	holding = none
+}
+469 = { # haeje 해제
+	holding = none
+}
+547 = { # muan 무안
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+548 = { # hyeongyeong 현경
+	holding = none
+}
+###c_illo
+543 = { # samhyang 삼향
+	holding = none
+}
+544 = { # illo 일로
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+545 = { # cheonggye 청계
+	holding = none
+}
+546 = { # mongtan 몽탄
+	holding = none
+}
+###c_hakgyo
+577 = { # eomda 엄다
+	holding = none
+}
+578 = { # hakgyo 학교
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_hampyeong
+579 = { # hampyeong 함평
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+580 = { # daedong 대동
+	holding = none
+}
+584 = { # singwang 신광
+	holding = none
+}
+585 = { # sonbul 손불
+	holding = none
+}
+###c_wolya
+581 = { # nasan 나산
+	holding = none
+}
+582 = { # wolya 월야
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+583 = { # haebo 해보
+	holding = none
+}
+##d_yeongam
+###c_sijong
+134 = { # sijong 시종
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+508 = { # sinbuk 신북
+	holding = none
+}
+509 = { # dopo 도포
+	holding = none
+}
+###c_samho
+500 = { # samho 삼호
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+501 = { # miam 미암
+	holding = none
+}
+502 = { # haksan 학산
+	holding = none
+}
+503 = { # seoho 서호
+	holding = none
+}
+###c_yeongam
+505 = { # yeongam 영암
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+506 = { # deokjin 덕진
+	holding = none
+}
+507 = { # geumjeong 금정
+	holding = none
+}
+2668 = { # gunseo 군서
+	holding = none
+}
+##d_haenam
+###c_songji
+135 = { # songji 송지
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+485 = { # hwasan 화산
+	holding = none
+}
+488 = { # hyeonsan 현산
+	holding = none
+}
+489 = { # yeongjeon 영전
+	holding = none
+}
+###c_hwangsan
+476 = { # hwawon 화원
+	holding = none
+}
+477 = { # munnae 문내
+	holding = none
+}
+478 = { # hwangsan 황산
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_haenam
+479 = { # sani 산이
+	holding = none
+}
+480 = { # masan 마산
+	holding = none
+}
+481 = { # gyegok 계곡
+	holding = none
+}
+482 = { # okcheon 옥천
+	holding = none
+}
+483 = { # haenam 해남
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+###c_j_samsan
+484 = { # samsan 삼산
+	culture = muan
+
+	religion = presbyterianism
+
+	holding = castle_holding
+}
+486 = { # bukil 북일
+	holding = none
+}
+487 = { # bukpyeong 북평
+	holding = none
+}
