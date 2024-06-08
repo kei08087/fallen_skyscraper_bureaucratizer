@@ -21,7 +21,7 @@ public class toText {
                 if (target.createNewFile()) {
                     System.out.println(inst.name + ".txt has been created");
                 } else {
-                    System.out.println(inst.name + ".txt is already exists.");
+                    System.out.println(inst.name + ".txt already exists.");
                 }
 
                 FileWriter writer = new FileWriter(target,false);
@@ -63,9 +63,11 @@ public class toText {
             writer.write(startTab + cur.name + " = {\n");
             writer.write(tab+"color = { "+cur.color+" }\n\n");
             if(cur.tier!='c')
-                writer.write(tab+"capital = \n\n");
+                writer.write(tab+"capital = "+cur.capital+"\n\n");
 
         }
+        if(!cur.titleOthers.isEmpty())
+            writer.write(cur.titleOthers);
 
 
 

@@ -86,7 +86,7 @@ public class Localization {
                 if(!line[6].isEmpty()&&counties.add(line[6]))
                 {
                     tKR.write(" "+line[6]+":0 \""+line[5]+"\"\n");
-                    tEN.write(" "+line[6]+":0 \""+line[6].substring(2).toUpperCase()+"\"\n");
+                    tEN.write(" "+line[6]+":0 \""+line[6].substring(2).replace("_"," ").toUpperCase()+"\"\n");
                 }
 
                 bKR.write(" "+line[1]+":0 \""+line[2]+"\"\n");

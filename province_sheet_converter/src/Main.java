@@ -31,7 +31,7 @@ public class Main {
         while(!exit)
         {
             System.out.println("select the task");
-            System.out.println("1. landed_title\t2. history\t3. localization\t0. exit");
+            System.out.println("1. landed_title\t2. history\t3. localization\t4. adjust\t0. exit");
             option = sc.nextInt();
             switch (option)
             {
@@ -47,6 +47,14 @@ public class Main {
                 }
                 case 3:
                     Localization.Local(LineChuncks);
+                    break;
+                case 4:
+                    TreeNode root = Noder.TreeNoder(LineChuncks);
+                    rawCodeReader.codeReader(root);
+                    Noder.TreeUpdater(root,LineChuncks);
+                    toText.toLandedTitles(root);
+                    History.toHistory(root);
+                    CSVWriter.toCSV(root);
                     break;
                 case 0:
                     System.out.println("exiting");

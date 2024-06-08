@@ -17,7 +17,7 @@ public class History {
                 if (target.createNewFile()) {
                     System.out.println(inst.name + ".txt has been created");
                 } else {
-                    System.out.println(inst.name + ".txt is already exists.");
+                    System.out.println(inst.name + ".txt already exists.");
                 }
 
                 FileWriter writer = new FileWriter(target,false);
@@ -44,6 +44,7 @@ public class History {
             if(!cur.religion.isEmpty())
                 writer.write("\treligion = "+cur.religion+"\n\n");
             writer.write("\tholding = "+cur.holding+"\n");
+            writer.write(cur.provinceOthers);
             writer.write("}\n");
         }
         else
