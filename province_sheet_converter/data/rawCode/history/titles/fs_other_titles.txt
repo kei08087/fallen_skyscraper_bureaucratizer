@@ -1,0 +1,32 @@
+﻿e_hec = { #신성복음연합
+	2317.1.1 = {
+		holder = 4015
+		succession_laws = {
+			princely_elective_succession_law
+			male_only_law
+		}
+	}
+	2325.1.1 = {
+		holder = 4003
+	}
+	2351.1.1 = {
+		holder = 4005
+	}
+	2380.1.1 = {
+		holder = 4025
+	}
+	2414.1.1 = {
+		holder = 4009
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_administrative
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,448 @@
+﻿k_jianzhou = {
+	2412.5.17 = {
+		holder = 9502
+		change_development_level = 1
+		#government = manchu_tribal_government
+	}
+	2435.10.22 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9411
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_tribal
+				}
+			}
+		}
+	}
+}
+c_zingwi = {
+	2412.5.17 = {
+		holder = 9502
+	}
+	2425.12.9 = {
+		holder = 9481
+	}
+	2427.10.22 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9411
+	}
+}
+c_zangwian = {
+	2412.5.17 = {
+		holder = 9502
+	}
+	2425.12.9 = {
+		holder = 9481
+	}
+	2427.10.22 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9411
+	}
+}
+c_chisong = {
+	2411.12.9 = {
+		holder = 9481
+	}
+    2435.10.22 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9411
+	}
+}
+d_linzhang = {
+	2372.5.6 = {
+		holder = 9433
+	}
+    2398.7.6 = {
+		holder = 9432
+	}
+	2431.9.20 = {
+		holder = 9431
+		liege = k_jianzhou
+	}
+}
+c_xidaogou = {
+	2372.5.6 = {
+		holder = 9433
+	}
+	2398.7.6 = {
+		holder = 9432
+	}
+	2431.9.20 = {
+		holder = 9431
+		liege = k_jianzhou
+	}
+}
+c_changbai = {
+	2372.5.6 = {
+		holder = 9433
+	}
+	2398.7.6 = {
+		holder = 9432
+	}
+	2431.9.20 = {
+		holder = 9431
+		liege = k_jianzhou
+	}
+}
+c_badaogou = {
+	2372.5.6 = {
+		holder = 9433
+	}
+	2398.7.6 = {
+		holder = 9431
+		liege = k_jianzhou
+	}
+}
+d_pussung = {
+	2395.2.6 = {
+		holder = 9441
+		liege = k_jianzhou
+	}
+}
+c_tonggang = {
+	2395.2.6 = {
+		holder = 9441
+		liege = k_jianzhou
+	}
+}
+c_pussung = {
+	2395.2.6 = {
+		holder = 9441
+	}
+	2421.4.5 = {
+		holder = 9442
+		liege = d_pussung
+	}
+}
+c_singtunji = {
+	2395.2.6 = {
+		holder = 9441
+	}
+	2421.4.5 = {
+		holder = 9442
+		liege = d_pussung
+	}
+}
+c_beigang = {
+	2395.2.6 = {
+		holder = 9441
+	}
+	2421.4.5 = {
+		holder = 9442
+		liege = d_pussung
+	}
+}
+#랴오위안
+d_liaoyuan = {
+	2396.5.4 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9451
+	}
+}
+d_tieling = {
+	2396.5.4 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9451
+	}
+}
+c_liaoyuan = {
+	2396.5.4 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9451
+	}
+}
+c_dongliao = {
+	2396.5.4 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9451
+	}
+}
+c_baichuan = {
+	2396.5.4 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9451
+	}
+}
+c_yangmulin = {
+	2428.12.2 = {
+		holder = 9461
+		liege = d_liaoyuan
+	}
+}
+c_xiaoyang = {
+	2428.12.2 = {
+		holder = 9461
+		liege = d_liaoyuan
+	}
+}
+c_natanbo = {
+	2434.4.30 = {
+		holder = 9471
+		liege = d_liaoyuan
+	}
+}
+c_niuxingding = {
+	2434.4.30 = {
+		holder = 9471
+		liege = d_liaoyuan
+	}
+}
+c_tieling = {
+	2436.3.1 = {
+		holder = 9491
+		liege = d_liaoyuan
+	}
+}
+c_feidi = {
+	2436.3.1 = {
+		holder = 9491
+		liege = d_liaoyuan
+	}
+}
+
+c_kaiyuan = {
+	2436.3.1 = {
+		holder = 9492
+		liege = d_liaoyuan
+	}
+}
+c_xiaobao = {
+	2436.3.1 = {
+		holder = 9492
+		liege = d_liaoyuan
+	}
+}
+c_aji = {
+	2436.3.1 = {
+		holder = 9492
+		liege = d_liaoyuan
+	}
+}
+#??
+d_baishan = {
+	2412.5.17 = {
+		holder = 9502
+	}
+	2425.12.9 = {
+		holder = 0
+	}
+	2435.10.22 = {
+		holder = 9401
+	}
+	2437.2.12 = {
+		holder = 9411
+	}
+}
+c_baekshan = {
+	2412.5.17 = {
+		holder = 9502
+	}
+	2425.12.9 = {
+		holder = 9501
+		liege = e_yalu
+	}
+}
+c_linzhang = {
+	2412.5.17 = {
+		holder = 9502
+	}
+	2425.12.9 = {
+		holder = 9501
+		liege = e_yalu
+	}
+}
+c_guanghua = {
+	2422.2.7 = {
+		holder = 9512
+	}
+	2439.9.10 = {
+		holder = 9511
+		liege = e_yalu
+	}
+}
+d_tunghua = {
+	2395.12.12 = {
+		holder = 9522
+	}
+	2428.12.6 = {
+		holder = 9521
+		liege = e_yalu
+	}
+}
+c_tunghua = {
+	2395.12.12 = {
+		holder = 9522
+	}
+	2428.12.6 = {
+		holder = 9521
+		liege = e_yalu
+	}
+}
+c_kuaidamao = {
+	2395.12.12 = {
+		holder = 9522
+	}
+	2428.12.6 = {
+		holder = 9521
+		liege = e_yalu
+	}
+}
+c_erdaojang = {
+	2402.12.4 = {
+		holder = 9527
+		liege = d_tunghua
+	}
+}
+c_donglai = {
+	2402.12.4 = {
+		holder = 9527
+		liege = d_tunghua
+	}
+}
+c_huanren = {
+	2438.9.14 = {
+		holder = 9532
+		liege = e_yalu
+	}
+}
+c_shajianzi = {
+	2438.9.14 = {
+		holder = 9532
+		liege = e_yalu
+	}
+}
+c_gucheng = {
+	2438.9.14 = {
+		holder = 9532
+		liege = e_yalu
+	}
+}
+d_jian = {
+	2398.2.25 = {
+		holder = 9538
+	}
+	2410.2.6 = {
+		holder = 9537
+	}
+	2437.5.4 = {
+		holder = 9536
+		liege = e_yalu
+	}
+}
+c_huashun = {
+	2398.2.25 = {
+		holder = 9538
+	}
+	2410.2.6 = {
+		holder = 9537
+	}
+	2437.5.4 = {
+		holder = 9536
+		liege = e_yalu
+	}
+}
+c_liangshuei = {
+	2398.2.25 = {
+		holder = 9538
+	}
+	2410.2.6 = {
+		holder = 9537
+	}
+	2437.5.4 = {
+		holder = 9536
+		liege = e_yalu
+	}
+}
+c_jian = {
+	2398.2.25 = {
+		holder = 9538
+	}
+	2410.2.6 = {
+		holder = 9537
+	}
+	2437.5.4 = {
+		holder = 9536
+		liege = e_yalu
+	}
+}
+
+d_xinbin = {
+	2397.5.9 = {
+		holder = 9541
+	}
+	2425.12.9 = {
+		holder = 9546
+		liege = e_yalu
+		change_development_level = 2
+	}
+}
+c_sinbin = {
+	2397.5.9 = {
+		holder = 9541
+	}
+	2425.12.9 = {
+		holder = 9546
+		liege = e_yalu
+		change_development_level = 7
+	}
+}
+c_wangqingmen = {
+	2397.5.9 = {
+		holder = 9541
+	}
+	2425.12.9 = {
+		holder = 9546
+		liege = e_yalu
+	}
+}
+
+c_sankeyusu = {
+	2397.5.9 = {
+		holder = 9541
+	}
+	2425.12.9 = {
+	    holder = 9546
+		liege = e_yalu
+	}
+}
+c_muqi = {
+	2397.5.9 = {
+	    holder = 9541
+	}
+    2425.12.9 = {
+	    holder = 9551
+		liege = e_yalu
+	}
+}
+c_dasiping = {
+	2397.5.9 = {
+	    holder = 9541
+	}
+    2425.12.9 = {
+	    holder = 9551
+		liege = e_yalu
+	}
+}

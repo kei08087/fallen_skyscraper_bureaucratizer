@@ -2,8 +2,10 @@ package subCode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.LinkedList;
 
-public class TreeNode {
+public class TreeNode extends Node {
     public TreeNode parent=null;
     public String name;
     public ArrayList<TreeNode> childs = new ArrayList<>();
@@ -23,9 +25,11 @@ public class TreeNode {
 
     public String landscape="";
 
-    public String titleOthers="";
+    public LinkedList<String> titleOthers = new LinkedList<>();
 
-    public String provinceOthers="";
+    public LinkedList<String> provinceOthers = new LinkedList<>();
+
+    public AttributeNode titleHistory;
 
     public String capital="";
 
@@ -33,32 +37,24 @@ public class TreeNode {
 
     public TreeNode(String name, String color, char tier)
     {
+        AttributeNode attribute = new AttributeNode("root",true);
         this.name = name;
         this.color = color;
         this.tier = tier;
+        this.titleHistory=attribute;
         parent = null;
     }
 
     public TreeNode(String name, String color, char tier, String eng, String kr)
     {
+        AttributeNode attribute = new AttributeNode("root",true);
         this.name = name;
         this.color = color;
         this.tier = tier;
         this.eng = eng;
         this.kr = kr;
+        this.titleHistory=attribute;
         parent = null;
-    }
-
-    public static void addProvinceInfo(TreeNode node, String culture, String religion, String holding)
-    {
-        node.culture = culture;
-        node.religion = religion;
-        node.holding = holding;
-    }
-
-    public static void setParent(TreeNode parent, TreeNode child)
-    {
-        child.parent = parent;
     }
 
     public static void updateInfo(TreeNode node, String data, String option){
@@ -121,9 +117,7 @@ public class TreeNode {
                     break;
 
                 case "titleOthers":
-                    if (node.titleOthers.isEmpty() || !node.titleOthers.equals(data)) {
-                        node.titleOthers = node.titleOthers + data + "\n";
-                    }
+                    node.titleOthers.add(data);
                     break;
 
                 case "holder":
@@ -133,10 +127,9 @@ public class TreeNode {
                     break;
 
                 case "provinceOthers":
-                    if (node.provinceOthers.isEmpty() || !node.provinceOthers.equals(data)) {
-                        node.provinceOthers = node.provinceOthers + data + "\n";
-                    }
+                    node.provinceOthers.add(data);
                     break;
+
 
                 default:
                     // Optional: Handle unexpected values of data[1]
@@ -146,3 +139,4 @@ public class TreeNode {
         }
     }
 }
+

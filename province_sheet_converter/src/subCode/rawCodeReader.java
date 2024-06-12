@@ -6,6 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.HashMap;
+import java.util.LinkedList;
 
 public class rawCodeReader {
     public static void codeReader(TreeNode node)
@@ -18,6 +20,10 @@ public class rawCodeReader {
         readTitle(node,path1);
         System.out.println("reading history province");
         readHistoryProvince(node,path2);
+        System.out.println("reading landscape");
+        readLandscape(node);
+        System.out.println("reading history title");
+        readHistoryTitle(node,path3);
 
     }
 
@@ -366,6 +372,190 @@ public class rawCodeReader {
 
     public static void readHistoryTitle(TreeNode node, String path)
     {
+        File folder = new File(path);
+        if(folder.exists()&&folder.isDirectory()) {
+            File[] files = folder.listFiles();
+            if (files != null) {
+                for (File file : files) {
+                    if (file.isFile()) {
+                        System.out.println("Reading file: " + file.getName());
+                        try {
+                            Path paths = Paths.get(file.getAbsolutePath());
+                            BufferedReader br = new BufferedReader(new FileReader(paths.toString()));
+                            String line;
+                            Node inst = node;
+                            int stack = 0;
+                            while ((line = br.readLine()) != null) {
+                                line = line.replace("" + (char) 65279, "").strip();
 
+                                if (line.isEmpty())
+                                    continue;
+                                if(line.charAt(0)=='#')
+                                    continue;
+                                if(line.contains("="))
+                                {
+                                    String[] content = line.split("=");
+                                    String definer = content[0].strip();
+
+                                    if(stack==0)
+                                    {
+                                        inst = searchDown(node,definer).titleHistory;
+                                        if(inst != null)
+                                            AttributeNode.AttributeValueUpdate((AttributeNode)inst,definer);
+                                        stack++;
+                                    }
+                                    else if(content[1].contains("{"))
+                                    {
+                                        stack++;
+                                        switch (definer) {
+                                            case "holder": case "effect": case "if": case "limit":case "succession_laws": {
+                                                AttributeNode attr = new AttributeNode(definer, true);
+                                                if (inst instanceof AttributeNode) {
+                                                    attr.parent = (AttributeNode) inst;
+                                                    ((AttributeNode)inst).childs.add(attr);
+                                                    inst = attr;
+                                                } else {
+                                                    System.out.println("Node cast error");
+                                                    System.exit(2);
+                                                }
+                                                break;
+                                            }
+                                            default:
+                                            {
+                                                AttributeNode attr = new AttributeNode("Date", true);
+                                                AttributeNode.AttributeValueUpdate(attr,definer);
+                                                if (inst instanceof AttributeNode) {
+                                                    attr.parent = (AttributeNode) inst;
+                                                    ((AttributeNode)inst).childs.add(attr);
+                                                    inst = attr;
+                                                } else {
+                                                    System.out.println("Node cast error");
+                                                    System.exit(2);
+                                                }
+                                                break;
+                                            }
+                                        }
+
+                                    }
+                                    else
+                                    {
+                                        AttributeNode attr = new AttributeNode(definer,false);
+                                        AttributeNode.AttributeValueUpdate(attr,content[1].strip());
+                                        if(inst instanceof AttributeNode) {
+                                            attr.parent = (AttributeNode) inst;
+                                            ((AttributeNode)inst).childs.add(attr);
+                                        }
+                                        else
+                                        {
+                                            System.out.println("Node cast error");
+                                            System.exit(2);
+                                        }
+                                    }
+                                }
+                                else if(!line.contains("}"))
+                                {
+                                    AttributeNode attr = new AttributeNode("law",false);
+                                    AttributeNode.AttributeValueUpdate(attr,line.strip());
+                                    assert inst instanceof AttributeNode;
+                                    attr.parent=(AttributeNode) inst;
+                                    ((AttributeNode)inst).childs.add(attr);
+
+                                }
+                                if(line.contains("}"))
+                                {
+                                    stack--;
+                                    if(((AttributeNode)inst).parent!=null) {
+                                        inst = ((AttributeNode)inst).parent;
+                                    }
+                                }
+                            }
+                        }
+                        catch (IOException e)
+                        {
+                            e.printStackTrace();
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    public static void readLandscape(TreeNode node)
+    {
+        String dir = "data/landscape/00_province_terrain.txt";
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(dir));
+            String line;
+            HashMap<Integer, LinkedList<String>> map = BasicTSVWriter.toSheet(node);
+            while ((line = br.readLine()) != null) {
+                line=line.replace(""+(char)65279,"");
+                TreeNode cur = node;
+                if (line.contains("=")) {
+                    String[] content = line.split("=");
+                    switch (content[0]) {
+                        case "default_land": case "default_sea": case "default_coastal_sea":
+                            break;
+                        default: {
+                            int key = Integer.parseInt(content[0].strip());
+                            if (!map.get(key).get(17).isEmpty()) {
+                                for (TreeNode child : cur.childs) {
+                                    if (child.name.equals(map.get(key).get(17))) {
+                                        cur = child;
+                                        break;
+                                    }
+                                }
+                            }
+                            for (TreeNode child : cur.childs) {
+                                if (child.name.equals(map.get(key).get(13))) {
+                                    cur = child;
+                                    break;
+                                }
+                            }
+                            for (TreeNode child : cur.childs) {
+                                if (child.name.equals(map.get(key).get(9))) {
+                                    cur = child;
+                                    break;
+                                }
+                            }
+                            for (TreeNode child : cur.childs) {
+                                if (child.name.equals(map.get(key).get(6))) {
+                                    cur = child;
+                                    break;
+                                }
+                            }
+                            for (TreeNode child : cur.childs) {
+                                if (child.name.equals(map.get(key).get(1))) {
+                                    cur = child;
+                                    TreeNode.updateInfo(cur, content[1], "landscape");
+                                    break;
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+            br.close();
+        }
+        catch(IOException e)
+        {
+            System.out.println("Error on reading landscape");
+        }
+    }
+
+    public static TreeNode searchDown(TreeNode node,String target)
+    {
+        TreeNode result = null;
+        if(node.name.equals(target))
+        {
+            return node;
+        }
+        for(TreeNode child : node.childs)
+        {
+            result = searchDown(child,target);
+            if(result!=null)
+                break;
+        }
+        return result;
     }
 }

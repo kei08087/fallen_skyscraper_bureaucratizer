@@ -1,0 +1,157 @@
+﻿k_jinju = {
+    2375.01.01 = {
+        holder = 3414
+    }
+    2384.10.8 = {
+        holder = 3415
+    }
+    2437.9.15 = {
+        holder = 3416
+    }
+	effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_diplomatic
+				}
+			}
+		}
+}
+
+d_jinju = {
+    2370.01.01 = {
+        holder = 3414
+    }
+    2384.10.8 = {
+        holder = 3415
+    }
+    2437.9.15 = {
+        holder = 3416
+    }
+}
+
+c_jinju = {
+    2370.01.01 = {
+        holder = 3414
+    }
+    2384.10.8 = {
+        holder = 3415
+    }
+    2437.9.15 = {
+        holder = 3416
+    }
+}
+
+c_goja = {
+    2400.01.01 = {
+        holder = 3419
+        liege = e_sinan
+    }
+    2413.9.2 = {
+        holder = 3420
+		liege = k_jinju
+    }
+}
+
+c_jinseong = {
+    2387.1.5 = {
+        holder = 3419
+        liege = e_sinan
+    }
+    2413.9.2 = {
+        holder = 3420
+		liege = k_jinju
+    }
+}
+
+c_jiphyeon = {
+    2399.1.1 = {
+        holder = 3424
+        liege = k_jinju
+    }
+    2425.6.17 = {
+        holder = 3425
+    }
+}
+
+c_daepyeong = {
+    2376.9.8 = {
+        holder = 3426
+        liege = k_jinju
+    }
+    2419.3.9 = {
+        holder = 3427
+    }
+}
+d_sacheon = {
+    2391.1.28 = {
+        holder = 3428
+		liege = e_sinan
+    }
+    2413.9.2 = {
+        holder = 3429
+		liege = k_jinju
+    }
+}
+
+c_sacheon = {
+    2391.1.28 = {
+        holder = 3428
+		liege = e_sinan
+    }
+    2413.9.2 = {
+        holder = 3429
+		liege = k_jinju
+    }
+}
+
+c_samcheonpo = {
+    2399.6.1 = {
+        holder = 3430
+        liege = d_sacheon
+    }
+    2441.4.12 = {
+        holder = 3431
+    }
+}
+
+c_goseong = {
+    2400.01.01 = {
+        holder = 3428
+    }
+    2442.06.05 = {
+        holder = 3402
+    }
+    2443.9.15 = {
+        holder = 3403
+    }
+}
+
+c_gonyang = {
+    2400.01.01 = {
+        holder = 3428
+    }
+    2442.06.05 = {
+        holder = 3402
+    }
+    2443.9.15 = {
+        holder = 3406
+        liege = d_namhae
+    }
+}
+
+c_samsan = {
+    2400.01.01 = {
+        holder = 3428
+    }
+    2442.06.05 = {
+        holder = 3402
+        liege = 0
+    }
+    2443.9.15 = {
+        holder = 3403
+    }
+}

@@ -13,20 +13,31 @@ public class Noder {
             String korean_name = line[2];
             String english_name = line[3];
             String province_color = line[4];
+            String countyName = line[5];
             String county = line[6];
             String countyColor = line[7];
+            String duchyName = line[8];
             String duchy = line[9];
             String duchyColor = line[10];
+            String duchyCapital = line[11];
+            String kingdomName = line[12];
             String kingdom = line[13];
             String kingdomColor = line[14];
+            String kingdomCapital = line[15];
+            String empireName = line[16];
             String empire = line[17];
             String empireColor = line[18];
+            String empireCapital = line[19];
+            String culture = line[20];
+            String religion = line[21];
+            String holding = line[22];
+            String landscape = line[23];
             boolean found;
 
             TreeNode province = new TreeNode(province_id,province_color, 'b',english_name, korean_name);
-            TreeNode.updateInfo(province,line[20],"culture");
-            TreeNode.updateInfo(province,line[21],"religion");
-            TreeNode.updateInfo(province,line[22],"holding");
+            TreeNode.updateInfo(province,culture,"culture");
+            TreeNode.updateInfo(province,religion,"religion");
+            TreeNode.updateInfo(province,holding,"holding");
 
             if(!empire.isEmpty())
             {
@@ -43,6 +54,8 @@ public class Noder {
                 if(!found)
                 {
                     TreeNode insert = new TreeNode(empire,empireColor,'e');
+                    TreeNode.updateInfo(insert,empireCapital,"capital");
+                    TreeNode.updateInfo(insert,empireName,"kr");
                     insert.parent = cur;
                     cur.childs.add(insert);
                     cur = insert;
@@ -62,6 +75,8 @@ public class Noder {
             if(!found)
             {
                 TreeNode insert = new TreeNode(kingdom,kingdomColor,'k');
+                TreeNode.updateInfo(insert,kingdomCapital,"capital");
+                TreeNode.updateInfo(insert,kingdomName,"kr");
                 insert.parent = cur;
                 cur.childs.add(insert);
                 cur = insert;
@@ -78,6 +93,8 @@ public class Noder {
                 }
                 if (!found) {
                     TreeNode insert = new TreeNode(duchy, duchyColor, 'd');
+                    TreeNode.updateInfo(insert,duchyCapital,"capital");
+                    TreeNode.updateInfo(insert,duchyName,"kr");
                     insert.parent = cur;
                     cur.childs.add(insert);
                     cur = insert;
@@ -95,6 +112,7 @@ public class Noder {
                 }
                 if (!found) {
                     TreeNode insert = new TreeNode(county, countyColor, 'c');
+                    TreeNode.updateInfo(insert,countyName,"kr");
                     insert.parent = cur;
                     cur.childs.add(insert);
                     cur = insert;
@@ -155,18 +173,24 @@ public class Noder {
                         case 'c':{
                             if(province.kr.isEmpty())
                                 TreeNode.updateInfo(province,countyName,"kr");
+                            break;
                         }
                         case 'd':{
-                            if(province.kr.isEmpty())
-                                TreeNode.updateInfo(province,duchyName,"kr");
+                            if(province.kr.isEmpty()) {
+                                //System.out.println("in case: "+province.name+"\tupdate: "+duchyName);
+                                TreeNode.updateInfo(province, duchyName, "kr");
+                            }
+                            break;
                         }
                         case 'k':{
                             if(province.kr.isEmpty())
                                 TreeNode.updateInfo(province,kingdomName,"kr");
+                            break;
                         }
                         case 'e':{
                             if(province.kr.isEmpty())
                                 TreeNode.updateInfo(province,empireName,"kr");
+                            break;
                         }
                     }
                     province = province.parent;
@@ -189,8 +213,6 @@ public class Noder {
 
         for(TreeNode child : node.childs)
         {
-            if(node.name.equals("k_seoul"))
-                System.out.println(child.name);
             if(child.name.equals(target))
             {
                 return child;

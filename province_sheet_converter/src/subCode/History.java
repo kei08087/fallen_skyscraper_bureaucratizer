@@ -40,11 +40,14 @@ public class History {
         if(cur.tier=='b') {
             writer.write(cur.name.substring(2) + " = { # " + cur.eng + " " + cur.kr + "\n");
             if(!cur.culture.isEmpty())
-                writer.write("\tculture = "+cur.culture+"\n\n");
+                writer.write("\tculture = "+cur.culture+"\n");
             if(!cur.religion.isEmpty())
-                writer.write("\treligion = "+cur.religion+"\n\n");
+                writer.write("\treligion = "+cur.religion+"\n");
             writer.write("\tholding = "+cur.holding+"\n");
-            writer.write(cur.provinceOthers);
+            for(String inst : cur.provinceOthers) {
+                writer.write(inst);
+                writer.write("\n");
+            }
             writer.write("}\n");
         }
         else

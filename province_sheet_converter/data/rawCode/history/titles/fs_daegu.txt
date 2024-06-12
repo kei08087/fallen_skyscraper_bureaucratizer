@@ -1,0 +1,129 @@
+﻿
+d_daegu = {
+	2100.1.1 = {
+		change_development_level = 10
+		government = slavery_government
+	}
+	2411.4.18 = {
+		holder = 3501
+	}
+}
+c_daegu = {
+	2100.1.1 = {
+		change_development_level = 19
+	}
+	2411.4.18 = {
+		holder = 3501
+	}
+}
+c_suseong = {
+	2100.1.1 = {
+		change_development_level = 16
+	}
+	2411.4.18 = {
+		holder = 3501
+	}
+}
+c_dasa = {
+	2100.1.1 = {
+		change_development_level = 13
+	}
+	2411.12.6 = {
+		holder = 3501
+	}
+}
+c_okpo = {
+	2100.1.1 = {
+		change_development_level = 11
+	}
+	2411.4.18 = {
+		holder = 3501
+		liege = d_daegu
+	}
+}
+c_hyeonpung = {
+	2411.4.8 = {
+		holder = 3501
+		liege = d_daegu
+	}
+}
+d_seongju = {
+	2420.9.17 = {
+		holder = 3526
+		liege = k_new_america
+		change_development_level = 6
+		government = slavery_government
+	}
+}
+c_seongju = {
+	2420.9.17 = {
+		holder = 3526
+		liege = d_seongju
+	}
+}
+c_byeokjin = {
+	2420.9.17 = {
+		holder = 3526
+		liege = d_seongju
+	}
+}
+c_goryeong = {
+	2420.2.18 = {
+		holder = 3526
+		liege = d_seongju
+	}
+}
+c_seongsan = {
+	2420.2.18 = {
+		holder = 3526
+		liege = d_seongju
+	}
+}
+
+d_chilgok = {
+	2430.04.04 = {
+		holder = 3531
+		liege = k_new_america
+		government = slavery_government
+	}
+}
+
+c_chilgok = {
+	2100.1.1 = {
+		change_development_level = 12
+	}
+	2430.04.04 = {
+		holder = 3531
+		liege = d_chilgok
+	}
+}
+
+c_waegwan = {
+	2100.1.1 = {
+		change_development_level = 13
+	}
+	2431.01.01 = {
+		holder = 3531
+		liege = d_chilgok
+	}
+}
+
+c_gumi = {
+	2100.1.1 = {
+		change_development_level = 14
+	}
+	2430.04.04 = {
+		holder = 3531
+		liege = d_chilgok
+	}
+}
+
+c_indong = {
+	2100.1.1 = {
+		change_development_level = 12
+	}
+	2431.01.01 = {
+		holder = 3531
+		liege = d_chilgok
+	}
+}

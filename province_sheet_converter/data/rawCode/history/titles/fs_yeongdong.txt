@@ -1,0 +1,464 @@
+﻿k_yeongseo = {
+	2397.12.6 = {
+		holder = 1053
+	}
+	2410.1.14 = {
+		holder = 1056
+	}
+	2410.12.9 = {
+		holder = 0
+	}
+}
+
+
+
+c_hoengseong = {
+	2350.1.1 = {
+		holder = 1051
+		change_development_level = 3
+	}
+	2392.10.7 = {
+		holder = 1053
+	}
+	2410.1.14 = {
+		holder = 1061
+	}
+	2431.1.14 = {
+		holder = 1062
+	}
+}
+c_hongcheon = {
+	2350.1.1 = {
+		holder = 1051
+		change_development_level = 2
+	}
+	2392.10.7 = {
+		holder = 1053
+	}
+	2410.1.14 = {
+		holder = 1061
+	}
+	2431.1.14 = {
+		holder = 1062
+	}
+}
+d_wonju = {
+	2392.10.7 = {
+		holder = 1053
+	}
+	2410.1.14 = {
+		holder = 1056
+	}
+	2410.12.9 = {
+		holder = 1076
+	}
+}
+c_wonju = {
+	2392.10.7 = {
+		holder = 1053
+		change_development_level = 6
+	}
+	2410.1.14 = {
+		holder = 1056
+	}
+	2410.12.9 = {
+		holder = 1076
+		change_development_level = 9
+	}
+}
+c_munmak = {
+	2497.12.9 = {
+		holder = 1076
+		change_development_level = 3
+	}
+}
+c_heungeop = {
+	2497.12.9 = {
+		holder = 1076
+		change_development_level = 2
+	}
+}
+c_dunnae = {
+	
+	2392.10.7 = {
+		holder = 1053
+		change_development_level = 2
+	}
+	2410.1.14 = {
+		holder = 1056
+	}
+	2410.12.9 = {
+		holder = 1076
+		change_development_level = 3
+	}
+}
+d_yeongwol = {
+	2392.7.17 = {
+		holder = 1082
+		change_development_level = 2
+	}
+	2399.1.1 = {
+		liege = k_yeongseo
+	}
+	2401.2.8 = {
+		holder = 1081
+	}
+}
+c_yeongwol = {
+	2392.7.17 = {
+		holder = 1082
+		change_development_level = 2
+	}
+	2401.2.8 = {
+		holder = 1081
+		change_development_level = 4
+	}
+}
+c_gimsatgat = {
+	2392.7.17 = {
+		holder = 1082
+		change_development_level = 2
+	}
+	2401.2.8 = {
+		holder = 1081
+		change_development_level = 1
+	}
+}
+c_hanbando = {
+	2392.7.17 = {
+		holder = 1082
+		change_development_level = 1
+	}
+	2401.2.8 = {
+		holder = 1081
+		change_development_level = 2
+	}
+}
+c_hwachon = {
+	2441.1.14 = {
+		holder = 1086
+		liege = k_yeongseo
+		change_development_level = 3
+	}
+}
+c_girin = {
+	2394.1.10 = {
+		holder = 1086
+		change_development_level = 2
+	}
+}
+d_pyeongchang = {
+	2394.1.5 = {
+		holder = 1091
+	}
+	2399.1.1 = {
+		liege = k_yeongseo
+	}
+}
+c_pyeongchang = {
+	2394.1.5 = {
+		holder = 1091
+		change_development_level = 4
+	}
+}
+c_jeongseon = {
+	2394.1.5 = {
+		holder = 1091
+		change_development_level = 2
+	}
+}
+c_sabuk = {
+	2394.1.5 = {
+		holder = 1091
+		change_development_level = 3
+	}
+}
+c_daegwanryeong = {
+	2394.1.5 = {
+		holder = 1091
+		change_development_level = 2
+	}
+	2440.3.24 = {
+		holder = 1092
+		liege = d_pyeongchang
+		change_development_level = 3
+	}
+}
+c_n.cheolwon = {
+	2375.1.12 = {
+		holder = 1097
+		change_development_level = 1
+	}
+	2432.4.14 = {
+		holder = 1096
+		change_development_level = 3
+	}
+}
+d_chuncheon = {
+	2332.4.26 = {
+		holder = 1041
+	}
+	2361.2.2 = {
+		holder = 1042
+	}
+	2373.2.10 = {
+		holder = 1043
+	}
+	2399.2.10 = {
+		liege = k_yeongseo
+	}
+	2419.1.5 = {
+		holder = 1044
+	}
+}
+c_chuncheon = {
+	2432.4.26 = {
+		holder = 1041
+		change_development_level = 8
+	}
+	2361.2.2 = {
+		holder = 1042
+	}
+	2373.2.10 = {
+		holder = 1043
+	}
+	2419.1.5 = {
+		holder = 1044
+	}
+}
+c_namsan = {
+	2432.4.26 = {
+		holder = 1041
+		change_development_level = 2
+	}
+	2361.2.2 = {
+		holder = 1042
+	}
+	2373.2.10 = {
+		holder = 1043
+	}
+	2419.1.5 = {
+		holder = 1044
+	}
+}
+c_sinbuk = {
+	2432.4.26 = {
+		holder = 1041
+		change_development_level = 3
+	}
+	2361.2.2 = {
+		holder = 1042
+	}
+	2373.2.10 = {
+		holder = 1043
+	}
+	2419.1.5 = {
+		holder = 1044
+	}
+}
+d_inje = {
+	2316.12.8 = {
+		holder = 1036
+	}
+	2351.1.2 = {
+		holder = 1037
+	}
+	2406.2.1 = {
+		holder = 1038
+	}
+	2438.1.14 = {
+		holder = 1039
+	}
+}
+c_inje = {
+	2316.12.8 = {
+		holder = 1036
+		change_development_level = 4
+	}
+	2351.1.2 = {
+		holder = 1037
+	}
+	2406.2.1 = {
+		holder = 1038
+	}
+	2438.1.14 = {
+		holder = 1039
+	}
+}
+c_e.yanggu = {
+	2316.12.8 = {
+		holder = 1036
+		change_development_level = 1
+	}
+	2351.1.2 = {
+		holder = 1037
+	}
+	2406.2.1 = {
+		holder = 1038
+	}
+	2438.1.14 = {
+		holder = 1039
+	}
+}
+c_sadong = {
+	2316.12.8 = {
+		holder = 1036
+		change_development_level = 2
+	}
+	2351.1.2 = {
+		holder = 1037
+	}
+	2406.2.1 = {
+		holder = 1038
+	}
+	2438.1.14 = {
+		holder = 1039
+	}
+}
+
+c_cheolwon = {
+	2269.12.6 = {
+		holder = 1001
+		change_development_level = 9
+	}
+	2276.5.26 = {
+		holder = 1002
+	}
+	2302.6.30 = {
+		holder = 1003
+	}
+	2337.9.1 = {
+		holder = 1004
+	}
+	2371.3.5 = {
+		holder = 1005
+	}
+	2412.12.14 = {
+		holder = 1006
+	}
+}
+c_gimhwa = {
+	2371.3.5 = {
+		holder = 1005
+		change_development_level = 2
+	}
+	2412.12.14 = {
+		holder = 1006
+	}
+}
+c_hwacheon = {
+	2371.3.5 = {
+		holder = 1005
+		change_development_level = 3
+	}
+	2412.12.14 = {
+		holder = 1006
+	}
+}
+c_yanggu = {
+	2387.1.4 = {
+		holder = 1015
+		liege = k_rok_armed_forces
+		change_development_level = 1
+	}
+	2443.11.19 = {
+		holder = 1016
+	}
+}
+c_wonnam = {
+	2398.10.30 = {
+		holder = 1018
+		liege = k_rok_armed_forces
+		change_development_level = 2
+	}
+	2428.10.30 = {
+		holder = 1017
+	}
+}
+c_changdo = {
+	2398.10.30 = {
+		holder = 1018
+		liege = k_rok_armed_forces
+		change_development_level = 3
+	}
+	2428.10.30 = {
+		holder = 1017
+	}
+}
+
+c_hoeyang = {
+	2389.12.3 = {
+		holder = 1025
+		change_development_level = 2
+	}
+	2437.12.6 = {
+		holder = 1026
+	}
+}
+c_pyeonggang = {
+	2389.12.3 = {
+		holder = 1025
+		change_development_level = 2
+	}
+	2437.12.6 = {
+		holder = 1026
+	}
+}
+c_hyeonnae = {
+	2389.12.3 = {
+		holder = 1025
+		change_development_level = 2
+	}
+	2437.12.6 = {
+		holder = 1026
+	}
+}
+c_icheon = {
+	2397.5.1 = {
+		holder = 1030
+		liege = k_peoples_army
+		change_development_level = 4
+	}
+	2443.9.10 = {
+		holder = 1029
+	}
+}
+c_hakbong = {
+	2298.12.7 = {
+		holder = 1031
+		liege = k_peoples_army
+		change_development_level = 3
+	}
+	2357.11.8 = {
+		holder = 1032
+		liege = k_peoples_army
+	}
+	2398.12.10 = {
+		holder = 1033
+		liege = k_peoples_army
+	}
+	2441.11.11 = {
+		holder = 1034
+		liege = k_peoples_army
+	}
+}
+c_bangjang = {
+	2298.12.7 = {
+		holder = 1031
+		liege = k_peoples_army
+		change_development_level = 2
+	}
+	2357.11.8 = {
+		holder = 1032
+		liege = k_peoples_army
+	}
+	2398.12.10 = {
+		holder = 1033
+		liege = k_peoples_army
+	}
+	2441.11.11 = {
+		holder = 1034
+		liege = k_peoples_army
+	}
+}
+

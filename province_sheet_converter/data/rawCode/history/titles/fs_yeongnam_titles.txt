@@ -1,0 +1,581 @@
+﻿#진해
+k_changwon = {
+	2376.5.1 = {
+		holder = 3052
+		government = military_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_warlike
+				}
+			}
+		}
+	}
+	2419.4.20 = {
+		holder = 3051
+	}
+
+}
+d_changwon = {
+	2419.4.20 = {
+		holder = 3051
+	}
+}
+c_changwon = {
+	2419.4.20 = {
+		holder = 3051
+	}
+}
+c_uichang = {
+	2419.4.20 = {
+		holder = 3051
+	}
+}
+c_jinhae = {
+	2419.4.20 = {
+		holder = 3051
+	}
+}
+
+c_hoewon = {
+	2386.1.2 = {
+		holder = 3083
+		liege = d_changwon
+	}
+	2403.6.15 = {
+		holder = 3082
+		liege = d_changwon
+	}
+	2436.5.5 = {
+		holder = 3081
+		liege = d_changwon
+	}
+}
+c_masan = {
+	2386.1.2 = {
+		holder = 3083
+		liege = d_changwon
+	}
+	2403.6.15 = {
+		holder = 3082
+		liege = d_changwon
+	}
+	2436.5.5 = {
+		holder = 3081
+		liege = d_changwon
+	}
+}
+
+
+d_geoje = {
+	2398.5.1 = {
+		holder = 3062
+		liege = k_changwon
+	}
+	2443.2.2 = {
+		holder = 3061
+		liege = k_changwon
+	}
+}
+
+c_geoje = {
+	2443.2.2 = {
+		holder = 3061
+	}
+}
+
+c_jangseungpo = {
+	2443.2.2 = {
+		holder = 3061
+	}
+}
+
+c_yeoncho = {
+	2443.2.2 = {
+		holder = 3061
+	}
+}
+
+
+d_tongyeong = {
+	2391.12.3 = {
+		holder = 3072
+		liege = k_changwon
+	}
+	2431.3.6 = {
+		holder = 3071
+		liege = k_changwon
+	}
+}
+
+c_tongyeong = {
+	2431.3.6 = {
+		holder = 3071
+	}
+}
+
+c_gwangdo = {
+	2431.3.6 = {
+		holder = 3071
+	}
+}
+
+
+
+#부산
+k_busan = {
+	2100.1.1 = {
+		change_development_level = 10
+	}
+	2441.2.10 = {
+		government = oligarchic_republic_government
+		succession_laws = {
+			feudal_elective_succession_law
+		}
+		holder = 3001
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_administrative
+				}
+			}
+		}
+	}
+}
+
+c_busan = {
+	2100.1.1 = {
+		change_development_level = 20
+	}
+	2389.5.3 = {
+		holder = 3006
+	}
+	2401.3.6 = {
+		holder = 3005
+	}
+	2436.4.20 = {
+		holder = 3001
+	}
+}
+
+c_westernbusan = {
+	2100.1.1 = {
+		change_development_level = 13
+	}
+	2389.5.3 = {
+		holder = 3006
+	}
+	2401.3.6 = {
+		holder = 3005
+	}
+	2436.4.20 = {
+		holder = 3001
+	}
+}
+c_dongrae = {
+	2100.1.1 = {
+		change_development_level = 18
+	}
+	2389.5.3 = {
+		holder = 3006
+	}
+	2401.3.6 = {
+		holder = 3005
+	}
+	2436.4.20 = {
+		holder = 3001
+	}
+}
+
+d_busan = {
+	2436.4.20 = {
+		government = republic_government
+		holder = 3002
+	}
+	2443.4.20 = {
+		liege = k_busan
+	}
+}
+c_easternbusan = {
+	2100.1.1 = {
+		change_development_level = 18
+	}
+	2374.5.11 = {
+		holder = 3002
+	}
+	2436.4.20 = {
+		holder = 3002
+	}
+}
+c_gijang = {
+	2100.1.1 = {
+		change_development_level = 8
+	}
+	2374.5.11 = {
+		holder = 3002
+	}
+	2436.4.20 = {
+		holder = 3002
+	}
+}
+d_gimhae = {
+	2379.5.1 = {
+		holder = 3013
+	}
+	2426.1.2 = {
+		holder = 3011
+	}
+	2443.1.1 = {
+		liege = k_busan
+	}
+}
+c_gimhae = {
+	2100.1.1 = {
+		change_development_level = 12
+	}
+	2419.5.6 = {
+		holder = 3011
+	}
+}
+c_daedong = {
+	2419.5.6 = {
+		holder = 3011
+	}
+}
+c_jinyeong = {
+	2419.5.6 = {
+		holder = 3011
+	}
+}
+#원자교
+c_uljin = {
+	2398.5.2 = {
+		holder = 3351
+	}
+}
+c_pyeonghae = {
+	2398.5.2 = {
+		holder = 3351
+	}
+}
+#포항
+k_pohang = {
+	2100.1.1 = {
+		change_development_level = 4
+	}
+    2399.1.1 = {
+	    holder = 3301
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_intrigue
+				}
+			}
+		}
+	}
+}
+d_pohang = {
+    2443.1.1 = {
+	    holder = 3301
+	}
+}
+c_pohang = {
+	2100.1.1 = {
+		change_development_level = 16
+	}
+    2443.1.1 = {
+	    holder = 3301
+	}
+}
+c_guryongpo = {
+	2100.1.1 = {
+		change_development_level = 10
+	}
+    2443.1.1 = {
+	    holder = 3301
+	}
+}
+c_gampo = {
+	2100.1.1 = {
+		change_development_level = 9
+	}
+    2443.1.1 = {
+	    holder = 3301
+	}
+}
+c_heunghae  = {
+	2100.1.1 = {
+		change_development_level = 11
+	}
+    2443.1.1 = {
+	    liege = k_pohang
+	    holder = 3302
+	}
+}
+c_gigye = {
+    2443.1.1 = {
+	    liege = k_pohang 
+	    holder = 3302
+	}
+}
+
+d_ulsan = {
+	2100.1.1 = {
+		change_development_level = 10
+	}
+    2443.1.1 = {
+	    liege = k_pohang
+	    holder = 3304
+	}
+}
+c_ulsan = {
+	2100.1.1 = {
+		change_development_level = 14
+	}
+    2443.1.1 = {
+	    liege = k_pohang
+	    holder = 3304
+	}
+}
+c_ulju = {
+    2443.1.1 = {
+	    liege = k_pohang
+	    holder = 3304
+	}
+}
+d_uljin = {
+    2443.1.1 = {
+	    liege = k_pohang
+	    holder = 3305
+	}
+}
+#불국토
+k_gyeongju = {
+	2100.1.1 = {
+		change_development_level = 4
+	}
+    2443.1.1 = {
+	    holder = 3706
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_intrigue
+				}
+			}
+		}
+	}
+}
+d_gyeongju = {
+	2100.1.1 = {
+		change_development_level = 6
+	}
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+c_changnyeong = {
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+c_yeongsan = {
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+c_gyeongju = {
+	2100.1.1 = {
+		change_development_level = 15
+	}
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+c_eonyang = {
+	2100.1.1 = {
+	change_development_level = 7
+	}
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+c_angang = {
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+c_geoncheon = {
+    2443.1.1 = {
+	    holder = 3706
+	}
+}
+d_yeongcheon = {
+	2100.1.1 = {
+	change_development_level = 5
+	}
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3707
+	}
+}
+c_yeongcheon = {
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3707
+	}
+}
+c_imgo = {
+    2443.1.1 = {
+	    liege = d_yeongcheon
+	    holder = 3708
+	}
+}
+c_cheongtong = {
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3707
+	}
+}
+c_hayang = {
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3707
+	}
+}
+d_miryang = {
+	2100.1.1 = {
+	change_development_level = 5
+	}
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3709
+	}
+}
+c_miryang = {
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3709
+	}
+}
+c_samryangjin = {
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3709
+	}
+}
+d_gyeongsan = {
+    2443.1.1 = {
+	    liege = k_gyeongju
+	    holder = 3710
+	}
+}
+c_gyeongsan = {
+    2443.1.1 = {
+	    liege = d_gyeongsan
+	    holder = 3710
+	}
+}
+c_hwayang = {
+    2443.1.1 = {
+	    liege = d_gyeongsan
+	    holder = 3710
+	}
+}
+c_hayang = {
+    2443.1.1 = {
+	   liege = d_gyeongsan
+	    holder = 3711
+	}
+}
+c_cheongdo = {
+    2443.1.1 = {
+	    liege = d_gyeongsan
+	    holder = 3712
+	}
+}
+c_jain = {
+    2443.1.1 = {
+	    liege = d_gyeongsan
+	    holder = 3711
+	}
+}
+c_danjang = {
+    2443.1.1 = {
+	    liege = d_miryang
+	    holder = 3713
+	}
+}
+c_ungsang = {
+    2443.1.1 = {
+	    liege = d_miryang
+	    holder = 3714
+	}
+}
+c_yangsan = {
+    2443.1.1 = {
+	    liege = d_miryang
+	    holder = 3715
+	}
+}
+c_yeongsan = {
+    2443.1.1 = {
+	    liege = d_gyeongsan
+	    holder = 3716
+	}
+}
+c_changnyeong = {
+    2443.1.1 = {
+	    liege = d_gyeongsan
+	    holder = 3716
+	}
+}
+
+
+
+c_namhae = {
+	2381.5.1 = {
+		holder = 3401
+	}
+	2417.9.5 = {
+		holder = 3402
+	}
+	2443.9.15 = {
+        holder = 3403
+    }
+}
+
+c_mulgeon = {
+	2398.2.17 = {
+		holder = 3407
+		liege = d_namhae
+	}
+	2440.9.6 = {
+		holder = 3408
+	}
+}
+
+c_changseon = {
+	2399.2.1 = {
+		holder = 3411
+		liege = d_namhae
+	}
+	2440.9.6 = {
+		holder = 3412
+	}
+}

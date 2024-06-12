@@ -6,44 +6,47 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedList;
 
-public class CSVWriter {
+public class BasicTSVWriter {
 
-    private static HashMap<Integer, LinkedList<String>> map = new HashMap<>();
     private static TreeNode[] checker = new TreeNode[4];
     private static boolean empire = false;
     private static int maxProvince = 4500;
-    public static void toCSV(TreeNode node){
+    public static void toBasicTSV(TreeNode node){
 
-        String dir = "data/csv/output.csv";
+
+        HashMap<Integer,LinkedList<String>> map = toSheet(node);
+
+        writeTSVSheet(map);
+        writeCSVSheet(map);
+
+
+    }
+
+    public static void writeTSVSheet(HashMap<Integer,LinkedList<String>> map)
+    {
+        String dir = "data/csv/excel_basic_sheet.tsv";
         File target = new File(dir);
 
-        starter();
-        searchDown(node,-1);
         try {
             if (target.createNewFile()) {
-                System.out.println("output.csv has been created");
+                System.out.println("excel_basic_sheet.tsv has been created");
             } else {
-                System.out.println("output.csv already exists.");
+                System.out.println("excel_basic_sheet.tsv already exists.");
             }
 
-            FileWriter writer = new FileWriter(target,false);
+            FileWriter writer = new FileWriter(target, false);
 
-            int cell_num=map.get(0).size();
+            int cell_num = map.get(0).size();
 
-            for(int i=0;i<=maxProvince;i++)
-            {
-                if(map.containsKey(i))
-                {
-                    for(String inst : map.get(i))
-                    {
+            for (int i = 0; i <= maxProvince; i++) {
+                if (map.containsKey(i)) {
+                    for (String inst : map.get(i)) {
                         writer.write(inst);
-                        writer.write(",");
+                        writer.write("\t");
                     }
                     writer.write("\n");
-                }
-                else
-                {
-                    addBlank(i,cell_num);
+                } else {
+                    addBlank(map, i, cell_num);
                     i--;
 
                 }
@@ -51,17 +54,60 @@ public class CSVWriter {
             }
 
             writer.close();
-            System.out.println("output.csv is now written");
+            System.out.println("excel_basic_sheet.tsv is now written");
+        } catch (IOException e) {
+        throw new RuntimeException(e);
+        }
+    }
 
+    public static void writeCSVSheet(HashMap<Integer,LinkedList<String>> map)
+    {
+        String dir = "data/csv/excel_basic_sheet.csv";
+        File target = new File(dir);
 
+        try {
+            if (target.createNewFile()) {
+                System.out.println("excel_basic_sheet.csv has been created");
+            } else {
+                System.out.println("excel_basic_sheet.csv already exists.");
+            }
+
+            FileWriter writer = new FileWriter(target, false);
+
+            int cell_num = map.get(0).size();
+
+            for (int i = 0; i <= maxProvince; i++) {
+                if (map.containsKey(i)) {
+                    for (String inst : map.get(i)) {
+                        writer.write(inst);
+                        writer.write(",");
+                    }
+                    writer.write("\n");
+                } else {
+                    addBlank(map, i, cell_num);
+                    i--;
+
+                }
+
+            }
+
+            writer.close();
+            System.out.println("excel_basic_sheet.csv is now written");
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
-
     }
 
-    public static void starter()
+    public static HashMap<Integer,LinkedList<String>> toSheet(TreeNode node)
+    {
+        HashMap<Integer, LinkedList<String>> map = new HashMap<>();
+        starter(map);
+        searchDown(map,node,-1);
+
+        return map;
+    }
+
+    public static void starter(HashMap<Integer,LinkedList<String>> map)
     {
         LinkedList<String> start = new LinkedList<>();
         start.add("프로빈스 번호");
@@ -94,7 +140,7 @@ public class CSVWriter {
         map.put(0,start);
     }
 
-    public static void addBlank(int current, int size)
+    public static void addBlank(HashMap<Integer,LinkedList<String>> map,int current, int size)
     {
         LinkedList<String> blank = new LinkedList<>();
         for(int i=0;i<size;i++)
@@ -111,7 +157,7 @@ public class CSVWriter {
         map.put(current,blank);
     }
 
-    public static void searchDown(TreeNode node, int deep){
+    public static void searchDown(HashMap<Integer,LinkedList<String>> map,TreeNode node, int deep){
 
         /*for(int i=0;i<4;i++)
         {
@@ -174,7 +220,7 @@ public class CSVWriter {
                 {
                     empire=false;
                 }
-                searchDown(child,deep+1);
+                searchDown(map,child,deep+1);
                 for(int i=3;i>deep;i--)
                     checker[i]=null;
             }

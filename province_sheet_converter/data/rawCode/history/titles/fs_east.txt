@@ -1,0 +1,207 @@
+﻿# Deokwon
+d_wonsan = {
+	2358.9.20 = {
+		holder = 8901
+		government = theocratic_feudal_government
+	}
+	2419.6.3 = {
+		holder = 8902
+		liege = e_donghae
+	}
+}
+c_wonsan = {
+	2358.9.20 = {
+		holder = 8901
+		change_development_level = 9
+	}
+	2419.6.3 = {
+		holder = 8902
+		liege = e_donghae
+	}
+}
+c_anbyeon = {
+	2358.9.20 = {
+		holder = 8901
+		change_development_level = 7
+	}
+	2419.6.3 = {
+		holder = 8902
+		liege = e_donghae
+	}
+}
+c_muncheon = {
+	2358.9.20 = {
+		holder = 8901
+		change_development_level = 5
+	}
+	2419.6.3 = {
+		holder = 8902
+		liege = e_donghae
+	}
+}
+c_deokwon = {
+	2358.9.20 = {
+		holder = 8901
+		change_development_level = 6
+	}
+	2419.6.3 = {
+		holder = 8902
+		liege = e_donghae
+	}
+}
+# Yeongdong
+d_gangneung = {
+	2389.3.6 = {
+		holder = 1901
+		liege = e_donghae
+		change_development_level = 5
+	}
+	2438.11.19 = {
+		holder = 1902
+	}
+}
+c_gangneung = {
+	2389.3.6 = {
+		holder = 1901
+		change_development_level = 7
+	}
+	2420.1.1 = {
+		liege = e_donghae
+	}
+	2438.11.19 = {
+		holder = 1902
+	}
+}
+c_jumunjin = {
+	2389.3.6 = {
+		holder = 1901
+		liege = e_donghae
+		change_development_level = 4
+	}
+	2438.11.19 = {
+		holder = 1902
+	}
+}
+c_wangsan = {
+	2389.3.6 = {
+		holder = 1901
+		liege = e_donghae
+		change_development_level = 4
+	}
+	2438.11.19 = {
+		holder = 1903
+	}
+}
+c_yangyang = {
+	2398.9.5 = {
+		holder = 1921
+		liege = d_sokcho
+		change_development_level = 3
+	}
+	2417.9.5 = {
+		liege = e_donghae
+	}
+}
+c_s.yangyang = {
+	2398.9.5 = {
+		holder = 1921
+		liege = d_sokcho
+		change_development_level = 3
+	}
+	2417.9.5 = {
+		liege = e_donghae
+	}
+}
+d_sokcho = {
+	2381.8.10 = {
+		holder = 1931
+	}
+	2419.6.6 = {
+		holder = 0
+	}
+}
+c_sokcho = {
+	2419.6.6 = {
+		holder = 1931
+		liege = e_donghae
+		change_development_level = 3
+	}
+}
+c_koseong = {
+	2433.11.7 = {
+		holder = 1936
+		liege = e_donghae
+		change_development_level = 2
+	}
+}
+d_tongcheon = {
+	2381.5.12 = {
+		holder = 1946
+	}
+	2424.2.3 = {
+		holder = 1941
+		liege = e_donghae
+	}
+	2443.9.20 = {
+		holder = 1942
+	}
+}
+c_tongcheon = {
+	2424.2.3 = {
+		holder = 1941
+		liege = e_donghae
+		change_development_level = 3
+	}
+	2443.9.20 = {
+		holder = 1942
+	}
+}
+c_songjeon = {
+	2424.2.3 = {
+		holder = 1941
+		liege = e_donghae
+		change_development_level = 4
+	}
+	2443.9.20 = {
+		holder = 1942
+	}
+}
+c_jangjeon = {
+	2424.2.3 = {
+		holder = 1941
+		liege = e_donghae
+		change_development_level = 3
+	}
+	2425.11.3 = {
+		holder = 1946
+	}
+}
+#eastern_force
+d_donghae = {
+	2385.12.5 = {
+		holder = 1952
+		government = military_government
+	}
+	2441.10.1 = {
+		holder = 1951
+	}
+	
+}
+c_donghae = {
+	2441.10.1 = {
+		holder = 1951
+		change_development_level = 6
+	}
+}
+c_taebaek = {
+	2441.10.1 = {
+		holder = 1951
+		change_development_level = 4
+	}
+}
+c_oesamcheok = {
+	2441.10.1 = {
+		holder = 1951
+		change_development_level = 5
+	}
+}

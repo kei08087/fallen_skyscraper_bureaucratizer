@@ -17,7 +17,7 @@ public class Main {
 
 
         try {
-            LineChuncks = TSVReader.Reader();
+            LineChuncks = TSVReader.BasicSheetReader();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -54,7 +54,8 @@ public class Main {
                     Noder.TreeUpdater(root,LineChuncks);
                     toText.toLandedTitles(root);
                     History.toHistory(root);
-                    CSVWriter.toCSV(root);
+                    BasicTSVWriter.toBasicTSV(root);
+                    HistoryAttributeWriter.HistoryTitleWriter(root);
                     break;
                 case 0:
                     System.out.println("exiting");

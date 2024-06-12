@@ -1,0 +1,526 @@
+﻿d_jeonju = {
+	2282.1.1 = {
+		holder = 4001
+	}
+	2315.1.1 = {
+		holder = 4003
+	}
+	2317.1.1 = {
+		liege = "e_hec"
+	}
+	2351.1.1 = {
+		holder = 4005
+	}
+	2380.1.1 = {
+		holder = 4007
+	}
+	2408.1.1 = {
+		holder = 4009
+	}
+}
+
+
+c_jeonju = {
+    2000.1.1 = { 
+		change_development_level = 23 
+	}
+	2282.1.1 = {
+		holder = 4001
+		liege = "d_jeonju"
+	}
+	2315.1.1 = {
+		holder = 4003
+	}
+	2351.1.1 = {
+		holder = 4005
+	}
+	2380.1.1 = {
+		holder = 4007
+	}
+	2408.1.1 = {
+		holder = 4009
+	}
+}
+
+
+c_wanju = {
+    2000.1.1 = { 
+		change_development_level = 16 
+	}
+	2282.1.1 = {
+		holder = 4001
+		liege = "d_jeonju"
+	}
+	2315.1.1 = {
+		holder = 4003
+	}
+	2351.1.1 = {
+		holder = 4005
+	}
+	2380.1.1 = {
+		holder = 4007
+	}
+	2408.1.1 = {
+		holder = 4009
+	}
+}
+
+
+c_gosan = {
+    2000.1.1 = { 
+		change_development_level = 9 
+	}
+	2282.1.1 = {
+		holder = 4001
+		liege = "d_jeonju"
+	}
+	2315.1.1 = {
+		holder = 4003
+	}
+	2351.1.1 = {
+		holder = 4005
+	}
+	2380.1.1 = {
+		holder = 4007
+	}
+	2408.1.1 = {
+		holder = 4009
+	}
+}
+
+
+c_jinan = {
+    2000.1.1 = { 
+		change_development_level = 7 
+	}
+	2432.1.1 = {
+		holder = 4093
+		liege = "e_hec"
+	}
+	2433.1.1 = {
+		holder = 4095
+	}
+}
+
+
+c_jucheon = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2432.1.1 = {
+		holder = 4111
+		liege = "e_hec"
+	}
+	2441.1.1 = {
+		holder = 4113
+	}
+}
+ 
+
+c_janggye = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2432.1.1 = {
+		holder = 4089
+		liege = "e_hec"
+	}
+}
+
+
+c_jangsu = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2432.1.1 = {
+		holder = 4117
+		liege = "e_hec"
+	}
+}
+
+
+d_namwon = {
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "e_hec"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4055
+	}
+}
+
+
+c_namwon = {
+    2000.1.1 = { 
+		change_development_level = 10 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_namwon"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4055
+	}
+}
+c_bojeol = {
+    2000.1.1 = { 
+		change_development_level = 7 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_namwon"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4055
+	}
+}
+
+c_unbong = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_namwon"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4115
+	}
+}
+
+
+c_geumji = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_namwon"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4119
+	}
+}
+
+
+d_imsil = {
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "e_hec"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4055
+	}
+}
+
+
+c_imsil = {
+    2000.1.1 = { 
+		change_development_level = 7 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_imsil"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4123
+	}
+}
+
+c_gwanchon = {
+    2000.1.1 = { 
+		change_development_level = 7 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_imsil"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4121
+	}
+}
+
+c_unam = {
+    2000.1.1 = { 
+		change_development_level = 7 
+	}
+	2294.1.1 = {
+		holder = 4031
+	}
+	2317.1.1 = {
+		liege = "d_imsil"
+	}
+	2320.1.1 = {
+		holder = 4033
+	}
+	2346.1.1 = {
+		holder = 4035
+	}
+	2362.1.1 = {
+		holder = 4037
+	}
+	2388.1.1 = {
+		holder = 4039
+	}
+	2432.1.1 = {
+		holder = 4121
+	}
+}
+c_donggye = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2294.1.1 = {
+		#holder = 4031
+	}
+	2317.1.1 = {
+		liege = "e_hec"
+	}
+	2320.1.1 = {
+		#holder = 4033
+	}
+	2346.1.1 = {
+		#holder = 4035
+	}
+	2362.1.1 = {
+		#holder = 4037
+	}
+	2388.1.1 = {
+		#holder = 4039
+	}
+	2432.1.1 = {
+		#holder = 4123
+	}
+}
+c_sunchang = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2294.1.1 = {
+		#holder = 4031
+	}
+	2317.1.1 = {
+		liege = "e_hec"
+	}
+	2320.1.1 = {
+		#holder = 4033
+	}
+	2346.1.1 = {
+		#holder = 4035
+	}
+	2362.1.1 = {
+		#holder = 4037
+	}
+	2388.1.1 = {
+		#holder = 4039
+	}
+	2432.1.1 = {
+		#holder = 4123
+	}
+}
+c_gurim = {
+    2000.1.1 = { 
+		change_development_level = 5 
+	}
+	2291.1.1 = {
+		holder = 4019
+		liege = "d_jeongeup"
+	}
+	2330.1.1 = {
+		holder = 4021
+	}
+	2358.1.1 = {
+		holder = 4023
+	}
+	2377.1.1 = {
+		holder = 4025
+	}
+	2414.1.1 = {
+		holder = 4027
+	}
+	2437.1.1 = {
+		holder = 4029
+	}
+}
+
+c_muju = {
+    2000.1.1 = { 
+		change_development_level = 3 
+	}
+	2431.1.1 = {
+		holder = 4991
+	}
+}
+
+b_119 = {
+	2380.1.1 = {
+		holder = 4220
+		government = feudal_government
+	}
+	2409.1.1 = {
+		holder = 4221
+	}
+	2437.1.1 = {
+		holder = 4222
+	}
+}
+b_1045 = {
+	2315.1.1 = {
+		holder = 4209
+		government = feudal_government
+	}
+	2373.1.1 = {
+		holder = 4210
+	}
+	2395.1.1 = {
+		holder = 4213
+	}
+	2418.1.1 = {
+		holder = 4216
+	}
+}
+b_1074 = {
+	2408.1.1 = {
+		holder = 4227
+		government = feudal_government
+	}
+	2419.1.1 = {
+		holder = 4228
+	}
+}
+b_1077 = {
+	2408.1.1 = {
+		holder = 4230
+		government = feudal_government
+	}
+	2439.1.1 = {
+		holder = 4231
+	}
+}
+b_1079 = {
+	2315.1.1 = {
+		holder = 4201
+		government = feudal_government
+	}
+	2327.1.1 = {
+		holder = 4202
+	}
+	2360.1.1 = {
+		holder = 4203
+	}
+	2391.1.1 = {
+		holder = 4205
+	}
+}

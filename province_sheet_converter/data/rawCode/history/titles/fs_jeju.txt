@@ -1,0 +1,139 @@
+﻿k_jeju = {
+	2348.12.11 = {
+		holder = 5904
+	}
+	2390.4.14 = {
+		holder = 0
+	}
+	2439.6.17 = {
+		holder = 5901
+	}
+
+}
+d_jeju = {
+	2390.4.14 = {
+		holder = 5902
+	}
+	2439.6.17 = {
+		holder = 5901
+	}
+
+}
+c_jeju = {
+	 2000.1.1 = { 
+		change_development_level = 4 
+	}
+	2439.6.17 = {
+		holder = 5901
+	}
+}
+c_jocheon = {
+    2000.1.1 = { 
+		change_development_level = 2 
+	}
+	2439.6.17 = {
+		holder = 5901
+	}
+}
+c_pyoseon = {
+    2000.1.1 = { 
+		change_development_level = 2 
+	}
+	2439.6.17 = {
+		holder = 5901
+	}
+}
+c_j_seongsan = {
+    2000.1.1 = { 
+		change_development_level = 1 
+	}
+	2397.1.8 = {
+		holder = 5923
+		liege = d_jeju
+	}
+	2421.5.2 = {
+		holder = 5921
+		liege = d_jeju
+	}
+}
+c_udo = {
+    2000.1.1 = { 
+		change_development_level = 0 
+	}
+	2397.1.8 = {
+		holder = 5923
+		liege = d_jeju
+	}
+	2421.5.2 = {
+		holder = 5921
+	}
+}
+d_seogwipo = {
+	2390.4.14 = {
+		holder = 5903
+	}
+	2427.4.5 = {
+		holder = 5931
+	}
+	2442.4.5 = {
+		liege = k_jeju
+	}
+}
+c_seogwipo = {
+    2000.1.1 = { 
+		change_development_level = 3
+	}
+	2438.12.11 = {
+		holder = 5931
+	}
+}
+c_j_andeok = {
+    2000.1.1 = { 
+		change_development_level = 2 
+	}
+	2438.12.11 = {
+		holder = 5931
+	}
+}
+c_hankyeong = {
+    2000.1.1 = { 
+		change_development_level = 1 
+	}
+	2443.8.7 = {
+		holder = 5941
+		liege = d_jeju
+	}
+}
+c_aewol = {
+    2000.1.1 = { 
+		change_development_level = 2 
+	}
+	2442.12.5 = {
+		holder = 5942
+		liege = d_jeju
+	}
+}
+c_chuja = {
+	2000.1.1 = { 
+		change_development_level = 2 
+	}
+	2344.1.1 = {
+		holder = 5060
+		liege = e_sinan
+	}
+	2364.5.16 = {
+		holder = 5062
+	}
+	2377.12.5 = {
+		holder = 5066
+	}
+	2386.6.1 = {
+		holder = 5067
+	}
+	2399.8.15 = {
+		holder = 5068
+	}
+	2437.7.12 = {
+		holder = 5071
+	}
+}

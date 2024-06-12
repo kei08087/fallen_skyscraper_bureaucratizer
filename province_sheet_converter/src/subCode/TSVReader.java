@@ -7,10 +7,10 @@ import java.util.ArrayList;
 
 public class TSVReader {
 
-    public static ArrayList<String[]> Reader() throws IOException{
+    public static ArrayList<String[]> BasicSheetReader() throws IOException{
         ArrayList<String[]> collections = new ArrayList<>();
 
-        BufferedReader br = new BufferedReader(new FileReader("data/excel_output.tsv"));
+        BufferedReader br = new BufferedReader(new FileReader("data/excel_basic_sheet.tsv"));
 
         String line;
         line = br.readLine();;
@@ -21,7 +21,7 @@ public class TSVReader {
             String[] collect = line.split("\t");
 
 
-            if(collect[2].isEmpty())
+            if(collect[4].isEmpty())
                 continue;
 
             collect[4] = collect[4].replace("\"","").replace(","," ");
@@ -36,4 +36,6 @@ public class TSVReader {
         br.close();
         return collections;
     }
+
+    //public static ArrayList<String[]>
 }

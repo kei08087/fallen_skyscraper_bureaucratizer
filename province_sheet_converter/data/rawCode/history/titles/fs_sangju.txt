@@ -1,0 +1,185 @@
+﻿k_sangju = {
+	2100.1.1 = {
+		change_development_level = 1
+	}
+    2397.8.15 = {
+        holder = 3527
+    }
+	2401.2.3 = {
+        holder = 0
+    }
+}
+d_sangju = {
+    2420.01.01 = {
+        holder = 3902
+    }
+}
+
+c_sangju = {
+	2100.1.1 = {
+		change_development_level = 7
+	}
+    2420.01.01 = {
+        holder = 3902
+    }
+}
+
+c_hamchang = {
+	2100.1.1 = {
+		change_development_level = 3
+	}
+    2420.01.01 = {
+        holder = 3902
+    }
+    2430.01.01 = {
+        holder = 3903
+        liege = 0
+    }
+}
+
+c_cheongri = {
+	2100.1.1 = {
+		change_development_level = 3
+	}
+    2420.01.01 = {
+        holder = 3902
+    }
+}
+
+c_hwaryeong = {
+    2420.01.01 = {
+        holder = 3902
+    }
+    2430.01.01 = {
+        holder = 3904
+        liege = 0
+    }
+}
+
+c_gongseong = {
+    2420.01.01 = {
+        holder = 3902
+    }
+    2430.01.01 = {
+        holder = 3904
+        liege = 0
+    }
+}
+
+d_mungyeong = {
+    2430.01.01 = {
+        holder = 3901
+    }
+}
+
+c_mungyeong = {
+	2100.1.1 = {
+		change_development_level = 2
+	}
+    2430.01.01 = {
+        holder = 3901
+    }
+}
+
+c_jeomchon = {
+	2100.1.1 = {
+		change_development_level = 6
+	}
+    2430.01.01 = {
+        holder = 3901
+    }
+}
+
+c_maseong = {
+    2430.01.01 = {
+        holder = 3901
+    }
+}
+
+c_yongmun = {
+	2100.1.1 = {
+		change_development_level = 2
+	}
+    2400.01.01 = {
+        holder = 3171
+        liege = k_andong
+    }
+    2417.6.1 = {
+        holder = 3172
+    }
+    2435.9.12 = {
+        holder = 3173
+    }
+}
+
+c_yonggung = {
+	2100.1.1 = {
+		change_development_level = 2
+	}
+    2400.01.01 = {
+        holder = 3188
+        liege = k_andong
+    }
+    2402.9.30 = {
+        holder = 3189
+    }
+    2426.7.15 = {
+        holder = 3190
+    }
+}
+
+d_gimcheon = {
+	2100.1.1 = {
+		change_development_level = 3
+	}
+    2430.01.01 = {
+        holder = 3905
+    }
+    2443.8.4 = {
+        holder = 3906 
+    }
+}
+
+c_gimcheon = {
+	2100.1.1 = {
+		change_development_level = 6
+	}
+    2430.01.01 = {
+        holder = 3905
+    }
+    2443.8.4 = {
+        holder = 3906 
+    }
+}
+
+c_geumreung = {
+    2430.01.01 = {
+        holder = 3905
+    }
+    2443.8.4 = {
+        holder = 3907
+        liege = d_gimcheon
+    }
+}
+
+c_gamcheon = {
+    2430.01.01 = {
+        holder = 3905
+    }
+    2443.8.4 = {
+        holder = 3908
+        liege = d_gimcheon
+    }
+}
+
+c_seonsan = {
+	2100.1.1 = {
+		change_development_level = 5
+	}
+    2430.01.01 = {
+        holder = 3905
+    }
+    2443.08.04 = {
+        holder = 3904
+    }
+}

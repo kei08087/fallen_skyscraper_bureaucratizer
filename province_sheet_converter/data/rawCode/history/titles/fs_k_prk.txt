@@ -1,0 +1,374 @@
+﻿k_prk = {
+	2405.5.2 = {
+		holder = 6001
+		government = secular_republic_government
+		change_development_level = 9
+	}
+	2413.5.1 = {
+		holder = 6012
+	}
+	2417.5.1 = {
+		holder = 6013
+	}
+	2418.4.13 = {
+		holder = 6012
+	}
+	2421.5.1 = {
+		holder = 6014
+	}
+	2425.5.1 = {
+		holder = 6015
+	}
+	2428.9.23 = {
+		holder = 6001
+	}
+	2433.8.15 = {
+		holder = 6017
+	}
+	2439.7.12 = {
+		holder = 6018
+	}
+	2441.1.11 = {
+		holder = 6016
+	}
+	2442.6.28 = {
+		holder = 6002
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_administrative
+				}
+			}
+		}
+	}
+}
+d_pyongyang = {
+	2444.1.1 = { 
+		change_development_level = 12 
+	}
+}
+c_pyongyang = {
+	2397.1.1 = {
+		holder = 6003
+	}
+	2405.5.2 = {
+		holder = 6001
+		liege = k_prk
+	}
+	2433.8.15 = {
+		holder = 6002
+	}
+	2444.1.1 = { 
+		change_development_level = 20 
+	}
+}
+c_nakrang = {
+	2405.5.2 = {
+		holder = 6001
+		liege = k_prk
+		change_development_level = 14
+	}
+	2433.8.15 = {
+		holder = 6002
+	}
+}
+c_east_pyongyang = {
+	2405.5.2 = {
+		holder = 6001
+		liege = k_prk
+		change_development_level = 14
+	}
+	2433.8.15 = {
+		holder = 6002
+	}
+}
+c_taedong = {
+	2405.5.2 = {
+		holder = 6008
+		liege = k_prk
+		government = secular_republic_government
+	}
+}
+c_taebo = {
+	2405.5.2 = {
+		holder = 6008
+		liege = k_prk
+		change_development_level = 13
+		government = secular_republic_government
+	}
+}
+c_sangwon = {
+	2405.5.2 = {
+		holder = 6017
+		liege = k_prk
+	}
+	2439.7.12 = {
+		holder = 6023
+		government = secular_republic_government
+	}
+}
+c_junghwa = {
+	2405.5.2 = {
+		holder = 7951
+		liege = k_prk
+	}
+	2430.1.1 = {
+		holder = 6017
+	}
+	2439.7.12 = {
+		holder = 6023
+		government = secular_republic_government
+	}
+}
+c_nampho = {
+	2405.5.2 = {
+		holder = 6015
+		liege = k_prk
+	}
+	2428.9.23 = {
+		holder = 6022
+		government = secular_republic_government
+	}
+	2444.1.1 = { 
+		change_development_level = 14 
+	}
+}
+c_samhwa = {
+	2405.5.2 = {
+		holder = 6015
+		liege = k_prk
+		change_development_level = 10
+		government = secular_republic_government
+	}
+	2428.9.23 = {
+		holder = 6016
+	}
+	2442.6.28 = {
+		holder = 6022
+	}
+}
+c_ryonghwa = {
+	2420.1.1 = {
+		holder = 6045
+	}
+	2432.1.1 = {
+		liege = k_prk
+		government = secular_republic_government
+		holder = 6032
+	}
+}
+c_sukchon = {
+	2420.1.1 = {
+		holder = 6045
+	}
+	2432.1.1 = {
+		liege = k_prk
+		government = secular_republic_government
+		holder = 6032
+	}
+}
+c_phyongwon = {
+	2420.1.1 = {
+		holder = 6045
+	}
+	2430.1.1 = {
+		holder = 6010
+		liege = k_prk
+		government = secular_republic_government
+		change_development_level = 12
+	}
+}
+c_kangdong = {
+	2360.1.1 = {
+		holder = 6012
+	}
+	2405.5.2 = {
+		liege = k_prk
+		government = secular_republic_government
+	}
+	2423.5.1 = {
+		holder = 6019
+		change_development_level = 11
+	}
+}
+c_samsok = {
+	2360.1.1 = {
+		holder = 6012
+	}
+	2405.5.2 = {
+		liege = k_prk
+		government = secular_republic_government
+	}
+	2423.5.1 = {
+		holder = 6019
+		change_development_level = 10
+	}
+}
+c_ryongsong = {
+	2405.5.2 = {
+		liege = k_prk
+		government = secular_republic_government
+	}
+	2418.4.13 = {
+		holder = 6014
+	}
+	2439.5.11 = {
+		holder = 6020
+	}
+	2443.5.4 = {
+		holder = 6021
+		change_development_level = 12
+	}
+}
+d_kangso = {
+	2420.1.1 = {
+		liege = k_prk
+		holder = 6024
+		government = secular_republic_government
+	}
+}
+c_kangso = {
+	2444.1.1 = { 
+		change_development_level = 11 
+	}
+}
+c_ryonggang = {
+	2420.1.1 = {
+		liege = k_prk
+		holder = 6030
+		government = secular_republic_government
+		change_development_level = 10
+	}
+}
+d_anju = {
+	2350.1.1 = {
+		holder = 6013
+	}
+	2413.1.1 = {
+		holder = 6032
+		change_development_level = 10
+	}
+	2418.1.1 = { 
+		liege = k_prk government = secular_republic_government 
+	}
+}
+c_anju = {
+	2444.1.1 = { 
+		change_development_level = 13 
+	}
+}
+c_sunchon = {
+	2411.1.1 = {
+		liege = k_prk
+		holder = 6027
+		change_development_level = 6
+		government = secular_republic_government
+	}
+}
+c_kaechon = {
+	2412.1.1 = {
+		liege = k_prk
+		holder = 6026
+		change_development_level = 6
+		government = secular_republic_government
+	}
+}
+c_joyang = {
+	2411.1.1 = {
+		liege = k_prk
+		holder = 6026
+		change_development_level = 5
+		government = secular_republic_government
+	}
+}
+c_eunsan = {
+	2420.1.1 = {
+		liege = k_prk
+		holder = 6033
+		change_development_level = 4
+		government = secular_republic_government
+	}
+}
+c_jungsan = {
+	2410.1.1 = {
+		liege = k_prk
+		holder = 6029
+		government = secular_republic_government
+	}
+	2430.1.1 = {
+		liege = d_kangso
+	}
+}
+c_sunan = {
+	2410.1.1 = {
+		liege = k_prk
+		holder = 6018
+		government = secular_republic_government
+	}
+	2443.12.3 = {
+		holder = 6040
+	}
+}
+c_joksong = {
+	2415.1.1 = {
+		holder = 6043
+	}
+	2432.1.1 = {
+		liege = k_prk
+		government = secular_republic_government
+		holder = 6025
+	}
+	2443.12.3 = {
+		holder = 6031
+	}
+}
+c_haeun = {
+	2415.1.1 = {
+		holder = 6043
+	}
+	2431.5.1 = {
+		liege = k_prk
+		government = secular_republic_government
+		holder = 6028
+	}
+}
+c_phyongsong = {
+	2410.1.1 = {
+		liege = k_prk
+		holder = 6041
+		government = secular_republic_government
+	}
+	2431.6.13 = {
+		holder = 6042
+	}
+}
+d_hwangju = {
+	2350.1.1 = {
+		holder = 6034
+	}
+	2381.1.21 = {
+		holder = 6035
+	}
+	2402.11.24 = {
+		holder = 6036
+	}
+	2420.1.1 = {
+		liege = k_prk
+		government = secular_republic_government
+	}
+	2436.1.1 = {
+		holder = 6037
+	}
+	2444.1.1 = { 
+		change_development_level = 10 
+	}
+}
+c_hwangju = {
+	2444.1.1 = { 
+	change_development_level = 13 
+}
+}

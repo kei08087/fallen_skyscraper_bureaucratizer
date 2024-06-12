@@ -67,7 +67,11 @@ public class toText {
 
         }
         if(!cur.titleOthers.isEmpty())
-            writer.write(cur.titleOthers);
+            for(String inst : cur.titleOthers)
+            {
+                writer.write(inst);
+                writer.write("\n");
+            }
 
 
 
