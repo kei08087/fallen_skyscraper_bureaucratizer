@@ -37,5 +37,17 @@ public class TSVReader {
         return collections;
     }
 
-    //public static ArrayList<String[]>
+    public static ArrayList<String[]> readHistoryTitle() throws IOException
+    {
+        ArrayList<String[]> chuncks=new ArrayList<>();
+        BufferedReader br = new BufferedReader(new FileReader("data/excel_title_history_sheet.tsv"));
+        String line;
+        while((line = br.readLine())!=null)
+        {
+            String[] collection = line.split("\t");
+            chuncks.add(collection);
+        }
+        return chuncks;
+    }
+
 }

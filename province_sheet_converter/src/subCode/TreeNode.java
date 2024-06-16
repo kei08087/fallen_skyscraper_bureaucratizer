@@ -38,6 +38,7 @@ public class TreeNode extends Node {
     public TreeNode(String name, String color, char tier)
     {
         AttributeNode attribute = new AttributeNode("root",true);
+        AttributeNode.AttributeValueUpdate(attribute,name);
         this.name = name;
         this.color = color;
         this.tier = tier;
@@ -48,6 +49,7 @@ public class TreeNode extends Node {
     public TreeNode(String name, String color, char tier, String eng, String kr)
     {
         AttributeNode attribute = new AttributeNode("root",true);
+        AttributeNode.AttributeValueUpdate(attribute,name);
         this.name = name;
         this.color = color;
         this.tier = tier;

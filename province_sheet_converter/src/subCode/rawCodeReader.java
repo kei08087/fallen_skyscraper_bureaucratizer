@@ -63,6 +63,8 @@ public class rawCodeReader {
                                 if(front=='@')
                                     continue;
                                 if(front=='}')
+                                    cur = cur.parent;
+                                if(front=='#')
                                     continue;
 
 
@@ -84,7 +86,7 @@ public class rawCodeReader {
                                         TreeNode.updateInfo(cur,capital,"capital");
                                         break;
                                     }
-                                    case "definite_form":{
+                                    case "definite_form": case "ruler_uses_title_name": case "no_automatic_claims": case "always_follows_primary_heir": case "destroy_if_invalid_heir": case "landless": case "de_jure_drift_disabled": case "male_names":{
                                         TreeNode.updateInfo(cur,line,"titleOthers");
                                         break;
                                     }
@@ -106,7 +108,7 @@ public class rawCodeReader {
                                         break;
                                     }
                                     default:
-                                    {
+                                    {System.out.println(definer);
                                         if(front=='e')
                                         {
                                             empire = true;
@@ -135,7 +137,7 @@ public class rawCodeReader {
                                         else if(front=='k')
                                         {
                                             if(empire) {
-                                                while (cur.tier != 'e') {
+                                                while (cur.tier!=' '&&cur.tier != 'e') {
                                                     cur = cur.parent;
                                                 }
                                             }
@@ -165,7 +167,8 @@ public class rawCodeReader {
                                         }
                                         else if(front=='d')
                                         {
-                                            while(cur.tier!='k')
+
+                                            while(cur.tier!=' '&&cur.tier!='k')
                                             {
                                                 cur = cur.parent;
                                             }

@@ -2,6 +2,9 @@ package subCode;
 
 import java.io.FileOutputStream;
 import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.Stack;
 
 public class Noder {
     public static TreeNode TreeNoder(ArrayList<String[]> lines)
@@ -205,6 +208,87 @@ public class Noder {
 
 
 
+    }
+
+    public static void TreeNodeTitleHistoryUpdater(TreeNode node, ArrayList<String[]> collections)
+    {
+        Deque<String> orgStack = new LinkedList<>();
+
+        for(String[] lines : collections)
+        {
+            Deque<String> curStack = new LinkedList<>();
+            for(String cells : lines) {
+                if (cells.isEmpty()) {
+                    curStack.add(orgStack.pollFirst());
+                }
+                else
+                {
+                    curStack.add(cells);
+                }
+            }
+            orgStack.clear();
+            orgStack.addAll(curStack);
+            String rootName=curStack.pollFirst();
+            TreeNode root = DFS(node,rootName);
+
+            AttributeNode base=root.titleHistory;
+            String inst;
+            while((inst=curStack.pollFirst())!=null)
+            {
+                boolean found = false;
+                for(AttributeNode child : base.childs)
+                {
+                    if(child.type.equals(inst)||child.value.equals(inst))
+                    {
+                        base = child;
+                        found = true;
+                        break;
+                    }
+                }
+                if(!found) {
+                    if (inst.equals("*")) {
+                        String target = curStack.pollFirst();
+                        String value = curStack.pollFirst();
+
+                        AttributeNode attr = new AttributeNode(target, false);
+                        AttributeNode.AttributeValueUpdate(attr, value);
+                        attr.parent = base;
+                        base.childs.add(attr);
+
+                    } else if (inst.equals("&")) {
+                        String value = curStack.pollFirst();
+
+                        AttributeNode attr = new AttributeNode("laws", false);
+                        AttributeNode.AttributeValueUpdate(attr, value);
+                        attr.parent = base;
+                        base.childs.add(attr);
+                    } else {
+                        switch (inst) {
+                            case "holder":
+                            case "effect":
+                            case "if":
+                            case "limit":
+                            case "succession_laws": {
+                                AttributeNode attr = new AttributeNode(inst, true);
+                                attr.parent = base;
+                                base.childs.add(attr);
+                                base = attr;
+                                break;
+                            }
+                            default: {
+                                AttributeNode attr = new AttributeNode("Date", true);
+                                AttributeNode.AttributeValueUpdate(attr, inst);
+                                attr.parent = base;
+                                base.childs.add(attr);
+                                base = attr;
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+
+        }
     }
 
     public static TreeNode DFS(TreeNode node, String target)
